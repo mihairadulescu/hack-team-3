@@ -11,10 +11,12 @@ namespace corrida.Controllers
 {
     public class SearchController : ApiController
     {
-        public HttpResponseMessage Get()
+        [Route("api/search/{keywords}")]
+        [HttpGet]
+        public HttpResponseMessage Search(string keywords)
         {
             var solrProxy = new SolrProxy();
-            var response = solrProxy.Search("Watermarque");
+            var response = solrProxy.Search(keywords);
 
             return Request.CreateResponse(HttpStatusCode.OK, response);
         }

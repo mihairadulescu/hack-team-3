@@ -3,6 +3,7 @@ using corrida.solr.Models;
 using Microsoft.Practices.ServiceLocation;
 using SolrNet;
 using SolrNet.Commands.Parameters;
+using SolrNet.Mapping.Validation;
 
 namespace corrida.solr
 {
@@ -25,13 +26,17 @@ namespace corrida.solr
         {
             var solr = ServiceLocator.Current.GetInstance<ISolrOperations<Document>>();
 
-            var solrQueryOptions = new QueryOptions
+         /*   var solrQueryOptions = new QueryOptions
             {
-                Rows = 10000,
-                Start = 0
-            };
+                Highlight = new HighlightingParameters()
+                {
+                    Fragsize = 300,
+                    Fields = new List<string> { "content" }
+                }
+               
+            }; */
 
-            var result = solr.Query(SolrQuery.All, solrQueryOptions);
+            var result = solr.Query(new LocalParams { { "type", "dismax" }, { "qf", "title content cat" } } + new SolrQuery(keyword));
             return result;
         }
 

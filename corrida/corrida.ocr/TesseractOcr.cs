@@ -8,25 +8,22 @@ namespace corrida.ocr
 {
     public class TesseractOcr
     {
-        public TesseractResult Process(string file)
+        public TesseractResult Process(string filePath)
         {
             var tessDataPath = @"D:\hackathon\hack-team-3\corrida\corrida\bin\tessdata";
 
             var result = new TesseractResult();
-            using (var engine = new TesseractEngine(tessDataPath, "eng", EngineMode.Default))
+
+            using (TesseractEngine engine = new TesseractEngine(@"./tessdata", "eng", EngineMode.Default))
             {
-                using (var img = Pix.LoadFromFile(file))
+                using (PixArray pages = PixArray.LoadMultiPageTiffFromFile(filePath))
                 {
-                    using (var page = engine.Process(img))
+                    foreach (Pix p in pages)
                     {
-                        var text = page.GetText();
-                        result.Pages.Add(text);
-                        result.MeanConfidence = page.GetMeanConfidence();
-  
-                        using (var iter = page.GetIterator())
+                        using (Page page = engine.Process(p))
                         {
-                            iter.Begin();
-                            while (iter.Next(PageIteratorLevel.Block)) ; 
+                            string text = page.GetText();
+                            result.Pages.Add(text);
                         }
                     }
                 }
