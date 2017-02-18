@@ -23,7 +23,7 @@
   </types>
     
   <fields>
-    <field name="ID" type="int" stored="true" required="true" multiValued="false" /> 
+    <field name="ID" type="uuid" stored="true" required="true" multiValued="false" /> 
     <field name="title" type="text_lower" stored="true" required="false" multiValued="false"/>
     <field name="content" type="text_lower" stored="true" required="false" multiValued="false" />
     <field name="cat" type="text_lower" stored="true" required="false" multiValued="false" /> 
