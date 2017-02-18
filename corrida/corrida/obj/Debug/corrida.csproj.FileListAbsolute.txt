@@ -39,3 +39,43 @@ c:\users\mihai.radulescu\documents\visual studio 2015\Projects\corrida\corrida\b
 c:\users\mihai.radulescu\documents\visual studio 2015\Projects\corrida\corrida\obj\Debug\corrida.csprojResolveAssemblyReference.cache
 c:\users\mihai.radulescu\documents\visual studio 2015\Projects\corrida\corrida\obj\Debug\corrida.dll
 c:\users\mihai.radulescu\documents\visual studio 2015\Projects\corrida\corrida\obj\Debug\corrida.pdb
+D:\hackathon\hack-team-3\corrida\corrida\bin\ApplicationInsights.config
+D:\hackathon\hack-team-3\corrida\corrida\bin\roslyn\csc.exe
+D:\hackathon\hack-team-3\corrida\corrida\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\hackathon\hack-team-3\corrida\corrida\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\hackathon\hack-team-3\corrida\corrida\bin\roslyn\System.Collections.Immutable.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\roslyn\System.Reflection.Metadata.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\roslyn\vbc.exe
+D:\hackathon\hack-team-3\corrida\corrida\bin\roslyn\VBCSCompiler.exe
+D:\hackathon\hack-team-3\corrida\corrida\bin\roslyn\VBCSCompiler.exe.config
+D:\hackathon\hack-team-3\corrida\corrida\bin\corrida.dll.config
+D:\hackathon\hack-team-3\corrida\corrida\bin\corrida.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\corrida.pdb
+D:\hackathon\hack-team-3\corrida\corrida\bin\Microsoft.AI.Agent.Intercept.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\Microsoft.AI.DependencyCollector.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\Microsoft.AI.Web.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\Microsoft.AI.WindowsServer.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\Microsoft.ApplicationInsights.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\Newtonsoft.Json.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\System.Net.Http.Formatting.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\System.Web.Http.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\System.Web.Http.WebHost.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\Microsoft.AI.DependencyCollector.xml
+D:\hackathon\hack-team-3\corrida\corrida\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\hackathon\hack-team-3\corrida\corrida\bin\Microsoft.AI.Web.xml
+D:\hackathon\hack-team-3\corrida\corrida\bin\Microsoft.AI.WindowsServer.xml
+D:\hackathon\hack-team-3\corrida\corrida\bin\Microsoft.ApplicationInsights.xml
+D:\hackathon\hack-team-3\corrida\corrida\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\hackathon\hack-team-3\corrida\corrida\bin\Newtonsoft.Json.xml
+D:\hackathon\hack-team-3\corrida\corrida\bin\System.Net.Http.Formatting.xml
+D:\hackathon\hack-team-3\corrida\corrida\bin\System.Web.Http.xml
+D:\hackathon\hack-team-3\corrida\corrida\bin\System.Web.Http.WebHost.xml
+D:\hackathon\hack-team-3\corrida\corrida\obj\Debug\corrida.dll
+D:\hackathon\hack-team-3\corrida\corrida\obj\Debug\corrida.pdb
