@@ -1,0 +1,17 @@
+.search-result-item {
+    padding: 20px;
+    overflow: hidden;
+    background-color: rgba(91, 91, 91, 0.2);
+    border-bottom: 1px solid white;
+}
+
+
+.search-thumb {
+float:left;
+}
+
+.search-description {
+    float:left;
+    max-width: 80%;
+    padding: 20px;
+}

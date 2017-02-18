@@ -1,0 +1,20 @@
+
+
+.searchbox input[type=text] {
+    width: 40%;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    height: 30px;
+    background: #333;
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+    padding: 30px;
+    border-radius: 10px;
+    opacity: 0.8;
+}
+
+/* When the input field gets focus, change its width to 100% */
+.searchbox input[type=text]:focus {
+    width: 100%;
+}
