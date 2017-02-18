@@ -39,6 +39,8 @@ c:\users\mihai.radulescu\documents\visual studio 2015\Projects\corrida\corrida\b
 c:\users\mihai.radulescu\documents\visual studio 2015\Projects\corrida\corrida\obj\Debug\corrida.csprojResolveAssemblyReference.cache
 c:\users\mihai.radulescu\documents\visual studio 2015\Projects\corrida\corrida\obj\Debug\corrida.dll
 c:\users\mihai.radulescu\documents\visual studio 2015\Projects\corrida\corrida\obj\Debug\corrida.pdb
+D:\hackathon\hack-team-3\corrida\corrida\bin\tessdata\eng.traineddata
+D:\hackathon\hack-team-3\corrida\corrida\bin\tessdata\ron.traineddata
 D:\hackathon\hack-team-3\corrida\corrida\bin\ApplicationInsights.config
 D:\hackathon\hack-team-3\corrida\corrida\bin\roslyn\csc.exe
 D:\hackathon\hack-team-3\corrida\corrida\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -52,9 +54,15 @@ D:\hackathon\hack-team-3\corrida\corrida\bin\roslyn\System.Reflection.Metadata.d
 D:\hackathon\hack-team-3\corrida\corrida\bin\roslyn\vbc.exe
 D:\hackathon\hack-team-3\corrida\corrida\bin\roslyn\VBCSCompiler.exe
 D:\hackathon\hack-team-3\corrida\corrida\bin\roslyn\VBCSCompiler.exe.config
+D:\hackathon\hack-team-3\corrida\corrida\bin\x64\liblept172.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\x64\libtesseract304.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\x86\liblept172.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\x86\libtesseract304.dll
 D:\hackathon\hack-team-3\corrida\corrida\bin\corrida.dll.config
 D:\hackathon\hack-team-3\corrida\corrida\bin\corrida.dll
 D:\hackathon\hack-team-3\corrida\corrida\bin\corrida.pdb
+D:\hackathon\hack-team-3\corrida\corrida\bin\corrida.ocr.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\corrida.solr.dll
 D:\hackathon\hack-team-3\corrida\corrida\bin\Microsoft.AI.Agent.Intercept.dll
 D:\hackathon\hack-team-3\corrida\corrida\bin\Microsoft.AI.DependencyCollector.dll
 D:\hackathon\hack-team-3\corrida\corrida\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -67,6 +75,11 @@ D:\hackathon\hack-team-3\corrida\corrida\bin\Newtonsoft.Json.dll
 D:\hackathon\hack-team-3\corrida\corrida\bin\System.Net.Http.Formatting.dll
 D:\hackathon\hack-team-3\corrida\corrida\bin\System.Web.Http.dll
 D:\hackathon\hack-team-3\corrida\corrida\bin\System.Web.Http.WebHost.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\Tesseract.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\SolrNet.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\Microsoft.Practices.ServiceLocation.dll
+D:\hackathon\hack-team-3\corrida\corrida\bin\corrida.ocr.pdb
+D:\hackathon\hack-team-3\corrida\corrida\bin\corrida.solr.pdb
 D:\hackathon\hack-team-3\corrida\corrida\bin\Microsoft.AI.DependencyCollector.xml
 D:\hackathon\hack-team-3\corrida\corrida\bin\Microsoft.AI.ServerTelemetryChannel.xml
 D:\hackathon\hack-team-3\corrida\corrida\bin\Microsoft.AI.Web.xml
@@ -77,5 +90,11 @@ D:\hackathon\hack-team-3\corrida\corrida\bin\Newtonsoft.Json.xml
 D:\hackathon\hack-team-3\corrida\corrida\bin\System.Net.Http.Formatting.xml
 D:\hackathon\hack-team-3\corrida\corrida\bin\System.Web.Http.xml
 D:\hackathon\hack-team-3\corrida\corrida\bin\System.Web.Http.WebHost.xml
+D:\hackathon\hack-team-3\corrida\corrida\bin\Tesseract.xml
+D:\hackathon\hack-team-3\corrida\corrida\bin\SolrNet.pdb
+D:\hackathon\hack-team-3\corrida\corrida\bin\SolrNet.xml
+D:\hackathon\hack-team-3\corrida\corrida\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\hackathon\hack-team-3\corrida\corrida\bin\Microsoft.Practices.ServiceLocation.xml
+D:\hackathon\hack-team-3\corrida\corrida\obj\Debug\corrida.csprojResolveAssemblyReference.cache
 D:\hackathon\hack-team-3\corrida\corrida\obj\Debug\corrida.dll
 D:\hackathon\hack-team-3\corrida\corrida\obj\Debug\corrida.pdb
