@@ -116,8 +116,9 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <None Include="Properties\PublishProfiles\corrida20170218024104.pubxml" />
     <Content Include="Service References\Application Insights\ConnectedService.json" />
+    <None Include="Properties\PublishProfiles\corrida12312312131 - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\corrida12312312131 - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -131,7 +132,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\SearchController.cs" />
+    <Compile Include="Controllers\DocumentController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="CorridaAwesomeProcessingStuff.cs" />
+    <Compile Include="DocumentRequest.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -142,6 +147,16 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\corrida.ocr\corrida.ocr.csproj">
+      <Project>{6c3e18b1-5377-4fd8-a53b-6067c9b8153b}</Project>
+      <Name>corrida.ocr</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\corrida.solr\corrida.solr.csproj">
+      <Project>{002fa79a-dcf4-47c8-b5a9-798bc706bca1}</Project>
+      <Name>corrida.solr</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
