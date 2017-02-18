@@ -13,9 +13,7 @@ namespace corrida.ocr.test
             TesseractOcr ocr = new TesseractOcr();
 
             string file = @"Files/InvoiceStay_NY.tif";
-            string path = "Files";
-            ocr.Process(file, path);
-
+            ocr.Process(file);
         }
     }
 }
