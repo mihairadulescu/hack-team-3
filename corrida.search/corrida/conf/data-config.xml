@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<dataConfig>
+  <dataSource type="JdbcDataSource" name="SolrDB" driver="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+  	url="jdbc:sqlserver://192.168.1.4;databaseName=stomalink;integratedSecurity=false;UserName=stomalink;Password=Stoma1234;responseBuffering=adaptive"/>  
+	
+  <document>
+   
+    <entity name="doctor" dataSource="SolrDB" onError="skip"
+            query="SELECT  D.* , USR.* ,ADDR.Location.ToString() as Position, ADDR.* FROM Doctor D  INNER JOIN AspNetUsers USR on D.UserId = USR.Id INNER JOIN Addresses ADDR on D.AddressId = ADDR.Id">
+      
+      <field column="ID" name="Id" />
+      <field column="FirstName" name="FirstName" />
+      <field column="LastName" name="LastName" />
+      <field column="ProfilePhoto" name="ProfilePhoto" />
+      <field column="Street" name="Street" />
+      <field column="StreetNumber" name="StreetNumber" />
+      <field column="City" name="City" />
+      <field column="StreetNumber" name="StreetNumber" />
+      <field column="Country" name="Country" />  
+    </entity>
+
+   
+  </document>
+</dataConfig>

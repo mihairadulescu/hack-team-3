@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<schema name="minimalSchema">
+
+  <types>
+    <fieldType name="string" class="solr.StrField"/>
+    <fieldType name="date" class="solr.TrieDateField"/>
+    <fieldType name="uuid" class="solr.UUIDField" indexed="true" />
+    <fieldType name="int" class="solr.TrieIntField" precisionStep="0"/>
+    <fieldType name="boolean" class="solr.BoolField" sortMissingLast="true" omitNorms="true"/>
+    <fieldType name="location" class="solr.SpatialRecursivePrefixTreeFieldType" />
+	<fieldType name="text_lower" class="solr.TextField" positionIncrementGap="100">
+	  <analyzer type="index">
+		<tokenizer class="solr.StandardTokenizerFactory"/>
+		<filter class="solr.LowerCaseFilterFactory"/>
+	  </analyzer>
+	  <analyzer type="query">
+		<tokenizer class="solr.StandardTokenizerFactory"/>
+		<filter class="solr.LowerCaseFilterFactory"/>
+	  </analyzer>
+	</fieldType>
+     
+  </types>
+    
+  <fields>
+    <field name="ID" type="int" stored="true" required="true" multiValued="false" /> 
+    <field name="title" type="text_lower" stored="true" required="false" multiValued="false"/>
+    <field name="content" type="text_lower" stored="true" required="false" multiValued="false" />
+    <field name="cat" type="text_lower" stored="true" required="false" multiValued="false" /> 
+   
+  </fields>
+ 
+
+  <uniqueKey>ID</uniqueKey>
+
+</schema>

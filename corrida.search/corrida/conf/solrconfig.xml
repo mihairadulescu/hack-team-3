@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+
+    <luceneMatchVersion>5.1.0</luceneMatchVersion>
+
+    <lib dir="${solr.install.dir:../../..}/contrib/extraction/lib" regex=".*\.jar" />
+    <lib dir="${solr.install.dir:../../..}/dist/" regex="solr-cell-\d.*\.jar" />
+    <lib dir="${solr.install.dir:../../..}/dist/" regex="solr-dataimporthandler-.*\.jar" />
+
+    <query>
+        <!-- Lazy Field Loading
+
+         If true, stored fields that are not requested will be loaded
+         lazily.  This can result in a significant speed improvement
+         if the usual case is to not load all stored fields,
+         especially if the skipped fields are large compressed text
+         fields.
+    -->
+        <enableLazyFieldLoading>true</enableLazyFieldLoading>
+    </query>
+
+    <requestHandler name="/analysis/field" class="solr.FieldAnalysisRequestHandler" />
+
+    <requestHandler name="/dataimport" class="org.apache.solr.handler.dataimport.DataImportHandler">
+        <lst name="defaults">
+            <str name="config">data-config.xml</str>
+        </lst>
+    </requestHandler>
+
+    <updateHandler class="solr.DirectUpdateHandler2">
+
+        <maxPendingDeletes>10000</maxPendingDeletes>
+
+        <!-- autocommit pending docs if certain criteria are met.  Future versions may expand the available
+     criteria -->
+        <autoCommit>
+            <maxDocs>1000</maxDocs>
+            <!-- maximum uncommited docs before autocommit triggered -->
+            <maxTime>600000</maxTime>
+            <!-- maximum time (in MS) after adding a doc before an autocommit is triggered -->
+            <openSearcher>false</openSearcher>
+            <!-- SOLR 4.0.  Optionally don't open a searcher on hard commit.  This is useful to minimize the size of transaction logs that keep track of uncommitted updates. -->
+        </autoCommit>
+    </updateHandler>
+
+    <requestHandler name="/select" class="solr.SearchHandler">
+          <lst name="defaults">
+       <str name="echoParams">explicit</str>
+       <int name="rows">10</int>
+       <str name="df">text</str>
+     </lst> 
+    </requestHandler>
+
+    <requestHandler name="/query" class="solr.SearchHandler">
+ <lst name="defaults">
+       <str name="echoParams">explicit</str>
+       <str name="wt">json</str>
+       <str name="indent">true</str>
+       <str name="df">text</str>
+     </lst>
+    </requestHandler>
+	
+<updateRequestProcessorChain name="classification"> 
+		<processor class="solr.ClassificationUpdateProcessorFactory">
+			<str name="inputFields">title,content</str> 
+			<str name="classField">cat</str> 
+			<str name="algorithm">bayes</str> 
+			<!-- <str name="knn.k">20</str>  -->
+			<!-- <str name="knn.minTf">1</str>  -->
+			<!-- <str name="knn.minDf">5</str> -->
+		</processor>
+		 <processor class="solr.RunUpdateProcessorFactory"/> 
+	</updateRequestProcessorChain>
+	
+    <requestHandler name="/update" class="solr.UpdateRequestHandler">
+ 
+<lst name="defaults">
+<str name="update.chain">classification</str>
+</lst>
+</requestHandler>
+ 
+     
+</config>
