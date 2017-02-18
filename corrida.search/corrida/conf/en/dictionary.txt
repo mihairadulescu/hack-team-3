@@ -1,0 +1,6674 @@
+temperature sensor
+Power supply AC
+AC
+AC power supply
+float assembly holder
+float assembly
+liquid level sensor assembly
+float switch
+Power supply AC/DC
+AC/DC
+AC/DC power supply
+liquid level sensor
+LLD sensor
+inlet water filter
+water filter
+detergent tube
+presence detector
+presence sensor
+sample rack with stabilizers
+measuring cartridge
+cartridge
+electrode
+fuse compartment cover
+cleaner bottle cap
+cleaner bottle containment
+tubing
+internationalization CD
+internationalization DVD
+internationalisation DVD
+internationalisation CD
+probe bend detector
+initialization plate
+probe test pin
+bend detection block
+pipette calibration reference block
+MSS Module
+MSS
+beeper
+buzzer
+Intermec Barcode Printer
+Intermec Barcode-Printer
+Intermec BC Printer
+Intermec Bar-code Printer
+Intermec Barcode
+Intermec Printer
+reflectance photometer
+liquid waste level sensor connector
+aliquot plate
+archive plate
+compressor
+cobas omni processing tip PT1mL
+cooling unit filter
+radiator filter
+calibrator rack
+calibration rack
+processing pipetter
+cobas omni Specimen Diluent
+cobas® omni specimen diluent
+Input tubes with barcode clips
+input tubes
+input tubing
+cobas omni solid waste bag SWB
+vacuum system
+rack for clotted tips
+clotted tip rack
+tip waste rack
+tip discarding rack
+outer wash position
+MWP
+microwell plate
+Mikrotiterplatte
+amplification plate handler
+Plate Handler A
+cuvette chute
+solid waste station
+consumable waste
+amplification plate AD plate
+AD-plate
+adapter for 180-tip tray
+180-tip tray adapter
+sealing station
+Frame Sealer
+Development Channel Package
+Universal Reagent Carrier Dummy
+Tygon Tubing
+Tygon Tube
+laser aperture
+pipetting stage
+cuvette positioner for sample injection
+tray dock
+reagent transfer head
+Reagent head
+transfer head R2/R3
+collection medium carrier
+gripper arm
+gripper arm L 2
+gripper arm S2
+gripper arm L2
+gripper arm S 2
+sample supply module status indicator
+main display
+control rack
+QC rack
+E-Extension
+E Extension
+pre-wash transfer arm
+amplification plate cassette
+AD-plate cassette
+AD-Cassette
+transfer support
+SCM module
+sample checker module
+SCM
+valve
+sample supply module switch
+photometer PCB
+PCP detect
+detection & control PCB
+coagulation analyzer PCB
+PCB photometer
+tubing clip
+RFID reader/writer
+RFID platform
+reference cuvette basket
+reference post
+teaching post
+cable conduit
+cable channel
+ISE rinse station
+ISE washing station
+ISE wash station
+E-Connection
+E Connection
+weak water waste valve
+main cover
+sportello principale
+vortex mixing station
+probe tubing
+probe chamber
+lower front right panel
+wash rack
+green rack
+washing rack
+reagent storage
+reagent compartment
+reagent warehouse
+reagent storage compartment
+right side panel
+reagent disk
+Reagent Disc
+Reagent rotor
+rotary storage level
+Reagent storage carousel
+Pre-wash sipper
+prewash sipper
+blood unit
+blood bottle
+Pre-wash dispenser
+prewash dispenser
+rack tray
+gateway
+waste drawer
+status light
+status lamp
+signal tower
+signal lamp
+indicator lamp
+signal light
+pre-wash gripper
+prewash gripper
+Floppy drive
+airflow screen
+roller blind
+rollo
+Fitting brush
+Filter paper
+alphanumeric keyboard
+incubator
+lab coat
+DNA Away
+Faraday cage
+Dust box
+Cuff
+Cup Adapter
+sample transfer head
+Transfer_S/Mod_Z
+transfer head S/R1
+TraceDoc
+host
+transfer arm
+transport arm
+Reagent transfer arm
+transfer arm r2/r3
+sample transfer arm
+transfer arm s/r1
+sample arm
+Transfer Sample/Reagent S/R
+Conditioner
+workstation R3
+workstation R2
+workstation B
+workstation A
+workstation R1
+workstation C
+cuvette shaker
+waste chute
+initialization post
+init tower
+initialization tower
+init post
+K-carrier holder and park position
+K-carrier
+K-tubes
+K-tube capper manual
+output rack tray
+K-tips
+cuvette spiral feeder
+K-tube capper automated
+cuvette bowl sensor
+cuvette bowl cover
+cuvette feeder channel
+rotor
+storage rotor
+analyzer rotor
+cuvette ring
+heating ring
+K carrier labels
+RFID antenna
+cuvette conveyor
+cuvette reservoir
+buffer empty sensor
+sensor buffer empty
+CORE-tip
+CORE tip
+ISE dummy electrode assembly
+cobas omni Solid Waste Bag
+cobas® omni solid waste bag SWB
+wash valve
+reset button
+reset switch for auto closing timer
+colorimeter
+archive stacker
+DC power supply
+DC
+power supply DC
+fluid system
+fluidic system
+liquid system
+analytic unit
+analytic cycler
+circuit breaker switch
+dilution rack
+hard disc
+disk
+disc
+hard disk
+main handler
+Stacker Handler
+ISE sample arm
+ISE sample transfer arm
+circuit breaker
+breaker
+mixing syringe
+sample supply module
+Sample Supply
+sample source cell
+rack rubber disk
+gum spacer
+main gripper
+LAN port
+LAN socket
+processing plate magazine
+P Plate Stacker
+cable tie
+binder
+rack conveyor belt
+rack transport
+rack transporter
+tip rack magazine
+Tip Stacker
+tip magazine
+processing modules
+workflow modules
+main modules
+spacer tube
+stop disc
+flow channel
+MGP cassette magazine
+MGP Stacker
+microscope arm
+ISE unit
+CMOS sensor
+component
+reagent cassette magazine
+turbidimeter
+turbimeter
+100-position sample tray
+cobas® PCR Media cap carrier
+cap carrier CPM
+K-carrier rack
+water tubing adapter
+routine line
+routine sample line
+numeric keypad
+twister channel
+tube twister
+sealing film applicator
+K-carrier transporter
+Multiclean Acid Wash
+reagent
+analytic module
+analytical module
+AD Cell
+cobas e pack
+e-pack
+e packs
+e-packs
+refractometer
+detergent container
+detection unit
+Elecsys measuring device
+buffer full sensor
+sensor buffer full
+cuvette discharging position
+reagent cassette
+reagent tray
+rack pack
+reagent pack
+cuvette linear feeder
+quick release pin
+mounting bolt
+centrifuge bucket
+bucket
+status indicator
+LED indicator
+rack indicator LED
+rack slot indicator
+rack indicator
+cassette mixer
+Reagent cassette shaker
+cassette shaker
+cooling unit
+cooling module
+cooling system
+cooling assembly
+water pump
+EWS probe
+Prewash Probe
+Prewash Nozzle
+EWS nozzle
+EWS needle
+dist 4 board
+application code number
+ACN
+drain port
+calibrator
+calib
+Connection Line
+CL
+ISE calibration carrier
+ISE calibration cassette
+Activator
+ISE Activator
+Roche Activator
+measuring channel
+ISE maintenance cassette
+maintenance kit ISE
+ISE maintenance carrier
+ISE maintenance kit
+test strip gripper
+startup kit
+universal connection line
+UCL
+replacement cap
+amplification plate drawer
+AD Output Drawer
+sample
+specimen
+pipetting unit
+pipetting robot
+Robot
+reagent storage elevator
+cuvette rack
+cuvette bar
+rack entry position
+LED ring
+LED array
+rack exit position
+solid waste door
+solid waste hatch
+solid waste flap
+reagent transfer unit
+Transfer R
+input connection unit
+vacuum module
+vacuum unit
+vacuum assy
+Reagent needle teach tool
+barcode
+bar code
+bar-code
+input line
+priority in
+vacuum pump
+reagent storage service door
+QWERTY keyboard
+keyboard drawer
+reagent storage handler
+processing pipettor
+photometer unit
+USRH
+Universal Strip Reader Head
+strip reader
+Magnet Drive Assy
+Magnet Drive Assembly
+Magnet Drive
+autoload unit
+solid waste drawer
+personal protective equipment
+heating station
+driver
+water/liquid waste drawer
+gear pump
+pipetting sequence
+Label sample rack
+Sample rack label
+incubation bath
+reaction bath
+incubator bath
+incubation water
+Microtube tool
+remote data viewer
+LED bar
+microwell plate loader
+cobas omni Amplification Plate
+cobas® omni amplification plate ADP96
+separation station
+sipper syringe
+Sipper Syringe Assy
+slide block
+workflow switch
+instrument deck
+pre-wash syringe
+prewash syringe
+float ball
+cuvette
+micro cuvette
+reaction cell
+mixer propeller holder
+collection medium
+container
+reagent pipetter
+gripper
+output buffer
+rack output area
+internal water container
+internal water reservoir
+center bolt
+center bolt clip
+load button
+reagent loader switch
+loader operation switch
+rack
+sample transport unit
+sample transport module
+reaction disk
+reaction disc
+ecotergent bottle
+hitergent bottle
+control unit
+Central Processing Unit
+computer
+CPU
+overflow bottle
+tip loading mechanism
+tip-feed mechanism
+coated reagent probe
+peak position
+downstream transport line
+rack barcode Label
+Label rack barcode
+magazine drawer
+tHb/SO2 module
+fuse compartment
+fuse chamber
+fuse board
+overflow container
+pump
+Paper/Printer Ribbon
+Printer Ribbon
+Paper Ribbon
+interim reagent storage handler
+volume
+photographic area
+interim reagent storage
+Reagent supply
+output station
+sample output station
+Reagent rack
+core unit
+CU
+core module
+supplies
+resources
+labware
+storage chamber
+MGP cassette shaker
+agitador da cassete com MGP
+MGP Mixer
+MGP cassette mixer
+24-position sample carrier
+Reagent Tip
+RTip
+R-Tip
+32-position sample carrier
+Sample Disk
+Sample Disc
+paper towel
+O-Ring Gripper
+O Ring Gripper
+oring Gripper
+processing plate
+P-plate
+P-plate 48
+Output tubes
+Reagent rack barcode label
+cobas omni amplification plate ADP96
+bottle cap
+fiber-optic light guide
+fiber bundle
+calibrator bottle
+reagent well
+cassette gripper
+calibrator vial
+cap waste box
+5-position rack
+Roche 5-position rack
+RD 5 rack
+standard RD5 position sample rack
+RD 5 CTS rack
+Roche Standard Rack
+Roche/Hitachi 5-position rack
+five-position rack
+Hitachi 5 position standard rack
+5-position standard rack
+RD5 rack
+sensor
+waste tubing adapter
+work area
+display
+screen
+window
+monitor
+reconstitution pump
+rack enhancement
+RFID reader
+RFID sensor
+module work surface
+processing area
+float
+reconstitution pump valve
+cotton swab
+centrifuge bucket adapter
+centrifuge adapter
+RCL
+reformatter connection line
+vacuum sensor
+sample pipetter
+air-pump
+Pipettor Air Pump
+air pump
+airpump
+Turn table
+TUL
+incubator disk
+prewash sipper probe
+tube chuck mechanism
+Thermocycler
+thermal cycler
+test pad
+pad
+Sample rack barcode label
+Tip ejection plate
+tip eject plate
+SurePath™ container
+sample rack
+standard rack
+storage device
+storage medium
+reference cuvette
+dummy cuvette
+check cuvette
+Seal
+Test Module
+RFID tag
+RFID label
+RFID chip
+Sediment Terminal
+thermistor
+AssayCup holder
+multiclean
+product safety label
+Acid Wash
+PreservCyt® container
+Special Cell Cleaning solution
+SCCS
+inner wash position
+hiturgent
+hiturg
+DVD Drive
+single rack slot
+housing
+chassis
+analytic module gate
+cobas c 302 module
+CleanCell reservoir
+clean cell reservoir
+reaction vessel gripper
+vessel gripper
+sampling unit
+cobas 4000 sampling unit
+sampling module
+switch service mode
+service mode switch
+Reagent cassette piercer
+piercer
+cassette piercer
+Assay vortex mixer
+sample rotor
+test strip cassette compartment
+strip cassette compartment
+liquid waste station
+process waste station
+amplification plate transfer position
+AD Transfer position
+processing module gripper
+vacuum pump spring
+coagulation photometer
+gripper finger spring
+spring for gripper finger
+processing module handler
+Plate Handler P
+power unit
+working electrode
+amplification plate gripper
+safety interlock controller
+lock safety module assy
+false bottom tube
+false-bottom tube
+carrier foil
+wash solution
+cleaning solution
+Cleaner
+washing solution
+cleaning substance
+cleaning agent
+absorbent paper
+nylon mesh
+reagent paper
+cobas omni Processing Plate
+cobas® omni processing plate PRP48
+cobas u cuvette
+transfer module handler
+Plate Handler S
+gripper jaw
+output rack slot
+service indicator
+warning lamp
+work area service indicator
+priority rack slot
+STAT slot
+barcode reading station
+bar-code reading station
+reading station
+transfer module gripper
+airflow screen upper cover
+cuvette transport unit
+cuvette transfer system
+cuvette transfer unit
+loading lane
+RFM lane
+RD5-in
+input rack sLot
+PC cup
+ProCell reservoir
+ProCell cup
+PC reservoir
+pro cell reservoir
+Workstation Prewash
+pre-wash station
+SysClean reservoir
+sys clean reservoir
+rack sLot sensor
+amplification plate
+AD-plate 96
+rack sLot lock
+stacker
+tubing pump
+sipper
+sipper station
+workstation sipper
+external storage device
+portable storage medium
+external storage medium
+portable storage device
+amplification plate frame
+ADPF96
+hand-held barcode reader
+handheld barcode scanner
+hand-held bar code reader
+hand-held bar-code reader
+hand-held barcode scanner
+hand-held barcode-scanner
+hand-held bar-code scanner
+hand-held bar code scanner
+hand-held barcode-reader
+control mini rack
+RMC rack
+RMC mini rack
+waste insert
+WI48
+drive belt
+cuvette reservoir sensor
+sipper spring
+spring for sipper nozzle
+spring for sipper probe
+spring for sipper needle
+gel separator tube
+gel-type tube
+conveyour belt
+cuvette conveyor belt
+USM
+USM assy
+ultrasonic
+USM assembly
+ultrasonic mixer
+test strip tray
+transfer base
+test strip transfer base
+strip tray
+arm
+carrier
+Gripper Carrier
+Z Carrier assy
+carrier assembly
+shield pipe
+pressure gauge
+vacuum nozzle
+BRF module
+RFM module for cobas 8000/p501/p701 B-gate
+RFM-B
+test strip
+chemical reagent strip
+spring holder
+Sample Stopper Unit
+SSU
+Restopper Module
+re-stopper module
+RSP
+cobas c pack
+URC I
+x motor
+xmotor
+x-motor
+secondary tube
+pool tube
+pooler tube
+pooling tube
+secondary sample tube
+ISE flow path
+sample flow path
+measuring flow path
+reagent flow path
+laser transmitter
+air conditioner
+a/c
+Remote Connectivity Device
+lab gloves
+latex gloves
+disposable gloves
+protective gloves
+z motor
+zmotor
+z-motor
+float assembly rod
+cooling position
+cooler
+reagent needle park position
+parameter card
+value card
+assay value card
+transfer head
+refrigerator
+fridge
+rack transport rail
+bottle cap holder
+X-guide shaft
+MGP cassette
+casete con partículas de vidrio magnéticas
+cassete com MGP
+cassetta per biglie di vetro magnetiche
+loading drawer
+archive rack
+storage rack
+light barrier holder
+holder for light barrier
+Photo Interruptor holder
+Photo Sensor holder
+light sensor holder
+Reflectance Ligh Barrier holder
+PM sensor holder
+holder for light sensor
+Photosensor holder
+fork ligth barrier holder
+network cable
+ethernet cable
+LAN cable
+UPS
+SAI
+ASC
+unterbrechungsfreie Stromversorgung
+uninterruptible power supply
+uninterrupted power supply
+gruppo di continuità
+fonte de alimentação ininterrupta
+Sample Cup Micro 13/16
+cobas omni Pipette Tips
+cobas® omni tip rack CTR48
+test strip cassette
+cassette box
+mains cable
+power cable
+mains power cable
+PCB fuse
+fuse PCB
+wash reagent drawer
+press piece
+processing transfer head
+Process Head
+pump head
+TLJ line
+JCT line
+transport line with junction
+processing transfer unit
+Transfer P
+rack rotor
+test strip transporter drive
+test strip transporter disc drive
+autoload tray
+loading deck
+auto load tray
+mains connector
+IEC connector
+mains power socket
+waste tray
+reference cuvette box
+cooling box cover
+tube scanner
+inlet air fan
+pipetting tip gripper
+concentrated liquid waste container
+concentrated waste tank
+concentrated waste reservoir
+liquid waste drawer
+microbead mixer paddle
+mixer arm
+tip tray base
+tray base
+tip rack park position
+tip park position
+process park
+lysis reagent bottle
+primary tube
+primary sample tube
+solid waste bag fastener
+CRO module
+CR1 module
+connection unit type R2
+Connection Line Type R without Power Unit
+air duct
+air channel
+bottom slide plate
+WasteLine
+cassette rail
+insertion guide
+tube handler
+robotic hand
+robot hand
+waste stacker
+reaction cell rinse nozzles
+cover
+hood
+STAT port
+STAT sample entry port
+cuvette cassette
+cuvette holder box
+spring
+target carrier
+output carrier
+motor up-down
+motor up/down
+motor up down
+overflow area
+amplification plate magazine
+AD Stacker
+IG server
+Instrument Gateway
+Instrument Gateway Server
+tube gripper
+gantry gripper
+robotic gripper
+memory card
+smart card
+gripper finger
+robotic finger
+PCB assembly
+PCB assy
+circuit board
+PCB
+circuit board assembly
+eye protection
+safety glasses
+safety goggles
+protective goggles
+protective glasses
+wash/waste drawer
+Wash Waste Drawer
+rack area
+linear incubator
+coagulation incubator
+bypass line
+tube holder
+down holder
+bulk drawer
+bulk Reagent drawer
+cobas® PCR Media tube
+cobas PCR Media tube
+Magnet Plate
+50-position sample tray
+tube rotator
+Light Pole Notifier
+Pole notification
+Light notification
+Metrologic Barcode Scanner
+Metrologic Scanner
+Metrologic Barcode-Scanner
+Metrologic BC Scanner
+Metrologic Bar-code Scanner
+Metrologic Bar code Scanner
+monochromators
+control unit panel
+Panel Control Unit
+Output Buffer Module
+OPB
+OBM
+Moxa Box
+M Box
+cobas u calibration strip
+heater/shaker unit
+PMT
+photomultiplier tube
+photo multiplier
+photomultiplier
+USB mouse
+ECL measuring cell
+Hitachi measuring cell
+HHT measuring cell
+HHT measurement cell
+connection component
+CLAS 3
+ECL reference electrode
+reference electrode
+ISE Calibrator indirect/urine tubing adapter
+ISE calibrator tubing adapter
+tubing adapter
+reagent syringe
+Spanner
+SnapPak
+snappack
+snap pack
+Sample Cup Micro
+micro cup
+HHT Sample Cup Micro
+Hitachi micro cup
+microcup
+S3 fluid pack
+AssayTip tray
+assay tip tray
+assay-tip tray
+AssayTip-Tray
+CLO module
+connection unit type L2
+CL2 module
+S2 fluid pack
+S1 rinse solution
+Deproteinizer
+cuvette rail
+cuvette guide rail
+degasser
+degassing module
+degasser module
+degasser unit
+degassing device
+Reagent cassette cap
+air bleed valve
+degasser valve
+cup on tube
+cup-on-tube
+sample syringe
+ISE reference solution bottle
+cuvette holder
+centrifuge motor
+detergent
+solution
+Cell washing solution
+cell cleaning detergent
+cell washing detergent
+cell cleaning solution
+swab
+q-tip
+panel
+content panel
+centrifuge cover handle
+drip tray
+splash guard
+drip saucer
+centrifuge cover
+Sample Cup
+HHT Sample Cup
+standard cup
+Hitachi standard cup
+Hitachi cup
+injector hole
+SPU rack
+microscope lamp
+cup
+Cup/Tip
+power supply
+power box
+PS
+power supply fan
+fan power supply
+surfactant
+reagent needle holder
+rack platform
+rack plate
+internal PC
+internal control unit
+IPC
+industrial PC
+integrated PC
+analyzer computer
+cassette compartment door
+USB port
+USB-Port
+USB slot
+USB interface
+cap
+touch screen monitor
+spatula
+RFX module
+RFM for Sysmex XN B-gate
+centrifuge chamber
+flow path
+centrifuge arm
+Check solution
+touch screen
+touchscreen
+probe
+z probes
+pipettor probe
+nozzle
+pipetter probe
+needle
+cassette compartment shutter
+pipet
+transfer device
+pipettor
+pipette
+PreClean
+pre-clean
+PreClean M
+pre clean bottle
+pre clean
+PreClean bottle
+disposable drawer
+Consumable drawer
+fluidics drawer
+Consumable storage drawer
+Process Cell Drawer
+gear head
+water bath
+NaOH tubing
+AssayCup tray
+assay cup tray
+assay-cup tray
+AssayCup-Tray
+reaction vessel tray
+slider
+slide bar
+stop hook
+installation CD
+instrument software
+system software
+software install CD
+valve block
+solenoid valve block
+solenoid valve body
+valve body
+EM valve block
+MV valve block
+EM valve body
+MV valve body
+O-Ring
+oring
+o ring
+packing
+sealing
+foot plate
+maintenance kit
+preventive maintenenace kit
+PM kit
+service kit
+diaphragm for vacuum pump
+diaphragm
+membrane for vacuum pump
+touch pen
+pen
+air filter
+filter for fan
+fan filter
+Hepa Filter
+measuring cell tubing
+Tubing Cell
+Cell Tube
+cell tubing
+diluent bottle
+sample rack elevator
+cap opener
+reagent cap mechanism
+automatic e-pack cap opener/closer
+reagent cap open/close mechanism
+destopper
+capper
+decapper
+QC cooling box
+auto QC buffer
+recapper
+restopper
+microscope
+microscope stage
+water level sensor connector
+microscope unit
+Archiving Cap
+flexible cap
+PreservCyt cap carrier
+SurePath™ cap carrier
+cap carrier Sp
+cobas PCR Media cap carrier
+test strip transporter
+comb
+turntable unit
+TUS
+movable test strip reader
+transport line
+TL
+illumination tube
+lightling tube
+CLAS 2 connection line
+CL2
+detection tube
+test strip transport unit
+tubing guide
+teach tool
+R-tip Teach Tool
+cap tray cover
+cap tray lid
+sample buffer unit
+SBU
+diluent
+dil
+ProCell
+pro-cell
+system buffer
+pro cell
+pro cell bottle
+ProCell M
+ProCell bottle
+PC
+LLD bath sensor
+CleanCell
+CleanCell bottle
+clean-cell
+CC
+CleanCell M
+clean cell
+clean cell bottle
+SysClean
+sys clean
+sys-clean
+Water Supply Unit
+Watersupply unit
+Watersupply
+Water supply
+ProbeWash
+ProbeWash M
+ProbeWash bottle
+cell rinse unit
+rinse unit
+pippeting tip tray
+pipetting tip tray
+processing tip
+P-tip 1 mL
+reaction vessel
+reaction cup
+Waste Bag with drawstring
+consumable loading area
+consumable loading
+eluate tip
+E-tip 0.3 mL
+AssayTip
+assay-tip
+assay tip
+ECL flow path
+liquid flow path
+Wasteliner with drawstring
+sealing station drawer
+consumable drawer cover
+Xenon lamp
+Extraction plate 1.6ml
+tip rack carrier
+Tip-Rack-Carrier
+tip carrier
+tip magazine carrier
+reagent aspiration arm park position
+drip catcher position
+return line
+sample carrier
+AssayCup
+assay-cup
+assay cup
+pipette tip
+ponta de pipetagem
+pipetting tip
+error carrier
+sample area separation wall
+transfer position
+Park Position
+handover position
+stationary carrier
+plate carrier
+intermediate plate
+reagent reservoir carrier
+tip loader
+Tip-Loader
+Tiploader
+reagent needle tubing guide
+reagent carrier
+LED source
+light source
+cuvette cover cpl
+cuvette bar counter weight
+reaction chamber
+cap piercing
+stirrer
+magnetic stirring bar
+reagent stirrer
+magnetic stirrer
+library plate
+syringe holder
+probe safety ring
+probe safety guard
+CRW module
+connection unit type R1
+CR2 module
+Connection Line Type R with Power Unit
+reagent elevator
+lift cage
+jam clearing rod
+ISE sample sensor
+ISE liquid sensor
+ISE fluid sensor
+Conseco
+condenser
+conical bottom tube
+ISE mixing tower
+mixing tower
+ISE tower
+ISE
+ISE mixing tower socket
+socket mixing tower
+ISE overflow collector
+centrifuge unit
+centrifuge
+inner wash pump
+ISE pump tubing
+ISE peristaltic pump tubing
+rack transport unit
+Rack moving unit
+Tube set ISE
+ISE unit tubing
+ISE tubing
+ISE-Module Tubing
+EcoTergent
+ECO-D
+WasteLiner
+COBAS INTEGRA cassette
+shutter
+peristaltic pump
+rack rail
+reagent bottle
+loading port
+loader slot
+fuse
+transfer & pipetting unit
+transfer unit
+transfer
+module sample buffer
+internal buffer
+MSB
+Control Module
+external water supply connection kit
+external water supply
+pre-wash probe
+squeezer
+Control Line Unit
+CTU
+sample transfer unit
+sample tube
+reporter dye
+single-sample holder
+single tube carrier
+single-tube holder
+reference plate
+reference pad
+internal reference field
+calibration pad
+overflow collector
+cervical brush
+cervex brush
+brush
+cervical examination brush
+outer wash pump
+ISE peristaltic pump
+ISE pump
+ISE Pump Peristaltic
+sealing foil
+liquid waste connector
+water connector
+Chemstrip 10 UA
+Chemstrip 10 MD
+tube clamp
+stack bracket
+water trap
+guiding pin
+flexible size tray
+flex tray
+waste chute flap
+lamp
+measuring cell
+detection cell
+measurement cell
+flow cell
+physical measuring cell
+PMC
+autoloader
+reagent loader
+Reagent manager
+RMr
+branch block
+Cleaner bottle
+conveyor line
+rack filter
+safety interlock switch
+sipper probe
+sipper needle
+sipper nozzle
+optical reader
+CLW module
+CL1 module
+connection unit type L1
+Reagent area cover
+Reagent cover
+Blood Gas Module
+BG
+paddle rotation tool
+PCB housing
+PCB rack
+Automatic QC Module
+Automatic Quality Control
+Auto Quality Control
+AQC Module
+QC Module
+AQC
+autoqc
+auto qc
+disposable pipette
+plastic pipette
+transfer pipette
+centrifuge bucket adapter handler
+Cassette Cap Remover
+Extraction plate 2ml
+mixing ball
+Bottle Compartment
+anti-static brush
+anti static brush
+antistatic brush
+barcode card
+bar-code card
+wash weel drive
+arm cover
+cobas omni eluate tip ET0.3mL
+barcode wand
+barcode-wand
+bar-code wand
+bar code wand
+EZ One Shot
+10-position rack
+Sysmex rack
+keyboard
+keypad
+ISE Check
+ISE Check Low
+ISE Check High
+rack tray locking mechanism
+tray locker
+Aliquot tip
+system reagent
+system solution
+auxiliary rgts
+aux reagent
+aux rgt
+aux
+detergenz
+aux rgts
+auxiliary rgt
+Auxiliary Reagent
+calibration strip
+calibrator strip
+grey strip
+Capillary Tube
+microsampler
+strip handling unit
+bushing
+fuse replacement tool
+linked kit
+combo kit
+MultiFlow kit
+cobas omni processing plate PRP48
+UCU module
+Universal Connection Unit
+cobas PCR Media
+cobas® PCR Cell Collection Media container
+installation tools
+cross wiring
+accessory
+error sample lane
+error lane
+Waste Box Carton
+emergency stop button
+robotic stop button
+service mode swith
+flat bottom tube
+PC tower
+magazine gripper
+magazine lifter
+mouse
+Tool Optical Verification Cassette
+Tool Analytic Cycler Calibration Cassette
+sealing film
+barcode label roll
+scanner
+gap adjustment turntable
+pitch exchange turntable
+URF module
+RFM for cobas 6000/Stago A-gate
+Valve vacuum pump
+valve membrane
+Phillips Screw Driver
+screw driver
+tubing connector
+tube joint
+tube connector
+lower rear panel
+plunger
+pipette unit syringe plunger
+syringe plunger
+badge
+syringe seal
+seal piece
+pipette seal
+Adapter for COBAS cups
+aluminum adapter for COBAS cups
+Reagent compartment cover
+ISE bottle weight sensor
+Sensor ISE Ref./Cal
+safety guard
+upper rear panel
+ISE waste pump valve
+ISE waste pump
+fluid waste pump
+solid waste box
+SLL line
+transport line type L
+Simple L Line Type L
+IG server set
+IG-Server-Set
+cap tray insert
+cap blister insert
+safety interlock
+safety lock
+SysClean reservoir holder
+ISE reference electrode
+ISE reference cartridge
+error output line
+error out
+aliquot line
+aliquot tube line
+iSWAP
+I-Swap
+reagent cassette park position
+wash reagent container
+upstream transport line
+suction valve
+cobas omni Secondary Tubes 13x75
+cobas® omni secondary tubes 13x75
+fuse holder
+SUI
+Software-Update-Installer
+program update
+software update installer
+syringe plunger tip
+plunger tip
+STAT port lane
+STAT loading lane
+cobas® PCR Swab
+wash pump
+control cassette
+RMC cassette
+tip tray
+cobas omni tip rack CTR48
+Tip-Rack
+Combo-tip Rack 48
+tip rack
+seal cap pipette
+syringe seal cap
+seal cap
+pipette seal cap
+cuvette detection laser
+cuvette feeder laser
+lint-free cloth
+lint-free towel
+lint-free gauze
+lint free cloth
+lint free gauze
+lint free towel
+pinch valve
+external liquid waste container
+pinch valve cap
+valve cap
+cap valve
+clamp valve
+pinch valve clamp
+module separation wall
+pexiglas surface
+plexiglas surface
+cuvette bowl drive
+cuvette bowl
+cuvette conveyor drive
+liquid waste container
+fluid waste container
+internal liquid waste container
+internal waste tank
+reagent needle
+reagent nozzle
+Reagent Pipettor
+Reagent Pipettor Probe
+reagent probe
+Automatic Centrifuge Buffer
+ACUB
+reagent pad
+Xenon Bulb
+differential keyboard
+meter keyboard
+DWP
+deepwell plate
+deep-well plate
+DWP Plate
+extraction plate
+extraction DWP Plate
+amplification plate park position
+AD park position
+200 mL reagent reservoir carrier
+sample probe
+sample needle
+sample pipettor
+sample nozzle
+50 mL reagent reservoir carrier
+PreservCyt carrier
+PreservCyt-Carrier
+error sample tray
+error tray
+source carrier
+original carrier
+input station
+sample input station
+laundry kit
+aliquot station
+sample aliquoting station
+aliquoting station
+sample aliquot station
+on/off switch
+power button
+power switch
+mains switch
+power ON/OFF switch
+main switch
+Automatic Centrifuge Module
+ACU
+input buffer
+tray input
+rack input area
+rack transport pin
+sipper turntable
+reservoir turret
+carousel
+IPB module
+input buffer module
+IBM
+rack handler
+sliding fork
+Sample_IO RD5-Rack Handler
+air ionizer
+transport wheel
+foot
+reagent aspiration arm
+analyzer unit cover
+waste dispense cap
+dispensation socket
+aspiration socket
+waste arm
+waste spout
+Test Strip Transfer
+cap carrier PC
+PreservCyt® cap carrier
+solid waste bag
+waste bag
+plastic bag
+SPU
+Sample Processing Unit
+SurePath™ carrier
+SurePath™-Carrier
+ISE reference solution tubing adapter
+IS tubing adapter
+ACU module
+automatic centrifuge unit
+photometer
+optical measuring cell
+photometer assy
+spring guide
+heat cut filter
+filter photometer
+optical filter
+photometer filter
+syringe
+silicone tubing
+silicone rubber tubing
+Silicone Rubber Tube
+rubber tubing
+rubber tube
+screw
+storage container
+mixing paddle
+stirring rod
+mixer paddle
+ISE calibrator bottle
+ISE Calibrator indirect/urine bottle
+titanium needle
+clean cell needle
+CleanCell needle
+needle for auxillary reagents
+ProCell needle
+sample buffer tube
+sample buffer tubing
+sample buffer vial
+sipper tubing
+Tubing Sipper
+sipper tube
+cell cover
+tube height sensor
+tube height detector
+cell detergent
+movable platform
+water container
+water supply tank
+system water container
+water reservoir
+reservoir
+damper
+incubator block
+OBS module
+output buffer/sorter
+cap tray
+cap blister
+SLR line
+Simple L Line Type R
+transport line type R
+Quality Control
+QC
+Roche control
+control
+stopper cap
+propeller blades
+bead mixer propeller
+Microparticle mixer propeller
+propeller plates
+microbead mixer propeller
+cap carrier
+microbead mixer
+beads mixer
+bead mixer
+Microparticle mixer
+cable chain
+incubator heating
+processing module
+Process Cell
+Reagent boat
+cobas omni Training Kit
+cervical broom
+overflow liquid level sensor
+TraceDocViewer
+transfer module
+Sample Cell
+reformatter module
+RFM module
+collection device
+cuvette drawer
+service door
+fixed size tray
+cuvette conveyor cover
+cuvette cover
+cuvette area cover
+waste pump
+cobas PCR Cell Collection Media
+PCR Cell Collection Media
+PCR Collection Media
+quencher dye
+DSP module
+destopper module
+DSP
+round bottom tube
+round bottom base
+round-bottom tube
+round bottomed tube
+BCL printer
+bar code labeler
+BCL module
+Barcode Label Module
+barcode labeler/tube feeder
+barcode labeler
+bar-code labeler
+light barrier
+Reflectance Ligh Barrier
+PM sensor
+Photosensor
+fork ligth barrier
+Photo Sensor
+light sensor
+Photo Interruptor
+protection tape
+RSS module
+restopper screw-cap module
+AssayTip/AssayCup tray
+CombiRack
+MultiRack
+AOB module
+add-on/output buffer
+work area light
+AQM module
+aliquot module
+AQM
+aliquoter module
+aliquoting module
+pinch tubing
+pinch valve tubing
+pinch tube
+pinch valve tube
+empty holder line
+RSF module
+restopper flex-cap module
+caster
+dust filter
+ventilation inlet filter
+air inlet filter
+decapper/recapper module
+de-/re-capper module
+shutter solenoid
+monitor arm rail
+vacuum tank
+screw cap
+Reagent drawer
+input/output Reagent drawer
+e-Pack drawer
+cassette drawer
+Reagent cassette drawer
+monitor cable chain
+solid waste container
+waste box
+waste tank
+waste bin
+waste reservoir
+waste container
+camera
+bellows drive screw
+PreservCyt container
+centrifuge EC2
+EC2
+EC 2
+bulk loader module
+Bulkloader
+bulk loader
+BLM
+hinge kit
+hinge set
+Hinge Assy
+hinge
+centrifuge EC1
+EC1
+EC 1
+bellows head
+ISE probe
+probe ISE
+needle ISE
+ISE nozzle
+ISE needle
+nozzle ISE
+rack pusher
+rack receive
+rack forward
+bellows drive
+cassette guide
+barcode reader
+barcode scanner
+barcode-reader
+bar code reader
+barcode-scanner
+bar code scanner
+bar-code scanner
+bar-code reader
+USB flash drive
+thumb drive
+USB Stick
+USB memory stick
+USB device
+multiwell plate
+spare part
+replacement part
+strip moving unit
+rack transport wheel
+stepper wheel
+rinse station
+wash station
+washing station
+wash tower
+pump assembly
+pump assy
+PXT module
+power extension unit
+PCT unit
+syringe assembly
+syringe assy
+test strip pusher
+Vacuum Container
+protective cover
+protective pad
+Backup/storage media
+DVD
+DVD+/-R
+floppy
+zip disk
+FD
+CD
+Floppy Disk
+CD+/-R
+DVD+/-RAM
+DVD RAM
+probe cover
+nozzle cover
+needle cover
+Cover Sipper Nozzle
+Cover Sipper Needle
+interlock tool
+interlock key
+rack conveyor
+rinse tubing
+rinse tubing set
+rinse tube set
+rinse tube
+probe holder
+fluid unit
+fluid module
+oil dropper bottle
+oil bottle
+dropping bottle
+monitor arm
+transfer rail
+FPC Cable
+Cable Sample Pipettor
+Ribbon Cable
+FPC cord
+Sample Pipettor cable
+PreservCyt® carrier
+PreservCyt®-Carrier
+reagent cassette drawer cover
+snap ring
+wash reagent reservoir
+cobas PCR Cell Collection Media container
+photometer window
+stepper motor
+Step Motor
+cobas u pack
+solenoid
+photo coupler
+wire
+Flexible Sample Sorter
+FSS
+Reagent cassette handler
+casette handler
+target container
+target rack
+cuvette cassette compartment
+SysClean bottle
+barcode label
+multi rack insert
+multi rack FFF
+barcode sticker
+barcodelabel
+bar-code label
+counter electrode
+Cuvette buffer track
+Buffer track
+Cuvette buffer
+Cuvette track
+probe tip
+nozzle tip
+needle tip
+concical bottom micro tube with screw cap
+Eppendorf cup
+system unit
+probe cleaning rod
+tube
+photometer cleaning stick
+COOX Module
+COOX
+printer
+weight filter
+filter weight
+bottle valve
+headless screw
+set screw
+grub screw
+LLD PCB assembly
+PCB Liquid Level Detection
+PCB LLD assy
+NaOH-D
+Detergent1
+Cell cleaner 1
+Cell Detergent 1
+CellCLN 1
+Cell Detergenz 1
+Nozzle Seal Pipettor
+Cell Wash Solution II / Acid Wash
+Cell detergent2
+Cell Wash Solution II
+Cell detergent 2
+Cell Wash Solution 2
+CellCLN 2
+Cell cleaner 2
+COC Label
+COC Sticker
+sample probe Detergent 2
+SmpCLN 2
+Tube 465
+sample probe Detergent 1
+SmpCln 1
+cuvette transporter
+pushing arm
+cuvette forwarder
+cuvette feeder
+cuvette pusher
+bottle stand
+bottle holder
+bottle case
+photometer lamp
+lamp halogen
+halogen lamp
+tube height adapter
+grid
+Reagent compartment flap
+PreClean station
+pre clean station
+PreClean-Station
+workstation preclean
+pre-wash mixer
+photometer fan
+absorbance photometer
+Absorbance ABS Photometer
+Abs photometer
+request
+require
+demand
+edit
+modify
+change
+drain
+incline
+slant
+tilt
+improve
+put right
+enhance
+ameliorate
+interlock
+interconnect
+sterilization
+integrate
+incorporate
+install
+reinstall
+workaround
+work-around
+temporary solution
+quick solution
+update
+dry
+dessicate
+dehydrate
+process
+treat
+proceed
+verify
+review
+inspect
+examine
+look at
+check
+release
+deliver
+hang
+suspend
+freeze
+congeal
+prewash
+pre-wash
+logoff
+logout
+unlocking mechanism
+unlock
+open
+list
+enumerate
+connect
+plug
+plug in
+link
+maintain
+overhaul
+barcode mask
+bolster
+fortify
+sustain
+reinforce
+strengthen
+overview
+observe
+survey
+lift
+raise
+heave
+elevate
+leave
+let
+point
+indicate
+place
+put
+move
+transport
+shift
+overtake
+pass by
+outrun
+operate
+perform
+execute
+run
+overturn
+revolve
+upturn
+reconstitute
+reconstruct
+fit
+suit
+adapt
+find
+retrieve
+locate
+discover
+enable
+activate
+reactivate
+fill
+stoke
+enlarge
+amplify
+magnify
+increase
+expand
+extend
+initiate
+begin
+start
+insert
+slide in
+fix
+mend
+repair
+correct
+amend
+settle
+notice
+designate
+flag
+grip
+seize
+delete
+eliminate
+remove
+discard
+describe
+characterize
+characterise
+specify
+instrument cleanup
+instrument clean-up
+uninstall
+disinstall
+de-install
+deinstall
+synchronize
+synchronise
+coordinate
+line gap adjustment
+pitch exchange
+relate
+associate
+match
+equal
+press
+push
+unstable
+not constant
+oscillating
+signify
+called
+mean
+customise
+customize
+manage
+arrange
+contrive
+regulate
+cut
+trim
+crimp
+pleat
+drop
+fall down
+come off
+define
+determine
+detach
+separate
+disunite
+log off
+log out
+cleaning
+repeat
+rerun
+rotate
+turn
+route
+relay
+restart
+resume
+reboot
+create
+establish
+make
+replace
+exchange
+reinstate
+reset
+restore
+contain
+include
+confirm
+validate
+acknowledge
+show
+visualize
+visualise
+download
+re-download
+redownload
+dispose
+return
+bring back
+distinguish
+differentiate
+distinction
+rinse
+flush
+purge
+disable
+inactivate
+deactivate
+become
+transform
+turn into
+convert
+preprocess
+pre-process
+IG server cleanup
+dispense
+dissolve
+log on
+logon
+login
+log-on
+log into
+log in
+log-in
+flange
+reflange
+upload
+up-load
+disconnect
+dis-connect
+unconnect
+handle
+manipulate
+dismount
+dismantle
+dissassemble
+demount
+abrasion
+rack reset
+rack-reset
+initialise
+initialize
+decommissioning
+decommission
+store
+keep
+save
+supply
+furnish
+allocate
+provide
+cancel
+abort
+interrupt
+block
+stop
+slide
+shake
+agitate
+set
+send
+transmit
+submit
+concern
+regard
+select
+choose
+scan
+troubleshoot
+trouble-shoot
+unload
+decharge
+touch
+strike
+trigger
+locking mechanism
+close
+shut
+lock
+combine
+join
+recombine
+compare
+contrast
+complete
+finalise
+finalize
+computerise
+computerize
+switch on
+power on
+power up
+boot
+switch-on
+turn on
+start up
+boot up
+support
+assist
+terminate
+conclude
+finish
+reassemble
+reassembly
+re-assemble
+needle bent detection
+needle bent check
+disinfect
+sanitize
+sanitise
+masking
+hide
+mask
+conceal
+recap
+restop
+re-cap
+unscrew
+withdraw
+decontaminate
+browse
+align
+adjust
+wash
+bathe
+reattach
+reconnect
+relink
+calibrate
+refill
+re-fill
+replenish
+re-plenish
+clean
+clean up
+wipe
+recommend
+advise
+suggest
+back up
+back-up
+backup
+retract
+take out
+pull out
+move back
+recognise
+recognize
+identify
+output line
+rack out
+rack in
+1-point calibration
+single-point calibration
+one-point calibration
+1 point calibration
+loosen
+unclench
+untighten
+unfasten
+apply
+inject
+reinject
+lubricate
+oil
+grease
+dissipate
+scatter
+dispel
+load
+feed
+charge
+priming
+prime
+add
+bend
+bow
+flex
+curve
+ply
+lower
+let down
+bring down
+assign
+re-assign
+reassign
+affect
+impact
+have effect on
+effect
+attach
+reload
+recharge
+enter
+reflect
+mirror
+refrigerate
+chill
+cool
+cause
+provoke
+bring forth
+induce
+entail
+print
+report
+clear
+empty
+assemble
+mount
+delta check
+delta-check
+shut down
+power-down
+power down
+turn off
+switch off
+power off
+archive
+air purge
+air-purge
+RFID authentification
+decap
+de-cap
+destop
+uncap
+reclassify
+re-classify
+decontamination
+carry
+hold
+sort
+classify
+liquid level detection
+sample level detection
+LLD
+level detection
+track
+trace
+follow up
+reclassification
+dilute
+special wash
+carryover evasion
+wash rule
+fasten
+tighten
+ensure
+make sure
+guarantee
+prioritise
+prioritize
+evaluate
+estimate
+reach
+achieve
+obtain
+register
+record
+protect
+shelter
+reduce
+decrease
+produce
+generate
+render
+post-dilute
+postdilute
+make up
+make-up
+predilute
+pre-dilute
+reverse
+inverse
+configure
+setup
+set up
+prevent
+avoid
+energize
+energise
+pull
+draw
+haul
+drag
+E.Stop
+emergency stop
+E-STOP
+squeeze
+crush
+extrude
+strain
+compress
+measure
+gauge
+prepare
+prep
+get ready
+Reference Manual
+Reference Manuals
+US Connectivity Docs
+US Connectivity Doc
+Order Checklist
+Order Checklists
+Value Sheet
+VS
+Value Sheets
+Product Bulletins
+Product Bulletin
+PB
+US Customer Misc
+US Customer Miscs
+Method Sheet
+MS
+Method Sheets
+Package Insert
+Verification Data Report
+Verification Data Reports
+US Customer Letter
+US Customer Letters
+Operators Manual
+OM
+User Manual
+Operators Manuals
+Operator manual
+Operator’s Manual
+Operator's Manual
+Operator´s Manual
+Host Interface Manual
+Host Interface Manuals
+Important Notice not in kit
+Important Notices not in kit
+Typical Runs
+Typical Run
+Important Notice
+Important Notices
+US Calibrators/Controls
+US Calibrator/Control
+Image
+Images
+US Bar Sheet
+US Bar Sheets
+Host Interface Test Tool
+Host Interface Test Tools
+US Customer Bulletin
+US Customer Bulletins
+Insert Case
+Insert Cases
+Carry Over Evasion List
+Carry Over Evasion Lists
+Insert Card
+Insert Cards
+Training Manual
+Training Manuals
+Application Instruction
+Application Instructions
+Warranty Card US
+Warranty Cards US
+Herpes Panel IVD PI
+Herpes Panel IVD Pis
+Vigilance Information
+Vigilance Informations
+Dedicated HbA1c X7
+Technical Modification
+Technical Modifications
+Virtual Document Body
+Virtual Document Bodies
+System Launch Binder
+System Launch Binders
+Warranty Card
+Information Card
+Information Cards
+Violator
+Violators
+Technical Note
+Technical Notes
+US Customer Training
+US Customer Trainings
+Method Comparison
+Method Comparisons
+Package Insert Stago Label
+Package Insert Stago Labels
+Manual Cover
+Manual Covers
+Parts List
+Parts Lists
+PL
+Marketing Concept
+Marketing Concepts
+Instructions for Use
+IFU
+Package Inserts
+US Service Misc
+Product Information
+Product Informations
+Manufacturing Work Instruction
+Manufacturing Work Instructions
+Product Management Letter
+Product Management Letters
+COBI CD-ROM
+COBI CD-ROMs
+Method Sheet Document
+Method Sheet Documents
+Box
+Boxes
+Manual Body
+Manual Bodies
+Certificate, Lipids
+Certificate, Lipid
+LCN Document
+LCN Documents
+Quality Notification
+Quality Notifications
+QN
+Method Manual
+Method Manuals
+Package Insert Document
+Package Insert Documents
+Other Packaging Material
+Other Packaging Materials
+Marketing Letter COAG
+Marketing Letter COAGs
+Cost of Operation
+Cost of Operations
+Product Bulletin Attachment
+Product Bulletin Attachments
+PB Attachment
+Certificate of Quality
+Certificate of Qualities
+Pouch
+Pouches
+Marketing Notification
+Marketing Notifications
+US Service Training
+US Service Trainings
+US System Software Download
+US System Software Downloads
+Quick Reference Guide
+Quick Reference Guides
+New Features
+New Feature
+Reagent Launch Binder
+Reagent Launch Binders
+Operator Training Manual
+Operator Training Manuals
+Reagent CE Conformity
+Reagent CE Conformities
+Online Help / Software Desc
+Configuration Guide
+Configuration Guides
+Control Sheet
+Control Sheets
+Operator Training Short Guide
+Training Short Guide
+Operator Training Short Guides
+Data Security
+Data Securities
+Reassigned Values Survey
+Reassigned Values Surveies
+Decision Trees
+Decision Tree
+US Maintenance Log
+US Maintenance Logs
+US IPB and SB
+US Installation Docs
+US Installation Doc
+US Guide
+US Guides
+US Parameters
+US Parameter
+Instrument Drivers
+Instrument Driver
+Certificate
+Certificates
+CB Certificate
+CB Certificates
+Bulletin
+Bulletins
+Validation Report
+Validation Reports
+Service Manual
+Service Manuals
+SM
+Service Checklists and Forms
+Service Checklist and Form
+Certificate of Analysis
+Service Software
+D&S
+DSS
+DnS
+diagnostics & service software
+Service Softwares
+Service Training Manual
+Service Training Manuals
+Short Guide
+Short Guides
+Service Bulletins
+Support Notification
+Service Bulletin
+SB
+SN
+Specification and CoA
+Specification and CoAs
+Simulation Tools Download
+Simulation Tool Download
+Software Documentation
+SW Documentation
+SW Doc
+Software Documentations
+Language Pack
+language package
+Language Packes
+ISE Manual
+ISE Manuals
+Labels/Overlabels
+Label/Overlabel
+Support Notifications
+Validation Guide
+Validation Guides
+Instrument CE Conformity
+Instrument CE Conformities
+BTS on Request
+BTS on Requests
+Software Information
+Software Informations
+US Service Manual
+US Service Manuals
+Application Report
+AR
+Application Reports
+Utility Channel
+Utility Channels
+User Training Guide
+User Training Guides
+UTG
+Assay Summary
+Assay Summaries
+US TSB
+US TSBs
+Application Software
+Application Softwares
+US TAS/TASU Docs
+US TAS/TASU Doc
+Cal / Con Barcodelabel
+Cal / Con Barcodelabels
+BTS
+Barcode Transfer Sheet
+Application Barcode
+BTSs
+Known Issues List
+Known Issues Lists
+KIL
+Supplemental Value Sheet
+Zusätzliches Sollwertblatt
+Supplemental Value Sheets
+CD Art Printed on Disc
+CD Art Printed on Discs
+DVD / CD Label
+DVD / CD Labels
+STS Marketing Letter
+STS Marketing Letters
+SW patch application
+SW patch applications
+Support Memo
+Support Memos
+Stability
+Stabilities
+US Operator Docs
+US Operator Doc
+US Package Insert
+US Package Inserts
+Development Channel
+Development Channels
+open channel
+CE Conformity
+CE Conformities
+Scientific Publication
+Scientific Publications
+Educational Plan
+Educational Plans
+Instrument Information
+Instrument Informations
+Reg Certificate of Analysis
+US Product List
+US Product Lists
+Scientific Information
+Scientific Informations
+Safety Data Sheets
+Safety Data Sheet
+MSDS
+Material Safety Data Sheet
+SDS
+US Method Sheet
+US Method Sheets
+RMD Marketing Bulletins
+RMD Marketing Bulletin
+Customer Bulletin
+Customer Bulletins
+Risk Analysis
+US Parts List
+US Parts Lists
+Training Material
+Training Materials
+Reagent Information
+Reagent Informations
+Reg Certificate of Stability
+Reg Certificate of Stabilities
+Transition Guide
+Transition Guides
+Reg Specification
+Reg Specifications
+SWA Marketing Letter
+SWA Marketing Letters
+SWA New Method BTS
+SWA New Method BTSs
+System Description
+System Descriptions
+Service Contracts
+Service Contract
+Serum Index List
+Serum Index Lists
+Technical Scientific Info
+Technical Scientific Infos
+Technical Data Sheet
+Technical Data Sheets
+External Quality Survey
+External Quality Surveys
+Evaluation Report
+Evaluation Reports
+EC Certificate
+EC Certificates
+Security OTSS
+Manual
+Manuals
+US Applications
+US Application
+Application Note
+Application Notes
+Trouble Shooting Guide
+TSG
+Trouble Shooting Guides
+Supplemental Support Info
+Supplemental Support Infos
+Service Bulletin Attachment
+Service Bulletin Attachments
+SB Attachment
+Hardware Information
+Hardware Informations
+US PSM
+US PSMs
+GCS Information
+GCS Informations
+Security Patch Information
+Security Patch Informations
+Getting Started Guide
+Getting Started Guides
+Security Patch
+Security Patches
+External Control Value
+External Control Values
+Application Data
+Application Datas
+Installation Manual
+Installation Manuals
+Application List
+Application Lists
+iSDoc SM & PL
+iSDoc
+iSDoc SM
+iSDocs
+RIOS Graphics
+RIOS Graphic
+Traceability
+Traceabilities
+Routine Guide
+Routine Guides
+TeleService Documentation
+TeleService Documentations
+Logbook
+Logbooks
+IQ OQ PQ Documents
+IQ OQ PQ Document
+PM Checklist
+PM Checklists
+ISE Electrodes Expiry Dates
+ISE Electrode Expiry Date
+Instrument Software Download
+Instrument Software Downloads
+cobas® user assistance
+cobas user assistance
+STAGO Systems
+STAGO System
+STA
+START4
+START-4
+START 4
+STA-C
+STA-R
+STA-R EVOLUTION
+STA RMAX
+STA R-MAX
+STA-R MAX
+STA R MAX
+CoaguChek®
+CoaguChek
+CoaguChek® Plus
+CoaguChek +
+CoaguChek Plus
+CoaguChek® Pro / ISK
+CoaguChek Pro / ISK
+CoaguChek® Pro Base
+CoaguChek ProBase
+CoaguChek Pro Base
+CoaguChek® Pro DM
+CoaguChek Pro DM
+CoaguChek® S
+CoaguChek S
+CoaguChek® XS Connect
+CoaguChek XS Connect
+CoaguChek® XS Plus system
+CoaguChek XS Plus system
+CoaguChek XS Plus
+CoaguChek® XS Pro system
+CoaguChek XS Pro
+CoaguChek® XS Pro
+CoaguChek XS Pro system
+CoaguChek® XS SoftClix
+CoaguChek XS SoftClix
+CoaguChek® XS
+XS SoftClix
+CoaguChek Softclix
+CoaguChek XS
+CoaguChek XS system
+CoaguChek® XS system
+cobas h 232 scanner version
+cobas h232 scanner
+h 232 scanner version
+h 232 scanner
+cobas h 232 scanner
+Virtuoso
+Virtuoso image management software
+Cedex
+Cedex BIO HT
+Bio HT
+Cedex HT
+NH3 Bio
+Cedex Bio
+Cedex HiRes
+HiRes
+Cedex XS
+Cedex Yeast
+cobas 6800/8800 Sample Supply Module
+SSM
+MPA 3G
+cobas® 8100 automated workflow series
+sediment analyzer
+DATA STATION AMPLILINK
+tg150 back
+AMPLILINK DATA STATION
+tg-150 back end
+TG 150 back end
+Datastation Amplilink
+TECAN GENESIS 150 BACK
+tg150 backend
+TG 150 back-end
+tg-150 backend
+tg-150 back
+TECAN GENESIS 150 BACK END
+tg-150 front
+TG 150 front end
+tg-150 front end
+TG 150 front
+TECAN GENESIS 150 FRONT
+TG 150 front-end
+tg150 front
+tg150 frontend
+tg-150 frontend
+COBAS® AmpliPrep Instrument
+AmpliPrep
+COBAS AmpliPrep
+RAL Stainer
+cobas IT firewall
+Microlab® STAR IVD
+Microlab Star
+Microlab Star IVD
+Hamilton Star
+MagNA Pure LC
+BioTek Microplate Reader
+ELx800 Microplate Reader
+BioTek ELx800 Microplate Reader
+cobas firewall
+IT firewall
+TECAN GENESIS 150 FRONT END
+ACCUFINE WZ
+ACCU FINE WZ
+ACCU FINE
+accufine
+ACCU-FINE
+ACCU-FINE WZ
+Magnapure
+MPLC
+MagNA Pure LC instrument
+MP LC
+cobas IT 5000 application
+it5000
+it 5000
+cobas IT 5000 solution
+cobas IT 5000
+cobas IT 5000 Blood Depot
+it5000 Blood Depot
+it 5000 BloodDepot
+it5000 BloodDepot
+cobas IT 5000 BloodDepot
+it 5000 Blood Depot
+cobas IT 5000 Microbiology
+IT 5000 Microbiology
+it5000 Microbiology
+cobas IT 5000 Central laboratory
+cobas IT5000 central lab
+cobas IT 5000 central lab
+cobas IT5000 Central laboratory
+Microarray Dryer
+micro array Dryer
+Hybridization System 12
+Hybridization System12
+Hybridization S12
+DML 2000 MICROPLATE LUMINOMETER
+DML 2000 Luminometer
+DML Luminometer
+Luminometer
+laboratory information system
+LIS
+PRECITHERM PF/PFV
+PRECITHERM PF-PFV
+PRECITH PF
+PRECITH PFV
+PRECITHERM PF
+PRECITH PF-PFV
+PRECITH PF / PFV
+PRECITHERM PFV
+NimbleGen MS 200
+MS 200
+Nimblegen 200
+MS200
+cobas e 201 analyzer
+cobas 201
+cobas e201
+cobas e 201
+e201
+cobas e 201 analyser
+e 201
+Microlab® STARlet IVD
+Microlab Starlet
+Microlab STARlet IVD
+Hamilton Starlet
+PocH-100i
+PocH 100i
+Hamilton AT Plus
+Hamilton AT+
+Hamilton AT +
+cobas c 302
+cobas c302
+cobas c 302 analyzer
+cobas 302
+c302
+cobas c302 analyzer
+c 302
+cobas IT 3000/5000
+cobas IT3000/5000
+cobas p 701 post-analytical unit
+p 701
+cobas p 701 unit
+p701
+cobas p 701
+cobas p701 post-analytical unit
+COBAS® Amplicor Analyzer
+c amplicor
+COBAS Amplicor Analyzer
+COBAS® Amplicor instrument
+COBAS® Amplicor
+COBAS® AMPLICOR® Analyzer
+COBAS Amplicor
+Amplicor
+cobas e 801 module
+e 801
+cobas e 801 analyzer
+cobas e801
+cobas 801
+cobas e 801 analyser
+e801
+cobas e 801
+cobas p 630 instrument
+cobas p630
+cobas p 630
+p 630
+p630
+cobas 630
+cobas IT 1000 application
+it1000
+cobas IT 1000
+it 1000
+Cellavista
+Care Giver
+Caregiver
+cobas 6800/8800 IG server set
+newgen instrument gateaway
+CoaguChek Pro II
+CoaguChek Pro2
+Roche Hitachi 704 Chemistry Analyzer
+Roche Hitachi 704 Chemistry Analyser
+h704
+Roche/Hitachi 704
+Roche Hitachi 704
+Hitachi 704
+cIMS
+Inventory Management System
+cobas Omega 4
+cobas Omega 4 eFlow
+Omega 4 eFlow
+O4 eFlow
+cobas O4 eFlow
+cobas Omega 4 Core Server
+o4core
+Omega 4 Core
+cobas Omega 4 Core
+o4 core
+cobas Omega 4 Main Application
+O4Main
+cobas Omega 4 Main
+cobas O4 Main
+O4 Main
+cobas Omega 4 Microbiology
+cobas O4 Microbiology
+O4 Microbiology
+cobas Omega 4 TQM
+O4 TQM
+cobas O4 TQM
+cobas Omega 4 Urgencies
+cobas O4 Urgencies
+O4 Urgencies
+MODULAR ANALYTICS EVO SWA
+hitachi analytics
+MODULAR ANALYTICS SWA
+Roche Hitachi Modular Analytics
+SWA
+Roche/Hitachi Modular Analytics
+Hitachi Modular Analytics
+modular analytics
+Roche/Hitachi Modular Analytics Core ISE
+Hitachi Modular Analytics Core ISE
+Modular Analytics Core ISE
+Roche/Hitachi Modular Analytics D
+MODULAR ANALYTICS D-MODULE
+Mod-d
+modular d
+mod d
+MODULAR ANALYTICS D module
+Hitachi Modular Analytics D
+d-mod
+d-module
+dmod
+Roche/Hitachi Modular Analytics E 170
+MODULAR ANALYTICS E 170
+e mod
+e170
+emod
+e-mod
+e-module
+MODULAR ANALYTICS E-MODULE
+e 170
+mod e
+MODULAR ANALYTICS E 170 module
+modular e
+Hitachi Modular Analytics E 170
+E Module
+Roche/Hitachi Modular Analytics ISE
+Modular Analytics ISE
+Hitachi Modular Analytics ISE
+Roche/Hitachi Modular Analytics P
+MODULAR ANALYTICS P module
+Hitachi Modular Analytics P
+MODULAR ANALYTICS P-MODULE
+PMOD
+mod p
+modular p
+mod-p
+P MOD
+p-module
+cobas® academy
+cobas® academy e-learning
+cobas academy
+Starlyte V Alfa Wassermann
+Starlyte5
+Starlyte 5
+Starlyte V
+pooling instrument
+pooler
+Pooling-Instrument
+cobas® e-services
+cobas e-services
+cobas e-service
+remote service platform
+TeleServiceNetwork
+TSN
+TeleService-Net
+TeleService
+cobas c 311 analyzer
+cobas c311 analyzer
+c 311
+c311
+cobas 311
+cobas c 311 analyser
+cobas c 311
+cobas c311
+c 311-analyzer
+cobas c 513 analyzer
+cobas c 513
+cobas c513 analyzer
+cobas c513
+cobas c 513 analyser
+c513
+c 513
+cobas c 711 analyzer
+cobas c 711
+c711
+cobas c711
+cobas c 711 analyser
+c 711
+cobas 711
+VIAS
+Ventana Image Analysis System
+CAP/CTM
+CAPCTM
+AUTOCLIX BA
+AUTOCLIX
+Vantage
+Vantage Systems
+Discovery
+DISCOVERY ULTRA
+Discovery XT
+NexES
+NexES IHC
+NexES Special Stains
+cobas® mobicheck
+cobas mobichek
+cobas mobi chek
+cobas mobi-chek
+Glucotrend
+Glucotrend Premium
+Glucotrend 2
+Glucotrend II
+Glucotrend2
+FortiGate-40C
+Fortigate 40
+FortiGate 40 C
+40 C
+FortiGate 40C
+Fortigate C
+Fortigate
+FortiGate-40 C
+FortiGate 40-C
+CellaVision DM1200
+CellaVision DM 1200
+cobas u 411 urine analyzer
+cobas u 411 urine analyser
+cobas u 411 analyzer
+u411
+cobas u411
+cobas u 411
+cobas u411 urine analyzer
+u 411
+cobas u411 analyzer
+COBAS® TaqMan® 48 analyzer
+Taq48
+Taq 48
+COBAS TaqMan 48 Analyzer
+COBAS TaqMan 48 Analyser
+COBAS TM 48
+Cobas TaqMan 48
+Taqman 48
+COBAS® Taqman
+COBAS® TaqMan® 48
+BioTek Plate Washer Elx50
+Plate Washer
+Platewasher Elx50
+Plate washer Elx50
+Biotek Plate Washer
+Elx50 Platewasher
+Elx50 Plate washer
+cobas® 8000 modular analyzer series
+cobas® 8000 modular analyzer
+cobas® 8000 modular analyser
+c8000
+cobas 8000 core unit
+cobas 8000
+cobas 8000 modular analyzer series
+cobas 8000 System
+c 8000
+cobas® ISE module
+cobas ISE module
+cobas 8000 ise modules
+8000/ISE
+cobas 8000 ISE module
+cobas ISE
+c 8000 ISE
+8000 ISE
+cobas 8000 / ISE Module
+cobas 8000 core module
+8000 core
+cobas 8000 cu
+cobas e 602 module
+cobas e 602 analyzer
+cobas e 602
+e 602
+cobas e602 module
+e602
+cobas e602
+cobas c 702 module
+c 702
+cobas c 702
+cobas 702
+c702
+cobas c 701 module
+c 701
+cobas c701
+cobas c 701
+cobas 701 module
+cobas c 701 analyzer
+c701
+DM
+cobas® data manager
+cobas data manager
+cobas 8000 data manager
+cobas 8000 DM
+datamanager
+cobas 8000 datamanager
+data manager
+cobas DM
+DMIM
+cobas c 502 module
+c 502
+cobas c502
+cobas c 502 analyzer
+cobas c 502
+cobas 502
+c502
+TaqLink
+Pooling Data Manager
+Pooling DM
+Pooling datamanager
+CASY TTC
+CASY TT
+cobas® 6000 analyzer series
+c6000
+cobas 6000 core unit
+cobas® 6000
+cobas 6000 analyser
+cobas 6000 platform
+cobas 6000
+cobas 6000 instrument
+c6000 system
+cobas 6000 system
+c 6000
+cobas 6000 analyzer
+cobas 6000 analyzer series
+cobas c 501 module
+cobas c 501 analyser
+c 501
+c 501-modul
+cobas c501
+c501
+c 501 module
+cobas c 501
+cobas c 501 analyzer
+cobas e 601 module
+e 601
+cobas e 601 analyser
+cobas e 601
+cobas e 601 analyzer
+cobas 601
+e601
+cobas e601
+cobas 6000 cu
+c6000 core
+cobas 6000 core
+6000 core
+cobas® 4000 analyzer series
+cobas 4000 analyzer
+cobas 4000 analyzer system
+cobas 4000 analyser
+c 4000
+cobas® 4000 platform
+c4000
+cobas 4000 system
+cobas 4000 platform
+URISYS
+URISYS 1100
+u1100
+URISYS 1100 Urine analyzer
+u 1100
+URISYS 1100 Urine analyser
+URISYS 1800
+URISYS 1800 Urine analyzer
+u1800
+u 1800
+URISYS 1800 Urine analyser
+URISYS 2400
+u2400
+u 2400
+URISYS 2400 Urine analyser
+URISYS 2400 Urine analyzer
+PSM
+Process Systems Manager
+cobas 8100 automated workflow series
+cobas 8100 RestopperFlexcap
+c 8100 RestopperFlexcap
+cobas 8100 Flexcap
+c8100 Flexcap
+cobas 8100 RestopperScrewcap
+cobas 8100 Screwcap
+c 8100 RestopperScrewcap
+c8100 RestopperScrewcap
+cobas 8100 OutputBuffer Sorter
+c8100 OutputBuffer Sorter
+c 8100 OutputBuffer Sorter
+c 8100 Sorter
+c 8100 OutputBuffer
+c8100 Sorter
+cobas 8100 Sorter
+cobas 8100 Destopper
+cobas 8100 InputBuffer
+cobas 8100 Input Buffer
+c 8100 buffer
+c8100 Input Buffer
+c8100 InputBuffer
+c 8100 Input Buffer
+c 8100 InputBuffer
+cobas 8100 AutoCentrifugeUnit
+cobas 8100 centrifuge
+c8100 AutoCentrifugeUnit
+c8100 AutoCentrifuge
+cobas 8100 AddOnBuffer
+cobas 8100 AliquoterModule
+c8100 AliquoterModule
+cobas 8100 Aliquoter
+c8100 Aliquoter
+cobas 8100 BarCodelabeler
+c8100 BarCodelabeler
+c 8100 BarCodelabeler
+c8100 labeler
+cobas 8100 Reformatter
+MagNA Pure 96 System
+MagNA Pure 96
+MP 96
+MP96
+Lumi-Imager
+Lumi imager
+Lumiimager
+Starlyte II
+Starlyte2
+Starlyte 2
+CellaVision DM8
+CellaVision DM 8
+DC Insulin Pumps
+D-TRON
+dtron
+D-TRONplus
+D-TRON +
+DTRON plus
+DTRON +
+D-TRON plus
+H-TRON
+HTRON
+H-TRON® plus
+HTRONplus
+H-TRON plus
+H-TRON +
+H-TRON+
+e-library
+Accutrend
+ACCUTREND Alpha/Instant RY
+ACCUTREND Alpha-Instant
+ACCUTREND Alpha/Instant
+ACCUTREND Alpha Instant RY
+ACCUTREND Alpha-Instant RY
+ACCUTREND Alpha Instant
+Accutrend G/GC/Instant Plus
+Accutrend G Instant Plus
+Accutrend GCT
+Accutrend-GCT
+Accutrend LACTATE
+Accutrend® Plus system
+Accutrend® Plus
+Accutrend+
+Accutrend Plus system
+Accutrend system
+Accutrend +
+ACCUTREND DM RU
+ACCUTREND DM
+ACCUTREND MINI RP
+ACCUTREND MINI
+ACCUTREND-MINI
+CASY DT
+MODULAR® PRE-ANALYTICS EVO
+MODULAR PRE-ANALYTICS
+MODULAR PRE-ANALYTICS EVO
+MODULAR PRE ANALYTICS
+Roche/Hitachi Modular Pre-Analytics
+MPA
+Roche Hitachi Modular Pre-Analytics
+MPA AutoCentrifugeBuffer
+MPA AutoCentrifugeUnit
+MPA BarcodeLabeler
+MPA CoreTransportLine
+MPA Destopper
+MPA InputBuffer
+MPA OfflineAliquoter
+MPA OnlineAliquoter
+MPA OutputBuffer
+MPA Restopper
+MPA SampleBufferUnit
+MPA SampleSorter
+MPA TurntableUnitLine
+MPA UnivConnectionLine
+Cardiac Reader
+NimbleGen MPS 350
+MS350
+Nimblegen 350
+MS 350
+NimpleGen MPS-350
+LightCycler®
+LC
+Light Cycler
+LightCycler
+LightCycler® 1.5
+LightCycler 1.5
+Light Cycler 1.5
+LC 1.5
+LightCycler® 2.0 Instrument
+LightCycler® 2.0 Real-Time PCR system
+LC 2
+LightCycler 2.0 Instrument
+LC-2
+LightCycler 2.0
+LC 2.0
+LC2
+LightCycler 2
+LightCycler® Instrument
+LightCycler® 480 Instrument
+LightCycler® 480
+LightCycler 480
+LightCycler 480 / 1536
+LC 480/1536
+LC 480 / 1536
+LC480
+LightCycler 480 Instrument
+LightCycler 480/1536
+LightCycler480
+LightCycler® 96
+LightCycler 96
+LC 96
+Light Cycler 96
+LightCycler96
+LC96
+LightCycler® Carousel Centrifuge
+LightCycler Carousel
+LCCC
+LC centrifuge
+Light Cycler Carousel Centrifuge
+LightCycler Centrifuge
+LC carousel
+LightCycler® Nano
+LightCycler Nano
+Light Cycler Nano
+LC Nano
+BGA COMPACT 3
+BGA COMPACT3
+cobas h 232 POC system
+h232
+h 232
+cobas h232
+cobas h 232
+cobas h 232 POC
+Clinical Laboratory Automation System 2
+CLAS 2
+SYMPHONY
+MagNA Pure Compact Instrument
+MP Compact
+MagNA Pure Compact
+MagNA Pure Compact 2.0 system
+MagNa Pure
+Omega 2000
+omega2000
+AMPLILINK
+AMPLILINK 1
+AL 1
+AL-1
+AL1
+AMPLILINK I
+AMPLILINK 2
+AL2
+AL-2
+AL 2
+AMPLILINK II
+AMPLILINK software Version 3.3 Series
+AMPLILINK III
+AL3
+AL 3
+AMPLILINK 3
+cobas t 611
+t611
+t 611
+cobas t611
+cobas t 511 coagulation analyzer
+t 511
+cobas t511 coagulation analyser
+cobas t 511 analyzer
+cobas t511
+cobas t 511
+t511
+cobas t 411 coagulation analyzer
+cobas t 411 coagulation analyser
+cobas t 411
+t 411
+cobas t411 coagulation analyzer
+t411
+cobas t411
+matriXarray Instrument
+matrixarray
+matrix array
+matrix array Instrument
+LightTyper
+Light Typer
+LightTyper 384
+LT 384
+LT384
+Light Typer 384
+LightTyper 96
+LT96
+Light Typer 96
+LT 96
+MagNA Lyser Instrument
+MagNA Lyser
+MagNA Lyser System
+Magnalyser
+Omega 3000
+Omega3000
+Reflovet® Plus
+reflovet +
+REFLOVET PLUS
+cobas b 123
+cobas b123
+b123
+b 123
+cobas b 123 3
+b 123-3
+b123-3
+cobas b 123-3 analyzer
+cobas b 123-3
+cobas b 123 1
+cobas b 123-1 analyzer
+b123-1
+b 123-1
+cobas b 123-1
+cobas b 123 2
+cobas b 123-2 analyzer
+cobas b 123-2
+b123-2
+b 123-2
+cobas b 123 4
+cobas b 123-4
+b123-4
+b 123-4
+cobas b 123-4 analyzer
+cobas® 4800 archive viewer
+cobas 4800 archive viewer
+Elecsys®
+Elecsys
+Elecsys® 2010 analyzer
+e2010
+Elecsys 2010 system
+Elecsys 2010 analyzer
+Elecsys 2010
+e 2010
+Elecsys 2010 analyser
+Elecsys® 1010 analyzer
+Elecsys 1010 analyser
+Elecsys® 1010 system
+Elecsys 1010 system
+e 1010
+e1010
+Elecsys 1010
+Elecsys 1010 analyzer
+Zenith
+CoaguChek INRange
+cobas p 312 pre-analytical system
+p 312
+cobas 312
+p312
+cobas p312
+cobas p 312
+9180 Electrolyte Analyzer
+Electrolyte 9180
+9180 Electrolyte Analyser
+Roche 9180 Electrolyte Analyser
+ISE 9180
+ISE-9180
+Electrolyte Analyser 9180
+ISE9180
+test strip analyzer
+teststrip analyzer
+ISE FOR COBAS MIRA
+ISE Module Cobas Mira
+ISE Cobas Mira
+ISE 988-3
+Roche 988-3 Electrolyte Analyser ISE
+988-3 Electrolyte Analyser
+ISE988-3
+Roche 988-3 Electrolyte Analyser
+Electrolyte 988-3
+Electrolyte Analyser 988-3
+ISE-988-3
+Sysmex
+Sysmex Data Management
+EXPERTviewer
+EXPERT Viewer
+K-Xpert
+kxpert
+K xpert
+SIS
+Sysmex F-Series
+F-500
+f 500
+f500
+F-520
+f520
+F-800
+f800
+f 800
+F-820
+F 820
+f820
+Sysmex HST-Line
+HST
+HST 201
+HST201
+HST-201
+HST 210
+HST-210
+HST210
+HST 302
+HST-302
+hst302
+HST 310
+HST310
+HST-310
+HST 330
+HST-330
+hst330
+HST 402
+hst402
+HST-402
+HST 403
+HST-403
+HST403
+HST 410
+HST-410
+HST410
+HST 430
+HST-430
+hst430
+HST-CP1
+HST CP1
+HST-N
+HST N
+InteRRliner
+interliner
+TS-1000
+ts 1000
+ts1000
+TS-2000
+ts2000
+ts 2000
+TS-500
+ts500
+TS-10
+TS10
+Sysmex K-Series
+K-1000
+k1000
+K 1000
+K-2000
+K 2000
+k2000
+K-4500
+k4500
+K 4500
+K-800
+k800
+K 800
+KX-21
+KX 21
+KX21
+KX-21N
+KX21N
+Sysmex NE-Series
+NE-1500
+NE1500
+NE 1500
+NE-5500
+NE 5500
+NE5500
+NE-7000
+NE 7000
+NE7000
+NE-8000
+NE 8000
+NE8000
+NE-ALPHA
+NE ALPHA
+Sysmex R-Series
+R-1000
+r1000
+R-2000
+r2000
+R-3000
+r3000
+R-3500
+r3500
+R-500
+r500
+r 500
+Sysmex SE-Series
+RAM-1
+ram1
+SE-9000
+se9000
+SE 9000
+SE-9500
+se9500
+SE 9500
+SE-ALPHA
+SE ALPHA
+Sysmex SF-Series
+SF-3000
+sf3000
+SF-3000 + R-500
+SF-3000 R-500
+SF3000 + R500
+SF 3000 R500
+SF 3000 + R 500
+Sysmex SP-Series
+SP-100
+sp100
+SP-1000i
+sp1000i
+SP-SU
+SP SU
+spsu
+Sysmex Systems
+XP-100
+XP 100
+XP100
+XP-300
+XP 300
+XP300
+Sysmex UF-Series
+UF-100/UF-100i
+UF 100/UF 100i
+UF 100/UF-100i
+UF100/UF100i
+UF-1000i
+UF 1000i
+UF1000i
+UF-50
+UF 50
+UF50
+UF-500i
+uf500i
+uf 500i
+Sysmex XE-Series
+XE-2100
+XE 2100
+XE2100
+XE-2100D
+XE2100D
+XE 2100 D
+XE 2100D
+XE-2100L
+XE 2100L
+XE 2100 L
+XE2100L
+XE-5000
+xe5000
+XE 5000
+XE-ALPHA
+XE ALPHA
+XE-IPU Hardware/Software
+XE-IPU HW/SW
+XE IPU Hardware/Software
+Sysmex XN-Series
+SP-1
+sp1
+SP-10
+sp10
+sp 10
+XN-10
+xn10
+xn 10
+XN-1000
+xn1000
+xn 1000
+XN-20
+xn20
+xn 20
+XN-2000
+xn 2000
+xn2000
+XN-3000
+xn3000
+xn 3000
+XN-9000
+xn9000
+xn 9000
+XN-350
+XN350
+XN 350
+XN-450
+XN 450
+XN450
+XN-550
+XN550
+XN 550
+Sysmex XS-Series
+XS-1000i
+XS1000
+XS 1000
+XS1000i
+XS 1000i
+XS-1000is
+XS1000is
+XS 1000is
+XS-500i
+XS 500
+XS500i
+XS 500i
+xs500
+XS-800i
+XS 800
+XS 800i
+xs800
+XS800i
+Sysmex XT-Series
+XT-1800i
+xt 1800i
+xt 1800
+xt1800
+xt1800i
+XT-2000i
+XT 2000i
+XT2000
+XT 2000
+xt2000i
+XT-4000i
+xt4000
+XT 4000
+XT4000it
+XT 4000i
+Omega 4000
+Omega4000
+Cardiac 200 System
+Cardiac 200
+Roche/Hitachi CLAS 1
+HITACHI CLAS 1
+HITACHI CLAS1
+Roche Hitachi CLAS 1
+cap pre-opener
+cap half opener
+cap open/close rail
+cobas p 612 pre-analytical system
+cobas p 612
+cobas p612
+p612
+p 612
+cobas p 612 system
+cobas 612
+cobas p612 pre-analytical system
+cobas b 101 PST
+b101 pst
+b 101 pst
+cobas e 411 analyzer
+e 411
+cobas e 411 analyser
+cobas e411
+e411
+cobas e 411
+cobas e 411 analyzer disk
+cobas e 411 disk system
+cobas e 411 analyser disk
+cobas e411 disk system
+cobas e411 disk
+cobas e 411 disk
+cobas e 411 analyzer rack
+cobas e 411 rack
+cobas e 411 rack system
+cobas e 411 analyser rack
+cobas e411 rack
+cobas e411 rack system
+cobas bge link=OMNILINK
+cobas p 512 pre-analytical system
+p 512
+cobas p512 pre-analytical system
+cobas 512
+cobas p 512 system
+cobas p512
+p512
+cobas p 512
+VS II Aliquoter
+ALIQUOTER VS 2
+VS 2
+VS2
+Aliquoter VS II
+VSII
+ALIQUOTER VS2
+cobas x 421
+cobas x 421 analyzer
+x421
+cobas 421
+x 421
+cobas x421
+Roche Hitachi 717 Chemistry Analyzer
+h717
+Roche Hitachi 717
+HITACHI 717
+Roche/Hitachi 717
+Roche Hitachi 717 Chemistry Analyser
+cobas IT middleware
+cobas middleware
+middleware
+cITM
+cobas IT middleware firewall
+cITM firewall
+cobas t 711 coagulation analyzer
+cobas t711
+cobas t711 coagulation analyzer
+cobas t 711 coagulation analyser
+cobas t 711
+cobas t 711 analyzer
+t711
+t 711
+User Assistance
+Roche Hitachi 911 Chemistry Analyzer
+Roche Hitachi 911
+HITACHI 911
+h911
+Roche/Hitachi 911 system
+Roche/Hitachi 911
+cobas® link 2
+cobas link2
+cobas link 2
+cobaslink2
+cobaslink 2
+cobas link II
+cobaslink II
+Roche Hitachi Clinical Chemistry Analyzer 747-100
+h747-100
+Roche/Hitachi 747-100
+Roche Hitachi 747/100
+Roche Hitachi Clinical Chemistry Analyser 747-100
+Roche Hitachi 747-100
+HITACHI 747-100
+iSCAN
+iSCAN HT IVD
+iSCAN HT RUO
+iScan 2.0
+iScan 2
+iScan Coreo
+CobiSed
+cobas b 221
+b 221
+cobas b221
+b221
+cobas b 221 5=Roche OMNI S5 system
+OMNI S5 system
+OMNI-S5
+OMNI S5
+cobas b 221-5
+cobas b 221 6=Roche OMNI S6 system
+OMNI-S6
+OMNI S6 system
+OMNI S6
+cobas b 221 3=Roche OMNI S3 system
+OMNI S3 system
+OMNI-S3
+OMNI S3
+cobas b 221-3
+cobas b 221 4=Roche OMNI S4 system
+OMNI-S4
+cobas b 221-4
+OMNI S4
+OMNI S4 system
+cobas b 221 1=Roche OMNI S1 system
+OMNI-S1
+OMNI S1
+cobas b 221-1
+OMNI S1 System
+cobas b 221 2=Roche OMNI S2 system
+Roche OMNI S2
+OMNI-S2
+OMNI S2 system
+OMNI S2
+cobas b 221-2
+DataCare POC®
+DataCare POC system
+DataCare POC
+Acculink/Accutility BI
+Acculink/Accutility
+Acculink-Accutility BI
+Accutility
+Acculink / Accutility
+Acculink Accutility BI
+Acculink
+Roche/Hitachi CLAS 2
+Roche Hitachi CLAS 2
+Hitachi CLAS2
+Hitachi CLAS 2
+cobas bge link
+bge
+bgelink
+bge link
+OMNILINK
+cobas bge software
+cobas bge link/OMNILINK
+cobas bge link software
+cobas bge
+bge-link
+TSM
+Total System Manager
+cobas Liat
+Iqum
+I quum
+Liat
+I qum
+Iquum
+OMNI System Auto QC
+OMNI QC
+OMNI Auto QC
+STA COMPACT
+STAGO Compact
+cobas c pack opener
+c pack opener
+cobas pack opener
+SsdwLab
+MagNA Pure LC 2.0 Instrument
+Magna Pure LC 2
+MP LC 2
+MagNA Pure LC 2.0
+MagNA Pure LC 2.0 system
+MagNA Pure LC system
+MP LC 2.0
+STA Satellite
+Stago Satellite
+cobas® e-library
+analyzer
+analyser
+cobas p 680
+cobas p680
+p680
+p 680
+cobas p 680 software
+cobas p680 software
+cobas p 680 instrument
+cobas p680 instrument
+NewGen pooler
+RSA Pro
+Roche Hitachi 902 Chemistry Analyzer
+Roche Hitachi 902
+HITACHI 902
+h902
+Roche/Hitachi 902 system
+Roche Hitachi 902 Chemistry Analyser
+Roche/Hitachi 902
+Automated Tip Loader
+Roche Hitachi 912 Chemistry Analyzer
+HITACHI 912
+Roche Hitachi 912 Chemistry Analyser
+h912
+Roche/Hitachi 912 system
+Roche/Hitachi 912
+Roche Hitachi 912
+BenchMark
+bench mark
+bench-mark
+BenchMark GX
+Bench-Mark GX
+Bench Mark GX
+BenchMark Special Stains
+Bench-Mark special stains
+BenchMark ULTRA
+bench-mark ultra
+BenchMark XT/LT
+BenchMark XT / LT
+bench-mark xt
+BenchMark XT
+BenchMark LT
+bench-mark lt
+BenchMark XT LT
+Affymetrix IVD Instrument
+Affymetrix IVD
+QuikRead Go
+quick read go
+quik read go
+quickread go
+cobas m 511
+m511
+cobas morphology
+cobas m511
+bloodhound
+m 511
+cobas m 511 integrated hematology analyzer
+cobas m 511 hematology analyzer
+cobas m511 hematology analyzer
+cobas m511 integrated hematology analyzer
+m511 hematology analyzer
+m 511 hematology analyzer
+cobas m 511 Viewing Station
+m511 Viewing Station
+cobas m511 Viewing Station
+m 511 Viewing Station
+cobas s 401 system
+cobas s401
+s401
+cobas s401 system
+cobas s 401 blood screening system
+s 401
+cobas s 401
+cobas® e-LabPerformance
+cobas e-lab
+e-LabPerformance
+elabperformance
+cobas e-lab performance
+cobas® link
+cobasLink
+cobas link Smart.com
+cobas Link Data Station
+cobas link datastation
+smart.com
+smartcom
+cobas link
+archive viewer
+ACCU-CHEK
+accu chek
+accuchek
+ACCU-CHEK Nano
+accuchek nano
+Accu-Chek Performa
+accuchek performa
+accu chek performa
+ACCU-CHEK Performa Combo
+Accuchek Performa combo
+ACCU-CHEK Performa II V3
+ACCU CHEK Performa II V3
+Accuchek Performa2
+Accu-chek Performa II
+Accu chek Performa2
+Accuchek Performa II
+Accu-chek Performa2
+Accuchek Performa 2
+Accu chek Performa II
+ACCU-CHEK Performa Nano WN
+ACCU CHEK Performa Nano WN
+ACCUCHEK Performa Nano
+ACCU CHEK Performa Nano
+ACCUCHEK Performa Nano WN
+ACCU-CHEK Performa Nano
+ACCU-CHEK Performa Insight X2
+ACCU CHEK Performa Insight X2
+ACCUCHEK Performa Insight X2
+ACCU-CHEK Performa Insight
+ACCUCHEK Performa Insight
+ACCU CHEK Performa Insight
+ACCU-CHEK Performa Expert V2
+ACCUCHEK Performa Expert V2
+ACCU CHEK Performa Expert V2
+ACCU-CHEK Performa Expert
+ACCU CHEK Performa Expert
+Accuchek Performa Expert
+ACCU-CHEK Performa UV
+ACCU-CHEK Performa AERO DF
+ACCU-CHEK Performa AERO
+ACCUCHEK Performa AERO
+ACCU-CHEK Performa Combo U5
+ACCU-CHEK Performa Connect V7
+ACCU-CHEK Performa Connect
+ACCUCHEK Performa Connect
+ACCU-CHEK Performa Solo DM V8
+ACCU CHEK Performa Solo DM
+ACCUCHEK Performa Solo DM V8
+ACCU-CHEK Performa Solo DM
+ACCUCHEK Performa Solo DM
+ACCU CHEK Performa Solo DM V8
+ACCU-CHEK Easy
+ACCUCHEK easy
+ACCU-CHEK Spirit Combo
+Accuchek Spirit Combo
+ACCU-CHEK Softclix
+Accuchek Softclix
+accu chek softclix
+ACCU-CHEK Softclix Pro
+Accuchek Softclix pro
+ACCU-CHEK Softclix Classic
+Accuchek Softclix Classic
+ACCU-CHEK Plus/Simplicity
+accuchek simplicity
+accuchek plus/simplicity
+accuchek plus
+ACCU-CHEK Safe-T-Pro
+Accuchek Safe-T-Pro
+ACCU-CHEK Safe-T-Pro Plus
+Accuchek Safe T-Pro +
+AccuChek Safe T-Pro Plus
+Accu-Chek Safe T-Pro +
+ACCU-CHEK Safe-T-Pro Uno
+ACCUCHEK Safe-T-Pro Uno
+ACCU-CHEK Smart Printer GK
+ACCUCHEK Smart Printer
+ACCU CHEK Smart Printer GK
+ACCUCHEK Printer
+ACCU-CHEK Smart Printer
+ACCUCHEK Smart Printer GK
+ACCU-CHEK SmartPrinter
+ACCUCHEK SmartPrinter
+ACCU CHEK Smart Printer
+ACCU-CHEK Printer
+ACCU-CHEK Soft Touch II
+Accuchek soft touch
+Accu-chek soft touch
+accuchek soft touch 2
+Accu-chek soft touch 2
+ACCU-CHEK® Pocket Compass
+Accu Chek Pocket Compass
+Accu Chek® Pocket
+Accu-Chek Pocket Compass
+Accuchek Pocket Compas
+ACCU-CHEK Voicemate Plus
+ACCU-CHEK VoicematePlus
+ACCUCHEK VoicematePlus
+ACCU-CHEK Voicemate +
+ACCUCHEK Voicemate+
+ACCU-CHEK Voicemate+
+ACCUCHEK Voicemate Plus
+ACCUCHEK Voicemate +
+ACCU-CHEK Smart Pix UI
+ACCUCHEK Smart Pix UI
+ACCU-CHEK Smart Pix
+ACCU CHEK Smart Pix UI
+accuchek smart pix
+ACCU CHEK Smart Pix
+ACCU-CHEK® D-TRONplus
+ACCU-CHEK D-TRON plus
+Accuchek d-tron plus
+ACCUCHEK D-TRONplus
+ACCU-CHEK Advantage/Sensor
+ACCU-CHEK Advantage
+ACCU-CHEK Advantage / Sensor
+ACCU-CHEK Sensor
+ACCU-CHEK Advantage/Sensor II
+ACCU-CHEK Advantage/Sensor 2
+accu chek advantage/sensor 2
+accuchek advantage/sensor 2
+ACCU-CHEK Advantage/Sensor III
+ACCU-CHEK Advantage/Sensor 3
+accu chek advantage sensor 3
+accuchek advantage/sensor 3
+ACCU-CHEK Advantage/Sensor I
+accu chek advantage/sensor 1
+ACCU-CHEK Advantage/Sensor 1
+ACCU-CHEK Active
+accu chek active
+accuchek active
+ACCU-CHEK Active GG
+ACCUCHEK Active GG
+ACCU-CHEK Active Springboard
+ACCU-CHEK Active Spring board
+ACCUCHEK Spring board
+ACCU-CHEK Spring board
+ACCUCHEK Active Spring board
+ACCU-CHEK Springboard
+ACCUCHEK Active Springboard
+ACCUCHEK Springboard
+ACCU-CHEK Active GB
+ACCUCHEK Active GB
+ACCU-CHEK Active IV
+ACCUCHEK Active IV
+ACCU-CHEK Active S
+ACCUCHEK Active S
+ACCU-CHEK Active S LCM
+ACCUCHEK Active S LCM
+ACCU-CHEK Aviva
+accuchek aviva
+accu chek aviva
+ACCU-CHEK Aviva Combo
+Accuchek Aviva combo
+ACCU-CHEK Aviva Connect
+ACCU-CHEK Aviva Expert
+ACCU-CHEK Aviva II
+ACCU-CHEK Aviva Insight
+ACCU-CHEK Aviva Nano
+ACCU-CHEK Camit Pro
+accu-chek camit
+accuchek camit pro
+accuchek camit
+ACCU-CHEK Comfort
+accuchek comfort
+ACCU-CHEK Compact
+ACCUCHEK Compact
+ACCU-CHEK Compact Plus
+ACCUCHEK Compact Plus
+ACCU-CHEK Compact+
+ACCUCHEK Compact+
+ACCUCHEK CompactPlus
+ACCUCHEK Compact +
+ACCU-CHEK CompactPlus
+ACCU-CHEK Compact +
+ACCU-CHEK Compact Plus LCM
+ACCU-CHEK Compact+ LCM
+ACCUCHEK LCM
+ACCU-CHEK CompactPlus LCM
+ACCU-CHEK LCM
+ACCU-CHEK Compact + LCM
+ACCU-CHEK Compass
+ACCUCHEK Compass
+ACCU-CHEK Complete/Sensor Complete
+accuchek complete/sensor complete
+ACCU-CHEK Contigo
+accuchek contigo
+ACCU-CHEK Diabetes Assistant
+accuchek diabetes assistant
+ACCU-CHEK FastClix BQ
+ACCU CHEK FastClix BQ
+ACCUCHEK FastClix BQ
+ACCU-CHEK Go
+ACCUCHEK Go
+ACCU-CHEK Go S
+ACCUCHEK Go S
+ACCU-CHEK Insight CGM
+accuchek insight CGM
+ACCU-CHEK Insight Insulin Pump
+accuchek insight insulin pump
+Accu-Chek Insight
+ACCU-CHEK Integra
+ACCUCHEK Integra
+ACCU-CHEK Interfaces
+ACCUCHEK Interfaces
+ACCU-CHEK Mobile
+accuchek mobile
+ACCU-CHEK Mobile LCM
+Mobile LCM
+ACCUCHEK Mobile LCM
+ACCU-CHEK Monitor
+accuchek monitor
+ACCU-CHEK Multiclix
+ACCUCHEK Multiclix
+ACCU-CHEK Smart Pix II GV
+ACCUCHEK Smart Pix II GV
+ACCU CHEK Smart Pix2
+ACCU-CHEK Smart Pix 2
+ACCU CHEK Smart Pix II
+ACCUCHEK Smart Pix 2
+ACCU-CHEK Smart PixII
+ACCU CHEK Smart PixII
+ACCU CHEK Smart Pix II GV
+ACCUCHEK Smart Pix2
+ACCU-CHEK Smart Pix2
+Smart Pix2
+ACCUCHEK Smart PixII
+ACCU-CHEK Smart Pix II
+Smart Pix II
+Smart Pix 2
+ACCUCHEK Smart Pix II
+ACCU-CHEK GTS
+accuchek GTS
+ACCU-CHEK Inform
+Accuchek Inform
+ACCU-CHEK MelliBase
+Accuchek Mellibase
+ACCU-CHEK Spirit
+Accuchek Spirit
+Accu-Chek Inform II
+Accu-Chek Inform II System
+Inform 2
+Accu-Chek® Inform II System
+Inform II
+Accu-Chek Inform2
+Accuchek Inform 2
+Accu-Chek® Inform II
+Accu-Chek Inform 2 System
+Accuchek Inform II
+Accuchek Inform 2 System
+Accu-Chek Inform 2
+Accuchek Inform II System
+Inform2
+ACCU-CHEK 360
+accuchek 360
+ACCU-CHEK 360 Android App R9
+Accu-Chek 360 Android App
+Accuchek 360 Android App
+ACCU-CHEK 360 Configuration Software R8
+Accu-chek 360 Configuration Software
+Accu-chek 360 Configuration SW
+accu-chek 360 SW
+ACCU-CHEK 360 Diabetes Mgmt Desktop RI
+ACCU-CHEK 360 Diabetes Mgmt Desktop
+ACCU-CHEK 360 Diabetes
+ACCU-CHEK FastClix lancet drum
+ACCUCHEK FastClix lancet drum
+ACCU CHEK FastClix lancet drum
+ACCU-CHEK FastClix II
+ACCU CHEK FastClix II
+ACCU CHEK FastClix 2
+ACCUCHEK FastClix 2
+ACCU-CHEK FastClix 2
+ACCUCHEK FastClix II
+ACCU-CHEK FastClix Mobile U8
+ACCU CHEK FastClix Mobile U8
+ACCUCHEK FastClix Mobile U8
+ACCU-CHEK FastClix Mobile LCM U1
+ACCU CHEK FastClix Mobile LCM U1
+ACCUCHEK FastClix Mobile LCM U1
+Axeda
+Axeda SW
+Slide Washer 12 Array Processing System
+Slide Washer System
+Slide Washer Processing System
+Slide Washer 12 Array
+COBAS MIRA
+c mira
+COBAS MIRA C8
+COBAS MIRA CP
+COBAS MIRA CQ
+COBAS MIRA CW
+COBAS MIRA C7
+COBAS MIRA C6
+connect 2
+connect2
+RLS Sequencing Systems
+Genome Sequencer Junior
+GS Junior
+GS Jr
+Genome Sequencer Jr
+Genome Sequencer 20
+GS 20
+Genome Sequencer FLX
+GSF
+Genome FLX
+FLX
+Sequencing FLX
+GS FLX
+Genome Sequencing FLX
+Genome Sequencer FLX+
+GS FLX +
+GSF+
+GS FLX Plus
+FLX Plus
+FLX+
+Genome Sequencing FLX+
+Genome Sequencer FLX +
+GS FLX+
+Genome Sequencer FLX plus
+Roche Hitachi 904
+HITACHI 904
+h904
+middleware software
+workarea manager
+software middleware
+Middleware-Software
+work area manager
+WAM
+DRI-CHEM Systems
+DRI-CHEM
+DRI-CHEM System
+FUJI DRI-CHEM 4000i
+FUJI DRI-CHEM
+Drichem 4000i
+DRI-CHEM 4000i
+Starlyte III
+Starlyte 3
+Starlyte3
+Roche Hitachi Clinical Chemistry Analyzer 747-400
+h747-400
+Hitachi 747-400
+Roche Hitachi Clinical Chemistry Analyser 747-400
+Roche Hitachi 747-400
+Roche Hitachi 747/400
+Roche/Hitachi 747-400
+cobas s 201 system
+s 201
+cobas s201 System
+cobas s201
+cobas s 201
+s201
+cobas s 201 Blood Screening System
+cobas Connection Module CCM
+MPL Evo 2
+MPL Evo2
+Roche Hitachi 917 Chemistry Analyzer
+Roche/Hitachi 917
+Roche Hitachi 917 Chemistry Analyser
+h917
+Hitachi 917
+Roche Hitachi 917
+COASYS Systems
+Coasys System
+COASYS PLUS
+COASYS 110
+Coasys® Plus C
+Coasys Plus C
+Coasys + C
+Coasys® + C
+Instrument Manager
+Lantronix
+InstrumentManager
+Intermec
+DataInnovations
+Lan tronix
+Data Innovations
+RocheHitachi Clinical Chemistry Analyzer 747-200
+RocheHitachi Clinical Chemistry Analyser 747-200
+HITACHI 747-200
+Roche Hitachi 747/200
+Roche/Hitachi 747-200
+h747-200
+Roche Hitachi 747-200
+cobas p 671 centrifuge unit
+cobas p671 centrifuge unit
+cobas p 671
+cobas p 671 unit
+cobas 671
+cobas p671
+p 671
+p671
+cobas p 501 post-analytical unit
+cobas p501
+p 501
+cobas p 501
+p501
+cobas p501 post-analytical unit
+cobas p 501 unit
+cobas c 503 analyzer
+cobas c 503 analyser
+c 503
+cobas 503
+cobas c503
+cobas c 503
+c503
+HIS
+hospital information system
+COBAS® TaqMan® Analyzer
+TaqMan
+COBAS TaqMan Analyzer
+COBAS® TaqMan® Analyser
+Cobas TM
+COBAS TaqMan
+CTM
+Aloka Rack Transportation Unit
+Aloka Rack Transportation
+Aloka Rack Unit
+cobas IT 3000 application
+IT-3000
+cobas IT 3000
+IT3000
+IT 3000
+cobas IT 3000 Microbiology
+IT3000 Microbiology
+cobas IT3000 Microbiology
+IT 3000 Microbiology
+cobas IT 3000 Central laboratory
+IT3000 central lab
+cobas IT3000 Central laboratory
+IT3000 central laboratory
+IT 3000 central lab
+cobas IT3000 central lab
+cobas IT 3000 central lab
+IT 3000 central laboratoy
+cobas IT 3000 Blood Depot
+IT 3000 Blood Depot
+IT3000 Blood Depot
+cobas IT3000 Blood Depot
+VS 250 RACK
+VS250
+VS 250
+VS250 RACK
+CellaVision DM96
+CellaVision DM 96
+Ventana
+Ventana AS 800
+AS 800
+AS800
+Apollo
+Ventana HE 600
+HE 600
+Atlas
+HE600
+VENTANA CONNECT
+Ventana System Software VSS
+VSS
+Visual Urine Glucose/Ketone KD
+Visual Urine Glucose / Ketone
+Visual Urine Glucose/Ketone
+Visual Urine Glucose
+cobas b 121 system
+b 121
+b121
+cobas b121
+cobas b 121
+OMNI-C
+OMNI C
+Roche OMNI C system
+cobas b121 bga system
+cobas b 101 system
+cobas b101
+cobas b101 system
+b101
+b 101
+cobas b 101
+Hamilton
+SYMPHONY S-plus
+Symphony s plus
+symphony s+
+symphony s +
+cobas p 471 centrifuge unit
+cobas p471
+p 471
+cobas 471
+p471
+cobas p 471
+cobas p 471 unit
+Reflotron Systems
+Reflotron System
+REFLOTRON I
+REFLOTRON1
+REFLOTRON 1
+REFLOTRON II
+REFLOTRON2
+REFLOTRON 2
+REFLOTRON III Sprint
+Reflotron III
+Reflotron 3 Sprint
+Reflotron 3
+REFLOTRON IV
+REFLOTRON4
+REFLOTRON 4
+REFLOTRON PST
+REFLOTRON Plus
+Reflotron +
+Miditron
+Miditron Junior
+Miditron Jr
+Miditron Junior II
+Miditron Jr 2
+Miditron Junior2
+Miditron Jr II
+Miditron Junior 2
+Miditron M
+Miditron-M
+Multiplate® analyzer
+Multiplate Analyser
+Multiplate Analyzer
+Multiplate
+COBAS INTEGRA
+c integra
+integra
+COBAS INTEGRA 700
+i 700
+i700
+INTEGRA 700
+c integra 700
+cobas int 700
+INT700
+COBAS INTEGRA® 400 plus analyzer
+cobas 400plus
+cobas INT400 plus
+cobas INT 400 plus
+COBAS INTEGRA 400 plus analyzer
+cobas i 400 plus
+COBAS INTEGRA® 400 plus
+cobas INT 400plus
+cobas 400 Plus
+COBAS INTEGRA 400 plus
+cobas i400+
+cobas I400 plus
+COBAS INTEGRA® 400 system
+cobas i400
+INTEGRA 400
+COBAS INTEGRA 400
+cobas i 400
+cobas INT400
+integra400
+COBAS INTEGRA 400 system
+COBAS INTEGRA® 800 system
+cobas INT800
+COBAS INTEGRA 800 system
+cobas INT 800
+COBAS INTEGRA 800
+cobas i800
+INTEGRA 800
+other
+ECL
+electro chemi luminescence
+electrochemiluminescence
+Ion Selective Electrodes
+position
+pos
+location
+2-point calibration
+two-point calibration
+1-endpoint assay
+one-endpoint assay
+2-endpoint assay
+two-endpoint assay
+3-endpoint assay
+three-endpoint assay
+2-point rate assay
+two-point rate assay
+cobas® 4800 software
+ISE 988-4
+988-4 Electrolyte Analyser
+Electrolyte Analyser 988-4
+Electrolyte 988-4
+ISE-988-4
+ISE988-4
+Roche 988-4 Electrolyte Analyser
+Roche 988-4 Electrolyte Analyser ISE
+cobas® 4800 System
+cobas 4800 System
+c 48k
+c 4800
+c4800
+cobas 48k
+c48k
+cobas x 480 instrument
+cobas x 480
+cobas x480
+x480
+x 480
+cobas z 480 analyzer
+cobas z480
+z480
+cobas z 480
+z 480
+cobas p 480
+p480
+p 480
+cobas p480
+cobas p 480 instrument
+cobas p480 instrument
+cobas p 480 software
+cobas p480 software
+cobas® 6500 urine analyzer series
+c6500
+cobas6500
+cobas 6500
+cobas 6500 urine analyzer series
+cobas u 601 urine analyzer
+cobas u 601
+cobas u601
+u 601
+u601
+cobas u 601 urine analyser
+cobas u 701 microscopy analyzer
+u 701
+cobas u 701
+u701
+cobas u701
+cobas u 701 microscopy analyser
+cobas c 111 analyzer
+cobas c111
+cobas c 111
+cobas 111
+c111
+c 111
+cobas c111 analyzer
+cobas c 111 analyser
+cobas® 6800/8800 Systems
+cx800
+c x800
+cobas x800
+cobas® 8800 System
+cobas 8800 system
+NewGen 1000
+cobas® 8800 instrument
+c8800
+c 8800
+cobas 8800
+cobas 8800 instrument
+cobas® 6800 System
+NewGen
+NewGen 300
+cobas 6800 System
+cobas® 6800 instrument
+cobas 6800
+cobas 6800 instrument
+c 6800
+c6800
+CDIFF
+cdf
+clostridium diffcile
+NH3L
+NH3L Ammonia
+Ammonia
+COBAS INTEGRA NH3L Ammonia
+NH3
+ASA
+Acetylsalicilic acid
+AMYL
+AMYL α-Amylase liquid acc to IFCC
+a¬-Amylase EPS
+alpha Amylase ß
+AMY
+α-Amylase liquid
+α-Amylase liquid acc to IFCC
+α-Amylase EPS
+alpha-Amylase
+Amylase
+Glycerol
+glycerine
+AMYL-P
+AMYP
+alpha-Amylase Pancreatic
+α-Amylase EPS Pancreatic
+p-Amylase
+alpha Amylase Pancreatic
+pathological casts
+PAT
+AST ASAT/GOT
+Aspartate aminotransferase acc to IFCC with/without pyridoxal phosphate activation
+ASAT
+GOT
+AST UV Test
+Aspartate Aminotransferase AST
+AST ASAT/GOT Aspartate aminotransferase acc to IFCC with/without pyridoxal phosphate activation
+AFP
+AFP α1-fetoprotein
+Elecsys AFP Assay
+Alphafetoprotein
+YEA
+yeast
+PlGF
+Human Placenta Growth Factor
+Placenta Growth Factor
+PLG
+Plasminogen
+PAI
+Plasminogen Activator-Inhibitors
+Li
+Lithium
+PF4
+Platelet Factor 4
+PF 4
+VANCO
+Vanc2
+Vancomycin
+LDHI2
+Lactate Dehydrogenase acc IFCC ver.2
+Lactate Dehydrogenase acc to IFCC ver.2
+LDHI2 Lactate Dehydrogenase acc IFCC ver.2
+LDHI2 Lactate dehydrogenase liquid acc to IFCC ver.2
+LA
+Lupus Anticoagulant
+K
+Potassium
+Potassium Electrode
+Prealb
+Prealbumin
+Pre-albumin / Transthyretin
+Prea
+Tina-quant Prealbumin
+LIDO
+ONLINE TDM Lidocaine
+LIDO ONLINE TDM Lidocaine
+Lidocaine
+ONLINE TDM Lidocaine assay
+LIP
+Lipase
+AMYL2
+Alpha-Amylase 2
+α-Amylase EPS ver.2
+calibrator kit
+HSV-2 IgG
+Elecsys HSV-2 IgG Immunoassay
+Herpes simples Virus 2 IgG
+IgG antibodies to herpes simplex virus type 2
+LP a
+Lipoprotein a
+LPA
+SHBG
+Human sex hormone-binding globulin
+Elecsys SHBG
+LDH-iso
+Lactate Dehydrogenase Iso
+LDH iso
+LoD
+low detection limit
+lower detection limit
+limit of detection
+detection limit
+SARS-CoV
+SARS-Coronavirus RNA RUO
+SARS-Coronavirus
+Sepsis
+HCG STAT
+Human Chorionic Gonadotropin
+HCG
+Human chorionic gonadotropin, STAT Short Turn Around Time
+HCG STAT II
+Elecsys HCG STAT
+A1C-2
+Tina-quant HbA1c Gen.2 A1C-W
+A1C-2 Tina-quant Hemoglobin A1c Gen.2 - Whole blood and Hemolysate Application
+Tina-quant Hemoglobin A1c Gen.2 - Whole blood and Hemolysate Application
+Tina-quant Hemoglobin A1c Gen.2
+Whole blood and Hemolysate Application
+AAT
+Protease inhibitor
+Alpha-1-Antitrypsin
+alpha-Antitrypsin
+a1-Antitrypsin Protease inhibitor
+α1-Antitrypsin Tina-quant α1-Antitrypsin
+a1-Antitrypsin
+Tina-quant α1-Antitrypsin
+Tina-quant Alpha-1-Antitrypsin
+ALB2
+Albumin 2
+Albumin Gen 2
+COBAS INTEGRA Albumin Gen 2
+ALB plus Albumin BCG method
+Oral Fluid Methamphetamine
+OFMA Oral Fluid Methamphetamine
+DAT Oral Fluid Methamphetamine OFMA
+Na
+Sodium
+Natrium
+Sodium Electrode
+PRIM
+Primidone
+proBNP II STAT
+N-terminal pro B-type natriuretic peptide
+N-terminal pro B-type natriuretic peptide, STAT Short Turn Around Time
+proBNP II
+Elecsys ProBNP II STAT Immunoassay
+Elecsys ProBNP II Immunoassay
+proBNP STAT
+Elecsys ProBNP STAT Assay
+BNP
+NT-proBNP
+Elecsys ProBNP Assay
+ProBNP
+CoaguChek XS PT Test
+PAPP-A
+Pregnancy-associated plasma protein A
+Procainamide
+PROC ONLINE TDM Procainamide
+PROC
+ONLINE TDM Procainamide assay
+PROC2
+ONLINE TDM Procainamide
+PTH STAT
+parathyrin - PTH
+Elecsys PTH Immunoassay
+Parathyroid hormone parathormone, parathyrin - PTH, intact STAT “Short Turn Around Time”
+intact STAT “Short Turn Around Time”
+Parathyroid hormone parathormone
+Parathyroid hormone parathormone, parathyrin - PTH, intact
+PTH
+Parathyroid Hormone Intact
+Elecsys PTH STAT Immunoassay
+Oxycodone
+OXY Oxycodone
+DRI Oxycodone assay OXY
+DRI Oxycodone Assay
+OXY
+T3
+T 3
+Triiodothyronine
+Elecsys T3
+GGT-2
+Gamma-Glutamyltransferase 2
+ɣ-Glutamyltransferase ver.2
+ɣ-Glutamyltransferase ver.2 Standardized against IFCC / Szasz
+COBAS INTEGRA GGT
+Glutamyltransferase 2
+GGT-2 ɣ-Glutamyltransferase ver.2 Standardized against IFCC / Szasz
+ɣ-Glutamyltransferase ver.2 Standardized against Szasz
+Gamma-GT 2
+GGT-2 ɣ-Glutamyltransferase ver.2 Standardized against Szasz
+Troponin I
+c-Troponin
+c Troponin
+Trop I
+TNI
+Elecsys Troponin I Immunoassay
+cTroponin I
+Troponin 1
+c-Troponin I
+c Troponin I
+P1NP
+CFAS
+c.f.a.s
+Calibrator for automated systems
+VALP
+Valproic Acid
+Valproic Acid - Free Valproic Acid Application
+VALP ONLINE TDM Valproic Acid
+ONLINE TDM Valproic Acid assay
+ONLINE TDM Valproic Acid
+F XIII
+factor 13
+F13
+factor13
+Coagulation factor XIII
+Coagulation factor 13
+F 13
+factor XIII
+Pseudomonas
+P.aeruginosa DNA detection
+UA
+Uric Acid
+F XII
+factor12
+F 12
+factor XII
+F12
+Coagulation factor XII
+factor 12
+Coagulation factor 12
+UREAL
+UREA/BUN Kinetic UV assay for urea/urea nitrogen
+UREAL UREA/BUN
+Kinetic UV assay for urea/urea nitrogen
+UREA/BUN
+BUN/Urea UREAL
+Roche Diagnostics Urea/Urea Nitrogen Reagent
+BUN
+Urea
+UREA/Blood Urea Nitrogen
+LA-APA
+LAAPA
+Lupus Anticoagulant/Antiphospholipid Antibody Panel
+LH
+Luteinizing hormone
+Luteinising Hormone
+Elecsys LH Assay
+HIV Ag P24
+HIV P24 Antigen
+Strep A
+Strep A ptsl gene
+Streptococcus pyogenes
+HIV-1 qual
+HIV-1 qualitative
+sFLT1
+soluble FMS like Thyrosin Kinase 1
+sflt 1
+HCG+B
+Elecsys HCG Beta Test System
+Human chorionic Gonadotropin + beta
+HCG B
+HCG-b
+Human chorionic Gonadotropin beta
+HCG+β
+HCG-beta
+HCG beta
+Beta-hCG
+Intact human chorionic gonadotropin the β-subunit
+HCGB
+HCG+beta
+HCG-β
+sTfR
+Tina-quant Soluble Transferrin Receptor
+Soluble Transferrin Receptor
+Protein C
+Protein S
+THC2
+Cannabinoids II THCII
+ONLINE DAT II Cannabinoids II
+Cannabinoids
+cannabinoid
+Cannabis
+THCII
+THC II
+THC
+Cannabinoids II
+PPX
+Propoxyphene Plus
+Propoxyphene Plus PPX P
+PPX P Propoxyphene Plus
+Propoxyphene
+TP2
+Total Protein Gen.2 monocromatic
+TP2 Total Protein Gen.2 monocromatic
+Total Protein Gen.2
+PCT
+Procalcitonin
+PSA
+Elecsys Total PSA Immunoassay
+TPSA
+Prostatic Specific Antigen
+total free complexed PSA - Prostate-specific antigen tPSA
+TPSA CS
+Total PSA
+CA 72-4
+CA 724
+Cancer Antigen 72-4
+CA724
+Candida
+Candida albicans DNA detection
+CA 15-3 II
+Elecsys CA 15-3 II Assay
+CA15-3
+CA 15-3
+Cancer Antigen 15-3
+CA 153
+CA153
+Folate RBC Hemolyzing Reagent
+Elecsys RBC Folate Hemolyzing Reagent
+Hemolyzing reagent for the determination of folate in erythrocytes
+hTR RNA quant
+hTR RNA quantitative
+quantitative human telomerase-assoc RNA
+BIL-D
+D-Bili
+bilid
+Bilirubin direct
+BilD
+dbili
+Bili-D
+Bordetella
+1001 gene
+parapertussis
+IS481
+pertussis
+Ca
+Calcium
+CA 125 II
+Elecsys CA 125 II
+CA 125
+CA125
+Cancer Antigen 125
+CA 19-9
+Elecsys CA 19-9 Immunoassay
+CA19-9
+Carbohydrate Antigen 19-9
+CA199
+CA 199
+Cancer Antigen 19-9
+PT
+Prothrombin time Quick Test
+BILTS
+Total Bilirubin Special
+BILTS Total Bilirubin Special
+BCR-ABL quant
+quantification of BCR-ABL fusion transcripts
+BCRABL
+BCR-ABL quantitative
+CT/NG test
+CT/NG-Test
+AAT2
+α1-Antitrypsin 2
+Tina-quant α1-Antitrypsin ver.2
+a1-Antitrypsin 2
+Alpha-1-Antitrypsin 2
+a1-Antitrypsin 2 Protease inhibitor
+UA2
+UA2 Uric Acid ver.2
+Uric Acid ver.2
+Uric Acid Ver.2 UA2
+UA plus
+Uric Acid plus
+Uric Acid PAP
+UA plus Uric Acid plus
+Roche CARDIAC POC Troponin T
+Roche CARDIAC T Quantitative Troponin T Quantitative
+Troponin T Quantitative
+Accutrend Cholesterol
+Accutrend Plus Cholesterol strips
+β-CrossLaps/serum
+Elecsys β-CrossLaps/serum Immunoassay
+β-CrossLaps/serum β-CTx in serum
+cobas® HCV Quantitative nucleic acid test for use on the cobas® 4800 System
+cobas® HCV
+Oral Fluid Amphetamine
+OFAMP Oral Fluid Amphetamine
+DAT Oral Fluid Amphetamine OFAMP
+HBV test
+test HBV
+HBV-Test
+cobas® CT/NG Test
+cobas® HBV Quantitative nucleic acid test for use on the cobas® 4800 System
+cobas® 4800 HBV Test
+cobas® HBV
+Oral Fluid Cocaine
+DAT Oral Fluid Cocaine OFCOC
+OFCOC Oral Fluid Cocaine
+S.I
+SI
+Serum Index Solution
+Serum Index
+S.I Serum Index
+duplex test
+DPX test
+test DPX
+Duplex-Test
+DPX-Test
+Validity Test Nitrite
+ONLINE DAT Validity Test Nitrite
+Specimen Validity Test Nitrite
+cobas® EGFR Mutation Test
+cobas® EGFR Mutationsassay
+cobas® EGFR Mutationstest
+MM
+Methadone Metabolite
+DRI Methadone Metabolite
+DRI Methadone Metabolite assay MM
+MM Methadone Metabolite
+DRI Methadone Metabolite assay
+AP
+analysis package
+assay specific analytic packag
+ASAP
+assay specific analytic package
+Lactate Gen.2
+LACT2 Lactate Gen.2
+LACT2
+C4-2
+Tina-quant Complement C4 ver.2
+MICRAL-TEST®
+MICRALTEST
+MICRAL-TEST
+Validity Test Oxidant
+ONLINE DAT Validity Test Oxidant
+Specimen Validity Test Oxidant
+ketone
+Ketones
+KETO
+DIGIT
+Digitoxin
+IgA-2
+Roche Diagnostics Tina-quant IgA Gen.2
+IgA Tina-quant IgA Gen.2
+Tina-quant IgA Gen.2
+Toxo IgM
+Toxoplasma Antibody IgM
+Toxoplasma IgM
+TFPI
+Toxoplasma Antibody IgG
+Tissue factor pathway inhibitor I
+Toxoplasma IgG
+Toxo IgG
+Elecsys Toxo IgG Immunoassay
+Toxo
+IgG antibodies to Toxoplasma gondii
+Toxoplasma Antibody
+TOBR2
+ONLINE TDM Tobramycin
+Tobramycin 2
+Tobramycin
+TOBR ONLINE TDM Tobramycin
+ONLINE TDM Tobramycin assay
+TOBRA
+Tobramycin II
+Tobr
+T4
+T 4
+Total T4
+Thyroxine
+Elecsys T4 Assay
+mALB
+Micro-albumin
+µ-Albumin
+MAU
+micro albumin
+Microalbumin
+TRANS
+Transferrin
+AAGP
+α1‑Acid Glycoprotein
+a1-Acid Glycoprotein Orosomucoid
+Orosomucoid
+alpha1-Acid Glycoprotein
+Alpha1-Glykoprotein
+a1-Acid Glycoprotein
+tPA
+Tissue Plasminogen Activator
+U/CSF Protein
+Roche/Hitachi Urinary/CSF Protein
+U/CSF Protein Total Protein in Urine/Cerebrospinal Fluid
+Total Protein in Urine/Cerebrospinal Fluid
+ACETA
+Acetaminophene
+Roche Acetaminophen Assay
+ACETA Acetaminophen
+acetaminophen
+Paracetamol
+Acetaminophen Paracetamol
+CREJ2
+CREJ2 Creatinine Jaffé Gen.2 - Urine
+Creatinine Jaffé Gen.2
+COBAS INTEGRA Creatinine Jaffé
+Antitrypsin
+A1M
+a1-Microglobulin
+alpha1-Microglobulin
+α1-Microglobulin
+Validity Test pH
+ONLINE DAT Validity Test pH
+Specimen Validity Test pH
+FRA
+Fructosamine
+FRUC
+GGT
+Gamma-Glutamyltransferase
+Gamma Glutamyltransferase
+Gamma-GT
+y-Glutamyltransferase
+Gamma-glutamyltransferase liquid
+GGT Gamma-glutamyltransferase liquid
+Glutamyltransferase
+FT3 III
+Elecsys FT3 III
+Free Triiodothyronine III
+FT3 - Free Triiodothyronine gen.3
+FT3 - free triiodothyronine gen3
+CFHR1
+Complement factor H-related 1
+Complement factor H-related protein 1
+GENTA
+Gent2
+Gentamicin
+Gent
+CT qual
+Chlamydia Trachomatis qualitative
+OPI2
+Opiate
+Opiates II
+Opiates
+OPIA Opiates II
+Opiate 2
+Opiates II OPIA
+OPIA
+NAT2 mutation
+nucleotide polymorphisms of human N-acetyltransferase 2 gene
+NAT 2
+ACP-NPP
+ACPNPP
+Non-prostatic Acid Phosphatase
+NSE
+Neuron Specific Enolase
+CT/NG qual
+ctng
+Chlamydia trachomatis/ Neisseria gonorrhoeae qualitative
+ct-ng
+CT/NG qualitative
+Chloride
+Chloride Electrode
+CHOL2
+Cholesterol 2
+Cholesterol Gen.2
+COBAS INTEGRA Cholesterol CHOLL
+CHOL2 Cholesterol Gen.2
+%CDT
+Desialotransferrin DST
+Carbo Hydrate Deficient Transferrin
+CDT
+HBsAg Confirmatory Test
+HBsAg Conf
+Elecsys HBsAg Confirmatory Test
+Testosterone
+Testosterone II
+Elecsys Testosterone II Assay
+Testosterone with Dehydro and Free
+Cerulo
+CPLAS
+Ceruloplasmin
+Ceru
+COBAS INTEGRA CERULOPLASMIN
+HIV-1 test
+HIV-1-Test
+test HIV-1
+Anti-HBe
+AHBE
+A HBE
+Hep B Antibody Total
+HepB Antibody Total
+Hepatitis B Antibody Total
+TG
+Triglycerides GB
+TG Triglycerides GPO-PAP
+Triglycerides GPO-PAP
+Thyroglobulin
+Anti-TPO
+ATPO
+Antibodies to thyroid peroxidase
+Thyroid Peroxydase Antibodies
+Roche Diagnostics COBAS Elecsys Anti-TPO
+Anti-HBs
+Hep B Surface Antib Total
+Antibody to hepatitis B surface antigen anti-HBs
+Elecsys Anti-HBs Immunoassay
+Hep B Surface Antib
+AHBS
+A HBS
+A-HBs
+Hepatitis B Surface Antib
+HepB Surface Antib
+Hepatitis B Surface Antib Total
+TNAI
+Total Nucleic Acid Isolation
+HBeAg
+Hepatitis B Antigen
+Elecsys HBeAg Immunoassay
+Hepatitis B e antigen
+HepB Antigen
+Hep B Antigen
+TP
+Total Protein
+TP Total protein
+Anti-HBc
+HepB Core Antib
+Elecsys Anti-HBc Immunoassay
+Hep B Core Antib
+AHBC
+Hepatitis B Core Antib
+HepB Core Antib Total
+Hepatitis B Core Antib Total
+A-HBc
+Hep B Core Antib Total
+Antibodies to hepatitis B core antigen anti-HBc
+Calcitonin
+Elecsys Calcitonin Immunoassay
+hCT - human calcitonin
+hCT
+ACP
+Acid Phosphatase
+APTT
+Activated Partial Thromboplastin Time
+CHE
+Cholinesterase Gen.2
+CHE Cholinesterase
+Cholinesterase
+CHE2
+ACTH
+Elecsys ACTH Test System
+Adrenocorticotropic hormone, corticotropin
+Adrenocorticotropic Hormone
+BILT3
+cobas c Bilirubin Total Gen.3
+Total Bilirubin
+TBILI Total Bilirubin
+Bilirubin Total Gen.3
+Oral Fluid Opiates
+DAT Oral Fluid Opiates OFOPI
+OFOPI Oral Fluid Opiates
+OFOPI
+CO2
+Carbon Dioxide
+CEA
+Carcinoembryonic Antigen
+Elecsys CEA Assay
+NG qual
+NG qualitative
+Neisseria gonorrhoeae qualitative
+CHOL
+Cholesterol/HP
+CHOL CHOD-PAP
+CHOL Cholesterol CHOD-PAP
+Cholesterol CHOD-PAP
+Cholesterol
+N-Acetyl-Procainamide
+ONLINE TDM N-acetylprocainamide assay
+N-Acetyl Procainamide
+N Acetyl Procainamide
+NAPA
+ONLINE TDM N-acetylprocainamide
+N-Acetylprocainamide
+NAPA ONLINE TDM N-acetylprocainamide
+cobas® HCV GT HCV genotyping test for use on the cobas® 4800 System
+cobas® HCV GT
+TMPA
+Total Mycophenolic Acid
+Mycophenolic Acid
+Parvo B19
+Parvovirus B19 quant
+Parvo-B19-Virus
+INSTC
+Instrument Check
+GLUH2
+Glucose HK Hemolysate*
+Syphilis
+lues
+Treponema Pallidum Latex Agglutination
+TPLA
+Prolactin II
+Prolactin 2
+PRL II
+prol 2
+PRL
+PRL 2
+HAV RNA quant
+Hep A RNA quantitative
+Hepatitis A RNA quantitative
+HBsAg
+HepA RNA quantitative
+HCV genotyping
+Hepatitis C Virus genotyping
+HCV genotyping test
+HEP C Virus genotyping
+HepC virus Genotyping
+IgM-2
+Immunoglobulin M Gen.2
+Tina-quant IgM Gen.2
+IgM Tina-quant IgM Gen.2
+Roche Diagnostics Tina-quant IgM Gen.2
+Progesterone II
+PRG 2
+Progesterone2
+Elecsys Progesterone II Assay
+PROG
+prog 2
+Progesterone 2
+HCV qual
+Hep C Virus qualitative
+HepC Virus qualitative
+Hepatitis C Virus qualitative
+HBV quant
+HepB Virus quantitative
+Hepatitis B Virus quantitative
+Hep B Virus quantitative
+PHOS2
+Phosphate Inorganic ver.2
+Oral Fluid Phencyclidine
+OFPCP Oral Fluid Phencyclidine
+DAT Oral Fluid Phencyclidine OFPCP
+HBV qual
+Hep B Virus qualitative
+Hepatitis B Virus qualitative
+HepB Virus qualitative
+F VIII
+factor VIII
+factor8
+factor 8
+F 8
+Coagulation factor VIII
+F8
+Coagulation factor 8
+FERR4
+FERR4 Tina-quant Ferritin Gen.4
+Tina-Quant Ferritin Gen.4 Assay
+Tina-quant Ferritin Gen.4
+VWF
+von Willebrand
+coagulation factor
+COX
+Cycloxygenase
+PHOS
+Phosphate inorganic / Phosphorus
+Phosphorus
+PHOS Inorganic phosphorus
+Phosphate inorganic
+Roche Diagnostics Inorganic Phosphorus
+Inorganic phosphorus
+Phenytoin
+Roche ONLINE TDM Phenytoin
+ONLINE TDM Phenytoin
+PHNY
+ONLINE TDM Phenytoin assay
+phny2
+PHNY ONLINE TDM Phenytoin
+Phenytoin - Free Phenytoin Application
+Phenobarbital
+PHNO ONLINE TDM Phenobarbital
+ONLINE TDM Phenobarbital
+ONLINE TDM Phenobarbital assay
+PHNO
+Pheno
+PCP
+Phencyclidine Plus
+Phencyclidine
+PCP P
+ONLINE DAT Phencyclidine Plus
+Phencyclidine Plus PCP P
+Creatinine
+CREA-E
+Creatinine - Enzymatic
+Creatinine enzymatic
+CREAE
+CREA-J
+CREAJ
+Creatinine Jaffé
+Creatinine Jaffe
+F VII
+Coagulation factor 7
+factor VII
+Coagulation factor VII
+F 7
+F7
+factor 7
+factor7
+Troponin T hs
+Roche CARDIAC TROP TSensitive
+Troponin T hs high sensitive
+Roche Troponin T Sensitive
+Troponin T Sensitive
+Roche CARDIAC TROP T Sensitive
+F XI
+factor XI
+Coagulation factor 11
+F 11
+Coagulation factor XI
+factor11
+factor 11
+F11
+Vitamin D total
+25-Hydroxyvitamin D
+Elecsys Vitamin D Assay
+F X
+factor X
+F10
+factor10
+Coagulation factor 10
+Coagulation factor X
+factor 10
+F 10
+CO2-L
+CO2-L Bircarbonate liquid
+COBAS INTEGRA CO2 Bicarbonate
+Bircarbonate liquid
+Accutrend® Glucose
+Accutrend Glucose
+MTB/MAI qual
+Mycobacteria tuberculosis and Mycobacteria avium / Mycobacteria intracellulare qualitative
+MTB / MAI qual
+MTB MAI qual
+MTB-MAI qual
+TPUC
+Total Protein Urine CSF
+Total Protein Urine/CSF
+UCAP
+utility channel analysis package
+Sulfonate
+SVTCR
+Validity Test Creatinine
+ONLINE DAT Specimen Validity Test Creatinine
+Specimen Validity Test Creatinine
+Sirolimus
+SRL
+ASLO
+Tina-quant ASLO Antistreptolysin O
+Tina-quant ASLO
+HCV quant
+Hepatitis C Virus quantitative
+Hep C Virus quantitative
+HepC Virus quantitative
+MG2
+Magnesium Gen.2
+IgG-2
+Roche Diagnostics Tina-quant IgG Gen.2
+IgG II
+IgG Tina-quant IgG Gen.2
+Tina-quant IgG Gen.2
+IgG 2
+BAC
+bacterium
+TPUC3
+Roche/Hitachi Urinary/CSF Protein Gen.3
+Total Protein Urine/CSF Gen.3
+U/CSF Protein Total Protein in Urine/Cerebrospinal Fluid Gen.3
+F V
+factor 5
+F 5
+F5
+Coagulation factor 5
+factor V
+factor5
+Coagulation factor V
+N-MID Osteocalcin
+OCN
+Elecsys N-Mid Osteocalcin Immunoassay
+Osteocalcin
+Osteocalcin OCN
+F II
+factor 2
+Prothrombin
+F 2
+F2
+Coagulation factor 2
+factor II
+factor2
+Coagulation factor II
+F IX
+factor IX
+F9
+Coagulation factor 9
+F 9
+factor 9
+Coagulation factor IX
+factor9
+Factor V Leiden
+Coagulation Factor 5 Leiden
+F5 Leiden
+Coagulation Factor V Leiden
+Factor5 Leiden
+Factor 5 Leiden
+F 5 Leiden
+BAR P
+Barbiturates Plus
+Barbiturates Plus BAR P
+ONLINE DAT Barbiturates Plus
+BENZ
+Benzodiazepine
+Benzodiazepines
+Benzodiazepines Plus BNZ P
+Benzodiazepines Plus
+BNZ P Benzodiazepines Plus
+B2MG
+Beta 2
+Tina-quant β2-Microglobulin
+B2-Microglobulin
+β 2
+β2-Microglobulin Tina-quant β2-Microglobulin
+Beta2-Microglobuline
+Cortisol
+CCS
+CCC
+Elecsys Cortisol Test System
+CORT
+COC2
+ONLINE DAT II Cocaine II
+Cocaine2
+Cocain II
+Cocain 2
+COCA2
+COCA Gen2
+Cocaine 2
+COCII
+CocaineII
+Cocaine II
+C4
+C4 Tina-quant C4
+Complement C4
+Tina-quant C4
+C4 Complement
+Complement Component C4
+ALTPM / ASTPM
+Alanine Aminotransferase / Aspartate Aminotransferase acc to IFCC with pyridoxal phosphate activation
+BIL-T
+BIL
+Bili-T
+tbili
+T-Bili
+Bilirubin Total
+bilit
+BilT
+BIL T
+Bilirubin
+Bili
+TRIGL
+Triglycerides
+Trig
+TRIGL Triglycerides
+CREP2
+COBAS INTEGRA Creatinine Plus Ver 2
+Creatinine plus ver.2
+CREP2 Creatinine plus ver.2
+C3c
+C3C-2
+C3 Complement
+C3
+Complement Component C3/C3c
+Tina-quant C3c
+Complement C3c
+C3c Tina-quant C3c
+Tina-quant Complement C3c ver.2
+Beta-CrossLaps
+beta CrossLaps/Serum
+ß-CrossLaps
+B-CrossLaps
+β-CrossLaps
+CKL
+Creatine Kinase - Total
+CKL Creatine Kinase
+Creatine Kinase liquid, acc to IFCC
+CK Creatine Kinase liquid, acc to IFCC
+Creatine Kinase
+COBAS CK-NAC REAGENT
+CK
+CA2
+Calcium 2
+CA2 Calcium Gen.2
+Calcium Gen.2
+Calcium Gen 2 Assay
+CRPL3
+Tina-quant C-Reactive Protein Gen.3
+C-Reactive Protein Gen.3
+C-Peptide
+Elecsys C-Peptide
+connecting peptide
+C-Peptid
+CPEPTID
+IL28B
+Interleukin-28B
+IL-28B
+Interleukin28B
+Interleukin 28B
+IL 28B
+CRP
+C-Reactive Protein
+AMPS/MDMA
+Amphetamine - Methamphetamine
+AMPS MDMA
+Amphetamine-Methamphetamine
+Amphetamine/Methamphetamine Specific +Ecstasy
+AMPS / MDMA
+Amphetamine / Methamphetamine
+Amphetamine/Methamphetamine Specific Ecstasy
+AMPS-MDMA
+Amphetamine/Methamphetamine
+S100
+S 100
+ASTL
+Aspartate aminotransferase with/without pyridoxal phosphate activation
+Aspartate Aminotransferase
+Aspartate Aminotransferase ASTL/ASTPL
+Aspartate Aminotransferase - Pyridoxal phosphate activated
+Aspartate Aminotransferase acc to IFCC without pyridoxal phosphate activation
+ASTL/ASTPL
+ALP
+Alkaline Phosphatase - Total
+Alkaline Phosphate
+alkaline phosphatase
+Vitamin B12
+B 12
+Elecsys Vitamin B12 Immunoassay
+V b12
+B12
+VZV ORF29
+Varizella-Zoster-Virus ORF29
+Varicella-Zoster Virus ORF29 detection
+Aldolase
+ALD
+D3
+D 3
+Vitamin D3
+CT quant
+Chlamydia trachomatis quantitative
+CT quantitative
+WNV
+West Nile Virus
+ALBP
+Albumin/BCP
+BCP Albumin
+Albumin BCP
+BRAF
+v-raf murine sarcoma viral oncogene homolog B1
+Everolimus
+EVL
+CKMBL
+CKMBL Creatine Kinase-MB
+CK-MB - the MB isoenzyme of creatine kinase STAT “Short Turn Around Time”
+Elecsys CK-MB STAT Immunoassay
+CKMB
+CKMB CS
+CK-MB - the MB isoenzyme of creatine kinase
+CKMB CC
+Creatine Kinase-MB
+Creatine Kinase - MB
+COBAS INTEGRA CKMBL Creatine Kinase MB
+Elecsys CK-MB Immunoassay
+CK-MB
+APOAT
+Apolipoprotein A I
+Apo A1
+Apolipoprotein A 1
+Apolipoprotein A1
+Apo A 1
+Apo A I
+Tina-quant Apolipoprotein A-I ver.2
+APO A-I ver.2 Tina-quant Apolipoprotein A-I ver.2
+APOA
+Tina-quant Apolipoprotein A-1 ver.2
+Apolipoprotein
+APO A-I ver.2
+Apolipoprotein A-1
+ALT ALAT/GPT
+Alanine Aminotransferase ALT
+Alanine Amino-Transferase
+Alanine Aminotransferase ALT with P-5-P
+ALAT
+ALT
+Alanine Aminotransferase with P-5-P
+Alanine aminotransferase acc IFCC with or without pyridoxal phosphate activation
+ALTL
+ALTLP
+Alanine Aminotransferase - Pyridoxal Phosphate Activated
+GPT
+Alanine aminotransferase acc IFCC without pyridoxal phosphate activation
+Alanine Transferase
+ALT with P-5-P
+Alanine Aminotransferase
+Alanine Aminotransferase acc to IFCC with pyridoxal phosphate activation
+Alanine aminotransferase acc to IFCC with/without pyridoxal phosphate activation
+ALT ALAT/GPT Alanine aminotransferase acc to IFCC with/without pyridoxal phosphate activation
+RF
+Theumatoid Factor
+SVT
+Sample Validity Test
+EDDP
+2-Ethylidin-1,5-Dimethyl -3,3-Diphenylpyrrolidin
+CSA
+Cyclosporine A
+Cyclosporine Total
+Cyclosporine
+Cyclosporine II
+AMIK
+Amikacin
+AMIK2
+Pyridoxal Phosphate
+PYP
+APOBT
+APO B ver.2
+Tina-quant Apolipoprotein ver.2
+APOB
+Tina-quant Apolipoprotein B ver.2
+Apolipoprotein B
+Apo B
+Glutamine
+l-glutamin
+Gln
+MYCO qual
+Mycobacteria qualitative
+Apo E gene mutation
+Apolipoprotein E-Mutation
+Apolipoprotein gene mutation codon 112 and 158
+Apo E-Mutation
+BARB
+Barbiturate
+Barbiturates
+GDF-15
+NAG-1
+MIC-1
+Growth differenciation factor 15
+GDF15
+Apo B gene mutation
+ApoB-Mutation
+Apolipoprotein B-Mutation
+Apo B-Mutation
+Apolipoprotein gene mutation codon 3500
+Salicylate
+Roche Diagnostics Salicylate reagents
+SAL Salicylate
+SALI Salicylate
+SALI
+Syl
+TT
+Thrombin Time
+Thrombin act
+thrombin activity
+TS mRNA quant
+Thymidylate Synthase mRNA quantitative
+TS mRNA quantitative
+TP mRNA quant
+Thymidine Phosphorylase mRNA quantitative
+TP mRNA quantitative
+TAFI
+thrombin-activatable fibrinolysis inhibitor
+cobas® HIV-1 Quantitative nucleic acid test for use on the cobas® 4800 System
+cobas® 4800 HIV-1 Monitor Test
+cobas® HIV-1
+cobas HIV-1
+MTQL
+Methaqualone
+FT3
+FT3 - free triiodothyronine
+FT3CC
+Free Triiodothyronine
+FT3CS
+FT 3
+CK20 quant
+mRNA encoding for human cytokeratin 20
+CK20 quantitative
+FVALP
+Free Valproic Acid
+Free VALP
+MTB qual
+Mycobacterium tuberculosis qualitive
+Mycobacterium tuberculosis qual
+MTB qualitative
+Heparin
+anti XA
+mecA gene
+Methicillin resistance gene mecA
+Hb
+Hemoglobin
+MPX
+Multiplex PCR
+Multiplex
+TaqScreen MPX
+Rubella IgM
+Rubella Virus IgM
+IgM antibodies to Rubella virus
+Rubella-Virus IgM
+Elecsys Rubella IgM Immunoassay
+LDHL
+Lactate Dehydrogenase P-L
+Lactate Dehydrogenase optimized
+Staphylococcus
+S.aureus and coagulase-negative Staphylococcus CoNS DNS
+RNA amp
+RNA Amplification
+Rubella IgG
+IgG antibodies to Rubella virus
+Elecsys Rubella IgG Immunoassay
+Rubella Virus IgG
+D N A/viral D N A
+DNA/virale DNA
+BNZ2
+Benzodiazepine II
+Benzodiazepines 2
+Benzodiazepines II
+Benzodiazepine 2
+FSH
+Follicle Stimulating Hormone
+Elecsys FSH Assay
+Follicle-stimulating hormone
+MG
+Roche Diagnostics Magnesium Reagent
+Mg Magnesium
+Magnesium
+Mag
+FHCG+B
+free Human Chorionic Gonadotropin + beta
+FHCGB
+MDN2
+Meth 2
+Methadone II
+Meth II
+MDNII Methadone II
+Methadone II MDNII
+Methadone
+METH
+MDN II
+FPHNY
+Free Phenytoin
+THEO
+THEO2
+Theophylline
+MRSA Advanced
+Methicillin-resistant Staphylococcus aureus Advanced
+QUIN
+Quindine
+free PSA
+Prostatic Specific Ag
+Free Prostatic Specific Ag
+FPSA
+Elecsys Free PSA Immunoassay
+LSD
+Lysergic acid diethylamide
+STA Reptilase
+Reptl
+Reptilase
+STA®Reptilase®
+FT4 II
+FT4CS
+FT 4
+Elecsys FT4 Assay
+Free Thyroxine
+FT4
+Elecsys FT4 II Assay
+FT4CC
+IRON2
+FE Gen.2
+Iron Gen.2
+HSV 1/2
+Herpes simplex 1/2
+Herpes Simplex type 1 and 2
+Strep B
+B-streptococcal
+Strep B ptsl gene
+ALP2
+Alkaline Phosphatase acc to IFCC Gen.2
+RPR
+T Pallidum Rapid Plasma Reagin
+Rapid-Plasma-Reagin
+HIV-1 quant
+HIV-1 quantitative
+BTG
+b-Thromboglobulin
+ß-Thromboglobulin
+beta-Thromboglobulin
+β-Thromboglobulin
+HSV-1 IgG
+Herpes Simplex Virus
+IgG antibodies to herpes simplex virus type 1
+HSV
+Elecsys HSV-1 IgG Immunoassay
+Anti-Tg
+Antibody to thyroglobulin anti-Tg
+Roche Diagnostics Elecsys Anti-Tg
+Elecsys Anti-Tg Assay
+A-Tg
+ATG
+Anti-Thyroglobulin
+CYP450
+CYP 450
+Cytochrome CYP450
+CMV IgG
+CMVIGG
+Cytomegalovirus IgG
+Cytomegalovirus DNA
+Anti-TSHR
+Elecsys Anti-TSHR Immunoassay
+A-TSHR
+Anti-Thyroid Stimulating Hormone Receptor AB
+ATSHR
+Antibodies to TSH receptor
+CMV IgM
+CMVIGM
+Cytomegalovirus IgM
+AT III
+AT3
+AT 3
+Antithrombin III
+Antithrombin 3
+vanA/vanB
+Vancomycin-resistance genes vanA / vanB
+van a van b
+vana vanb
+Cyfra 21-1
+Cyfra 211
+Cystatin C
+CYSTC
+Tina-quant Cystatin C
+Cysteine
+CYSC
+CFTR gene mutation
+Cystic Fibrosis Transmembrane Conductance Regulator mutation
+Validity Test Chromate
+Specimen Validity Test Chromate
+ONLINE DAT Validity Test Chromate
+BlankCell
+cellblank
+cell blank
+blank cell
+free βhCG
+Elecsys HCG Test System
+free β-subunit of human chorionic gonadotropin
+HTLV
+Human Lymphotropes Virus
+VZV qual
+Varicella Zoster Virus qualitative
+HPV quant
+Human Papilloma Virus quantitative
+CYP2C19 mutation
+CYP2C19
+CYP 2C19
+nucleotide polymorphism of human Cytochrome P450 2C19 gene
+HEV qual
+Hep E
+Hepatitis E Virus qualitative
+HepE
+HepE Virus qualitative
+Hep E Virus qualitative
+Hepatitis E
+HEV qualitative
+CRPHS
+CRPHS C-Reactive Protein Latex High Sensitive Assay for COBAS INTEGRA Instruments
+hs-CRP
+CRPHS Cardiac C-Reactive Protein Latex High Sensitive
+CRP HS
+C-Reactive Protein - High Sensitive
+hscrp
+high sensitive C-Reactive Protein
+Cardiac C-Reactive Protein Latex High Sensitive
+CYP2C9 mutation
+nucleotide polymorphism of human Cytochrome P450 2C9 gene
+CYP2C9
+CRPLX
+C-Reactive Protein Latex
+CRPLX C-reactive protein latex
+Roche C-Reactive Protein
+HIV combi
+HIV Antibody + HIV Antigen
+HIVCOM
+HIV Antigen
+Anti-HBc IgM
+Hepatitis B Core Antibody IgM
+IgM antibodies to hepatitis B core antigen anti-HBc IgM
+Elecsys Anti-HBc IgM Immunoassay
+Gentamicin II
+CEDIA Gentamicin II assay
+Gent II CEDIA Gentamicin II
+Gentamicin II Global
+Cedia Gentamicin Assay
+GENTA II
+CEDIA Gentamicin II
+Influenza A/B & RSV
+Respiratory Syncytial virus
+CHED2
+Cholinesterase / Dibucaine Gen2
+Anti-CCP
+Elecsys Anti-CCP Immunoassay
+A-CCP
+Anti-cyclic citrullinated peptide antibody
+ACCP
+Antibody to cyclic citrullinated peptide anti-CCP
+Cholinesterase Gen2
+AT
+Antithrombin
+Parvo B19 quant
+MYO
+Roche Cardiac M
+CFASM
+Myoglobin
+CFAS M
+LDL-C plus 2nd
+LDL‑Cholesterol Gen.2
+LDLC2
+LDL-C plus 2nd generation
+LDL-C2
+SCC
+Squamous Cell Carcinoma Antigen
+cobas® HCV Genotyping Test
+AMH
+Anti-Mueller-Hormon
+Anti-Mullerian Hormone
+Anti-Muellerian-Hormon
+MAI
+Mycobacterium avium
+Mycobacterium avium-intracellulare
+Mycobacterium avium / Mycobaterium intracellulare
+HAV RNA qual
+Hepatitis A RNA qualitative
+D2
+D 2
+Vitamin D2
+WNV qual
+West Nile Virus qualitative
+ALBT2
+Tina-quant Albumin Gen.2
+cobas® 4800 CT/NG Test
+cobas® 4800 CT/NG-Test
+GLU
+GLU Gluco-quant Glucose/HK
+Glucose
+Gluco-quant Glucose/HK
+Gluc
+Haptoglobin
+HGLOB
+Hapt
+Tina-quant Haptoglobin
+Anti-HCV
+HepC
+HCV Antibody
+ahcv
+Hep C
+Elecsys Anti-HCV Immunoassay
+Antibody to hepatitis C virus anti-HCV
+Hepatitis C
+GLDH
+Glutamate Dehydrogenase
+GDH
+MRSA/SA
+methicillin-resistant Staphylococcus aureus and Staphylococcus aureus
+MRSA SA
+MRSA-SA
+AMP
+Amphetamines
+Amphetamines Group
+ADP
+Adenosine diphosphate
+ADP rezeptoren
+HBA1C
+HbA1c - Hemolysate
+A1c
+Glycated Haemoglobin
+Glycosylated/Glycated Haemogl
+HbA1c - Whole Blood
+Glycosylated Haemoglobin
+HDLC3
+HDLC3 HDL-Cholesterol plus 3rd generation
+HDL-C
+HDL-Cholesterol
+HDL-Cholesterol plus 3rd generation
+hdlc
+Boehringer Mannheim Direct HDL-Cholesterol
+Anti-HBs IgM
+Hepatitis B Surface Antib IgM
+MPX qual
+Multiplex PCR qual
+IgG
+igg sens
+IgG Sensitive
+Immunoglobulin G
+CMV UL54
+CMVUL54
+Cytomegalovirus UL54
+D-Dimer
+Ddimer
+Tina-quant D-Dimer
+D-DI2
+Tina-quant D-Dimer Gen.2
+DHEA-S
+DHEAS/DHEA
+Elecsys DHEA-S
+Dehydro-epiandrosterone Sulphate
+Dehydro-epiandrosterone Sulphate incl DHEA
+Dehydroepiandrosterone sulfate
+SEC
+squamous epithelial cells
+CMV qual
+CMV qualitative
+Cytomegalovirus qualitative
+IgA
+Immunoglobulin A
+IgA Sensitive
+IGA sens
+CMV quant
+CMV quantitative
+Cytomegalovirus quantitative
+Anti-HAV
+ahav
+Elecsys Anti-HAV Assay
+Hep A
+A-HAV
+HepA
+anti-hav antibody
+Total antibodies IgM and IgG to the hepatitis A virus
+Hepatitis A
+HAV Antibody Total
+Anti-HAV IgM
+Elecsys Anti-HAV IgM
+IgM antibodies to the hepatitis A virus
+HAV Antibody IgM
+IgE
+Immunglobulin E
+Elecsys IgE Immunoassay
+Immunoglobulin E
+Human DNA
+HBDH
+Hydroxybutyrate Dehydrogenase
+HCYS
+Homocystein
+HCYS Homocysteine Enzymatic Assay
+Homocysteine Enzymatic Assay
+Homocysteine
+HOMOC
+Homo
+Homocyst
+CMV Avidity
+Cytomegalovirus IAvidity
+Troponin I STAT
+c-Troponin STAT
+TNI STAT
+c Troponin I STAT
+cTroponin I STAT
+Troponin I STAT “Short Turn Around Time”
+c-Troponin I STAT
+Trop I Stat
+Elecsys Troponin I STAT Immunoassay
+c Troponin STAT
+CMV IgG Avidity
+Cytomegalovirus IgG Avidity
+HPV qual
+Human Papilloma Virus qualitative
+HPV qualitative
+RF-II
+Tina-quant RF II
+RF2
+RF II
+Tina-quant Rheumatoid Factors II Test System
+RF 2
+Rheumatoid Factors
+BRAF / NRAS
+v-raf murine sarcoma viral oncogene homolog B1 and Neuroblastoma RAS viral oncogene homolog
+Troponin T STAT
+Trop T Stat
+Elecsys Troponin T STAT Assay
+Troponin T STAT Short Turn Around Time, CARDIAC T
+Roche Elecsys Troponin T STAT
+HER2/neu DNA quant
+HER2/neu DNA quantitative
+human HER2/neu DNA encoding
+hGH
+Human Growth Hormone
+Elecsys HGH Assay
+Influenza A/B & RSV qual
+Influenza A/B & RSV qualitative
+HE4
+Human Epududymal protein 4
+Human Epididymis Protein 4
+Human epididymal protein 4
+HE 4
+Elecsys HE4 Assay
+cobas® DPX
+DPX PCR
+cobas DPX
+DPX
+Ferritin
+Elecsys Ferritin
+FCS
+F CC
+FERR
+F CS
+FCC
+F II G20210A
+factor II Prothrombin mutation G20210A
+Factor II G20210A
+F2 G20210A
+Estradiol II
+E CC
+Elecsys Estradiol II Assay
+EII
+Estradiol - E2
+ECC
+E2
+E2CS
+Estradiol
+LDH
+LDH Lactate dehydrogenase liquid acc to IFCC
+LDHI
+LD
+Lactate dehydrogenase liquid acc to IFCC
+Lactate Dehydrogenase
+DIGOX
+Elecsys Digoxin Assay
+DIG
+Digoxin
+Cobas Digoxin
+Tina-quant Digoxin
+PTH 1-84
+Parathyroid Hormone Intact 1-84
+ETOH2
+Ethanol Alcohol
+Ethyl Alcohol
+Ethanol Gen.2
+COBAS INTEGRA Ethanol Gen.2
+ETH Ethyl Alcohol
+LDL-C
+LDLC
+LDL-Cholesterol
+LDL
+LDL_C LDL - Cholesterol
+LDL - Cholesterol
+DNA amp
+DNA Amplification
+DPD mRNA quant
+Dihydropyrimidine Dehydrogenase mRNA quantitative
+ALB
+albu
+Albumin
+Enterococcus DNA
+E.faecalis and E.faecium DNA
+mucus
+MUC
+Fe
+Iron
+Fe Iron
+Ferrum
+Kappa
+Kappa Chain
+Enterococcus ITS
+ITS region of E.faecalis and E.faecium
+Lactate
+LACT
+IL 6
+IL6
+Interleukin-6
+Interleukin 6
+IL-6
+EGFR mutation
+EGFR-Mutation
+cobas® EGFR Mutation Tes
+EGFR
+UIBC
+UIBC Unsaturated Iron-Binding Capacity
+HYCEL FERROZINE IRON AND IRON BINDING TEST
+Iron Binding Capacity - Unsaturated
+Unsaturated Iron-Binding Capacity
+Unsaturated Iron Binding Capacity
+Insulin
+Elecsys Insulin
+ICC
+INS
+EBV quant
+Epstein-Barr Virus DNA quantitative
+EBV quantitative
+free TFPI
+Free Tissue Factor Pathway Inhibitor
+T-Uptake
+TUP CS
+T uptake
+Tup
+Elecsys T-Uptake Assay
+T-UP
+TU
+TUP CC
+Toxo IgG Avidity
+Toxoplasma Antibody Igg Avidity
+Troponin T
+Troponin T, CARDIAC T
+Trop T
+TNT
+Elecsys Troponin T Assay
+Elecsys Troponin T
+Folate III
+Folate 3
+Folate RBC
+Folate II
+FOLATE
+RBC Hemolyzing Reagent
+RBC Folate
+Roche Elecsys Folate III
+Elecsys Folate RBC Assay
+K-RAS mutation
+KRAS
+v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog
+KRAS-Mutation
+FDP
+Fibrinogen Degradation Products
+TSH
+Thyroid Stimulating Hormone
+Thyrotropin
+FBG
+Fibrinogen Assays Factor I
+FM
+Fibrin sensitivity monomer
+IgM
+IgM Sensitive
+igm sens
+Immunoglobulin M
+cobas® 4800 HPV Test
+HPV Test
+cobas 4800 HPV Test
+BIL-N
+Bilirubin neonatal
+Strep A qual
+Streptococcus pyogenes qualitative
+CARB2
+Carb II CEDIA Carbamazepine II
+CEDIA Carbamazepine II
+CEDIA Carbamazepine II assay
+Carbamazepine II
+CARB
+CARB Carbamazepine
+Carbamazepine
+F XIIIa
+Coagulation factor XIIIa

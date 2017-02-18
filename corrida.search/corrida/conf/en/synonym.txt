@@ -1,0 +1,1737 @@
+_synonym_en_1,Power supply AC,AC,AC power supply
+_synonym_en_2,float assembly,liquid level sensor assembly,float switch
+_synonym_en_3,Power supply AC/DC,AC/DC,AC/DC power supply
+_synonym_en_4,liquid level sensor,LLD sensor
+_synonym_en_5,inlet water filter,water filter
+_synonym_en_6,presence detector,presence sensor
+_synonym_en_7,cartridge,electrode
+_synonym_en_8,internationalization CD,internationalization DVD,internationalisation DVD,internationalisation CD
+_synonym_en_9,probe bend detector,initialization plate,probe test pin,bend detection block,pipette calibration reference block
+_synonym_en_10,MSS Module,MSS
+_synonym_en_11,beeper,buzzer
+_synonym_en_12,Intermec Barcode Printer,Intermec Barcode-Printer,Intermec BC Printer,Intermec Bar-code Printer,Intermec Barcode,Intermec Printer
+_synonym_en_13,aliquot plate,archive plate
+_synonym_en_14,cooling unit filter,radiator filter
+_synonym_en_15,calibrator rack,calibration rack
+_synonym_en_16,cobas omni Specimen Diluent,cobas® omni specimen diluent
+_synonym_en_17,Input tubes with barcode clips,input tubes,input tubing
+_synonym_en_18,rack for clotted tips,clotted tip rack,tip waste rack,tip discarding rack
+_synonym_en_19,MWP,microwell plate,Mikrotiterplatte
+_synonym_en_20,amplification plate handler,Plate Handler A
+_synonym_en_21,solid waste station,consumable waste
+_synonym_en_22,amplification plate AD plate,AD-plate
+_synonym_en_23,adapter for 180-tip tray,180-tip tray adapter
+_synonym_en_24,sealing station,Frame Sealer
+_synonym_en_25,Development Channel Package,Universal Reagent Carrier Dummy
+_synonym_en_26,Tygon Tubing,Tygon Tube
+_synonym_en_27,pipetting stage,cuvette positioner for sample injection,tray dock
+_synonym_en_28,reagent transfer head,Reagent head,transfer head R2/R3
+_synonym_en_29,gripper arm,gripper arm L 2,gripper arm S2,gripper arm L2,gripper arm S 2
+_synonym_en_30,sample supply module status indicator,main display
+_synonym_en_31,control rack,QC rack
+_synonym_en_32,E-Extension,E Extension
+_synonym_en_33,amplification plate cassette,AD-plate cassette,AD-Cassette
+_synonym_en_34,SCM module,sample checker module,SCM
+_synonym_en_35,photometer PCB,PCP detect,detection & control PCB,coagulation analyzer PCB,PCB photometer
+_synonym_en_36,RFID reader/writer,RFID platform
+_synonym_en_37,reference post,teaching post
+_synonym_en_38,cable conduit,cable channel
+_synonym_en_39,ISE rinse station,ISE washing station,ISE wash station
+_synonym_en_40,E-Connection,E Connection
+_synonym_en_41,main cover,sportello principale
+_synonym_en_42,wash rack,green rack,washing rack
+_synonym_en_43,reagent storage,reagent compartment,reagent warehouse,reagent storage compartment
+_synonym_en_44,reagent disk,Reagent Disc,Reagent rotor,rotary storage level,Reagent storage carousel
+_synonym_en_45,Pre-wash sipper,prewash sipper
+_synonym_en_46,blood unit,blood bottle
+_synonym_en_47,Pre-wash dispenser,prewash dispenser
+_synonym_en_48,status light,status lamp,signal tower,signal lamp,indicator lamp,signal light
+_synonym_en_49,pre-wash gripper,prewash gripper
+_synonym_en_50,airflow screen,roller blind,rollo
+_synonym_en_51,sample transfer head,Transfer_S/Mod_Z,transfer head S/R1
+_synonym_en_52,transfer arm,transport arm
+_synonym_en_53,Reagent transfer arm,transfer arm r2/r3
+_synonym_en_54,sample transfer arm,transfer arm s/r1,sample arm,Transfer Sample/Reagent S/R
+_synonym_en_55,workstation R3,workstation R2,workstation B,workstation A,workstation R1,workstation C,cuvette shaker
+_synonym_en_56,initialization post,init tower,initialization tower,init post
+_synonym_en_57,rotor,storage rotor,analyzer rotor,cuvette ring
+_synonym_en_58,buffer empty sensor,sensor buffer empty
+_synonym_en_59,CORE-tip,CORE tip
+_synonym_en_60,cobas omni Solid Waste Bag,cobas® omni solid waste bag SWB
+_synonym_en_61,reset button,reset switch for auto closing timer
+_synonym_en_62,DC power supply,DC,power supply DC
+_synonym_en_63,fluid system,fluidic system,liquid system
+_synonym_en_64,analytic unit,analytic cycler
+_synonym_en_65,hard disc,disk,disc,hard disk
+_synonym_en_66,main handler,Stacker Handler
+_synonym_en_67,ISE sample arm,ISE sample transfer arm
+_synonym_en_68,circuit breaker,breaker
+_synonym_en_69,sample supply module,Sample Supply,sample source cell
+_synonym_en_70,rack rubber disk,gum spacer
+_synonym_en_71,LAN port,LAN socket
+_synonym_en_72,processing plate magazine,P Plate Stacker
+_synonym_en_73,cable tie,binder
+_synonym_en_74,rack conveyor belt,rack transport,rack transporter
+_synonym_en_75,tip rack magazine,Tip Stacker,tip magazine
+_synonym_en_76,processing modules,workflow modules,main modules
+_synonym_en_77,MGP cassette magazine,MGP Stacker
+_synonym_en_78,turbidimeter,turbimeter
+_synonym_en_79,cobas® PCR Media cap carrier,cap carrier CPM
+_synonym_en_80,routine line,routine sample line
+_synonym_en_81,twister channel,tube twister
+_synonym_en_82,analytic module,analytical module,AD Cell
+_synonym_en_83,cobas e pack,e-pack,e packs,e-packs
+_synonym_en_84,detection unit,Elecsys measuring device
+_synonym_en_85,buffer full sensor,sensor buffer full
+_synonym_en_86,reagent cassette,reagent tray,rack pack,reagent pack
+_synonym_en_87,quick release pin,mounting bolt
+_synonym_en_88,centrifuge bucket,bucket
+_synonym_en_89,status indicator,LED indicator,rack indicator LED,rack slot indicator,rack indicator
+_synonym_en_90,cassette mixer,Reagent cassette shaker,cassette shaker
+_synonym_en_91,cooling unit,cooling module,cooling system,cooling assembly
+_synonym_en_92,EWS probe,Prewash Probe,Prewash Nozzle,EWS nozzle,EWS needle
+_synonym_en_93,application code number,ACN
+_synonym_en_94,calibrator,calib
+_synonym_en_95,Connection Line,CL
+_synonym_en_96,ISE calibration carrier,ISE calibration cassette
+_synonym_en_97,Activator,ISE Activator,Roche Activator
+_synonym_en_98,ISE maintenance cassette,maintenance kit ISE,ISE maintenance carrier,ISE maintenance kit
+_synonym_en_99,universal connection line,UCL
+_synonym_en_100,amplification plate drawer,AD Output Drawer
+_synonym_en_101,sample,specimen
+_synonym_en_102,pipetting unit,pipetting robot,Robot
+_synonym_en_103,cuvette rack,cuvette bar
+_synonym_en_104,LED ring,LED array
+_synonym_en_105,solid waste door,solid waste hatch,solid waste flap
+_synonym_en_106,reagent transfer unit,Transfer R
+_synonym_en_107,vacuum module,vacuum unit,vacuum assy
+_synonym_en_108,barcode,bar code,bar-code
+_synonym_en_109,input line,priority in
+_synonym_en_110,photometer unit,USRH,Universal Strip Reader Head,strip reader
+_synonym_en_111,Magnet Drive Assy,Magnet Drive Assembly,Magnet Drive
+_synonym_en_112,Label sample rack,Sample rack label
+_synonym_en_113,incubation bath,reaction bath,incubator bath,incubation water
+_synonym_en_114,cobas omni Amplification Plate,cobas® omni amplification plate ADP96
+_synonym_en_115,sipper syringe,Sipper Syringe Assy
+_synonym_en_116,pre-wash syringe,prewash syringe
+_synonym_en_117,cuvette,micro cuvette,reaction cell
+_synonym_en_118,output buffer,rack output area
+_synonym_en_119,internal water container,internal water reservoir
+_synonym_en_120,load button,reagent loader switch,loader operation switch
+_synonym_en_121,sample transport unit,sample transport module
+_synonym_en_122,reaction disk,reaction disc
+_synonym_en_123,ecotergent bottle,hitergent bottle
+_synonym_en_124,control unit,Central Processing Unit,computer,CPU
+_synonym_en_125,tip loading mechanism,tip-feed mechanism
+_synonym_en_126,rack barcode Label,Label rack barcode
+_synonym_en_127,fuse compartment,fuse chamber,fuse board
+_synonym_en_128,Paper/Printer Ribbon,Printer Ribbon,Paper Ribbon
+_synonym_en_129,interim reagent storage,Reagent supply
+_synonym_en_130,output station,sample output station
+_synonym_en_131,core unit,CU,core module
+_synonym_en_132,supplies,resources,labware
+_synonym_en_133,MGP cassette shaker,agitador da cassete com MGP,MGP Mixer,MGP cassette mixer
+_synonym_en_134,Reagent Tip,RTip,R-Tip
+_synonym_en_135,Sample Disk,Sample Disc
+_synonym_en_136,O-Ring Gripper,O Ring Gripper,oring Gripper
+_synonym_en_137,processing plate,P-plate,P-plate 48
+_synonym_en_138,fiber-optic light guide,fiber bundle
+_synonym_en_139,5-position rack,Roche 5-position rack,RD 5 rack,standard RD5 position sample rack,RD 5 CTS rack,Roche Standard Rack,Roche/Hitachi 5-position rack,five-position rack,Hitachi 5 position standard rack,5-position standard rack,RD5 rack
+_synonym_en_140,work area,display,screen,window,monitor
+_synonym_en_141,RFID reader,RFID sensor
+_synonym_en_142,module work surface,processing area
+_synonym_en_143,centrifuge bucket adapter,centrifuge adapter
+_synonym_en_144,RCL,reformatter connection line
+_synonym_en_145,sample pipetter,air-pump,Pipettor Air Pump,air pump,airpump
+_synonym_en_146,Turn table,TUL
+_synonym_en_147,Thermocycler,thermal cycler
+_synonym_en_148,test pad,pad
+_synonym_en_149,Tip ejection plate,tip eject plate
+_synonym_en_150,sample rack,standard rack
+_synonym_en_151,storage device,storage medium
+_synonym_en_152,reference cuvette,dummy cuvette,check cuvette
+_synonym_en_153,RFID tag,RFID label,RFID chip
+_synonym_en_154,Special Cell Cleaning solution,SCCS
+_synonym_en_155,hiturgent,hiturg
+_synonym_en_156,housing,chassis
+_synonym_en_157,CleanCell reservoir,clean cell reservoir
+_synonym_en_158,reaction vessel gripper,vessel gripper
+_synonym_en_159,sampling unit,cobas 4000 sampling unit,sampling module
+_synonym_en_160,switch service mode,service mode switch
+_synonym_en_161,Reagent cassette piercer,piercer,cassette piercer
+_synonym_en_162,test strip cassette compartment,strip cassette compartment
+_synonym_en_163,liquid waste station,process waste station
+_synonym_en_164,amplification plate transfer position,AD Transfer position
+_synonym_en_165,gripper finger spring,spring for gripper finger
+_synonym_en_166,processing module handler,Plate Handler P
+_synonym_en_167,safety interlock controller,lock safety module assy
+_synonym_en_168,false bottom tube,false-bottom tube
+_synonym_en_169,wash solution,cleaning solution,Cleaner,washing solution,cleaning substance,cleaning agent
+_synonym_en_170,cobas omni Processing Plate,cobas® omni processing plate PRP48
+_synonym_en_171,transfer module handler,Plate Handler S
+_synonym_en_172,service indicator,warning lamp,work area service indicator
+_synonym_en_173,priority rack slot,STAT slot
+_synonym_en_174,barcode reading station,bar-code reading station,reading station
+_synonym_en_175,cuvette transport unit,cuvette transfer system,cuvette transfer unit
+_synonym_en_176,loading lane,RFM lane
+_synonym_en_177,RD5-in,input rack sLot
+_synonym_en_178,PC cup,ProCell reservoir,ProCell cup,PC reservoir,pro cell reservoir
+_synonym_en_179,Workstation Prewash,pre-wash station
+_synonym_en_180,SysClean reservoir,sys clean reservoir
+_synonym_en_181,amplification plate,AD-plate 96
+_synonym_en_182,sipper station,workstation sipper
+_synonym_en_183,external storage device,portable storage medium,external storage medium,portable storage device
+_synonym_en_184,amplification plate frame,ADPF96
+_synonym_en_185,hand-held barcode reader,handheld barcode scanner,hand-held bar code reader,hand-held bar-code reader,hand-held barcode scanner,hand-held barcode-scanner,hand-held bar-code scanner,hand-held bar code scanner,hand-held barcode-reader
+_synonym_en_186,control mini rack,RMC rack,RMC mini rack
+_synonym_en_187,waste insert,WI48
+_synonym_en_188,sipper spring,spring for sipper nozzle,spring for sipper probe,spring for sipper needle
+_synonym_en_189,gel separator tube,gel-type tube
+_synonym_en_190,conveyour belt,cuvette conveyor belt
+_synonym_en_191,USM,USM assy,ultrasonic,USM assembly,ultrasonic mixer
+_synonym_en_192,test strip tray,transfer base,test strip transfer base,strip tray
+_synonym_en_193,carrier,Gripper Carrier,Z Carrier assy,carrier assembly
+_synonym_en_194,BRF module,RFM module for cobas 8000/p501/p701 B-gate,RFM-B
+_synonym_en_195,test strip,chemical reagent strip
+_synonym_en_196,Sample Stopper Unit,SSU
+_synonym_en_197,Restopper Module,re-stopper module,RSP
+_synonym_en_198,cobas c pack,URC I
+_synonym_en_199,x motor,xmotor,x-motor
+_synonym_en_200,secondary tube,pool tube,pooler tube,pooling tube,secondary sample tube
+_synonym_en_201,ISE flow path,sample flow path,measuring flow path,reagent flow path
+_synonym_en_202,air conditioner,a/c
+_synonym_en_203,lab gloves,latex gloves,disposable gloves,protective gloves
+_synonym_en_204,z motor,zmotor,z-motor
+_synonym_en_205,cooling position,cooler
+_synonym_en_206,parameter card,value card,assay value card
+_synonym_en_207,refrigerator,fridge
+_synonym_en_208,MGP cassette,casete con partículas de vidrio magnéticas,cassete com MGP,cassetta per biglie di vetro magnetiche
+_synonym_en_209,archive rack,storage rack
+_synonym_en_210,light barrier holder,holder for light barrier,Photo Interruptor holder,Photo Sensor holder,light sensor holder,Reflectance Ligh Barrier holder,PM sensor holder,holder for light sensor,Photosensor holder,fork ligth barrier holder
+_synonym_en_211,network cable,ethernet cable,LAN cable
+_synonym_en_212,UPS,SAI,ASC,unterbrechungsfreie Stromversorgung,uninterruptible power supply,uninterrupted power supply,gruppo di continuità,fonte de alimentação ininterrupta
+_synonym_en_213,cobas omni Pipette Tips,cobas® omni tip rack CTR48
+_synonym_en_214,test strip cassette,cassette box
+_synonym_en_215,mains cable,power cable,mains power cable
+_synonym_en_216,PCB fuse,fuse PCB
+_synonym_en_217,processing transfer head,Process Head
+_synonym_en_218,TLJ line,JCT line,transport line with junction
+_synonym_en_219,processing transfer unit,Transfer P
+_synonym_en_220,test strip transporter drive,test strip transporter disc drive
+_synonym_en_221,autoload tray,loading deck,auto load tray
+_synonym_en_222,mains connector,IEC connector,mains power socket
+_synonym_en_223,concentrated liquid waste container,concentrated waste tank,concentrated waste reservoir
+_synonym_en_224,microbead mixer paddle,mixer arm
+_synonym_en_225,tip tray base,tray base
+_synonym_en_226,tip rack park position,tip park position,process park
+_synonym_en_227,primary tube,primary sample tube
+_synonym_en_228,CRO module,CR1 module,connection unit type R2,Connection Line Type R without Power Unit
+_synonym_en_229,air duct,air channel
+_synonym_en_230,cassette rail,insertion guide
+_synonym_en_231,tube handler,robotic hand,robot hand
+_synonym_en_232,cover,hood
+_synonym_en_233,STAT port,STAT sample entry port
+_synonym_en_234,cuvette cassette,cuvette holder box
+_synonym_en_235,target carrier,output carrier
+_synonym_en_236,motor up-down,motor up/down,motor up down
+_synonym_en_237,amplification plate magazine,AD Stacker
+_synonym_en_238,IG server,Instrument Gateway,Instrument Gateway Server
+_synonym_en_239,tube gripper,gantry gripper,robotic gripper
+_synonym_en_240,memory card,smart card
+_synonym_en_241,gripper finger,robotic finger
+_synonym_en_242,PCB assembly,PCB assy,circuit board,PCB,circuit board assembly
+_synonym_en_243,eye protection,safety glasses,safety goggles,protective goggles,protective glasses
+_synonym_en_244,wash/waste drawer,Wash Waste Drawer
+_synonym_en_245,linear incubator,coagulation incubator
+_synonym_en_246,tube holder,down holder
+_synonym_en_247,bulk drawer,bulk Reagent drawer
+_synonym_en_248,cobas® PCR Media tube,cobas PCR Media tube
+_synonym_en_249,Light Pole Notifier,Pole notification,Light notification
+_synonym_en_250,Metrologic Barcode Scanner,Metrologic Scanner,Metrologic Barcode-Scanner,Metrologic BC Scanner,Metrologic Bar-code Scanner,Metrologic Bar code Scanner
+_synonym_en_251,control unit panel,Panel Control Unit
+_synonym_en_252,Output Buffer Module,OPB,OBM
+_synonym_en_253,Moxa Box,M Box
+_synonym_en_254,PMT,photomultiplier tube,photo multiplier,photomultiplier
+_synonym_en_255,ECL measuring cell,Hitachi measuring cell,HHT measuring cell,HHT measurement cell
+_synonym_en_256,connection component,CLAS 3
+_synonym_en_257,ECL reference electrode,reference electrode
+_synonym_en_258,ISE Calibrator indirect/urine tubing adapter,ISE calibrator tubing adapter
+_synonym_en_259,SnapPak,snappack,snap pack
+_synonym_en_260,Sample Cup Micro,micro cup,HHT Sample Cup Micro,Hitachi micro cup,microcup
+_synonym_en_261,AssayTip tray,assay tip tray,assay-tip tray,AssayTip-Tray
+_synonym_en_262,CLO module,connection unit type L2,CL2 module
+_synonym_en_263,cuvette rail,cuvette guide rail
+_synonym_en_264,degasser,degassing module,degasser module,degasser unit,degassing device
+_synonym_en_265,air bleed valve,degasser valve
+_synonym_en_266,cup on tube,cup-on-tube
+_synonym_en_267,detergent,solution
+_synonym_en_268,Cell washing solution,cell cleaning detergent,cell washing detergent,cell cleaning solution
+_synonym_en_269,swab,q-tip
+_synonym_en_270,panel,content panel
+_synonym_en_271,drip tray,splash guard,drip saucer
+_synonym_en_272,Sample Cup,HHT Sample Cup,standard cup,Hitachi standard cup,Hitachi cup
+_synonym_en_273,cup,Cup/Tip
+_synonym_en_274,power supply,power box,PS
+_synonym_en_275,power supply fan,fan power supply
+_synonym_en_276,rack platform,rack plate
+_synonym_en_277,internal PC,internal control unit,IPC,industrial PC,integrated PC,analyzer computer
+_synonym_en_278,USB port,USB-Port,USB slot,USB interface
+_synonym_en_279,RFX module,RFM for Sysmex XN B-gate
+_synonym_en_280,touch screen,touchscreen
+_synonym_en_281,probe,z probes,pipettor probe,nozzle,pipetter probe,needle
+_synonym_en_282,pipet,transfer device,pipettor,pipette
+_synonym_en_283,PreClean,pre-clean,PreClean M,pre clean bottle,pre clean,PreClean bottle
+_synonym_en_284,disposable drawer,Consumable drawer,fluidics drawer,Consumable storage drawer,Process Cell Drawer
+_synonym_en_285,AssayCup tray,assay cup tray,assay-cup tray,AssayCup-Tray
+_synonym_en_286,slider,slide bar
+_synonym_en_287,installation CD,instrument software,system software,software install CD
+_synonym_en_288,valve block,solenoid valve block,solenoid valve body,valve body,EM valve block,MV valve block,EM valve body,MV valve body
+_synonym_en_289,O-Ring,oring,o ring,packing,sealing
+_synonym_en_290,maintenance kit,preventive maintenenace kit,PM kit,service kit
+_synonym_en_291,diaphragm for vacuum pump,diaphragm,membrane for vacuum pump
+_synonym_en_292,touch pen,pen
+_synonym_en_293,air filter,filter for fan,fan filter,Hepa Filter
+_synonym_en_294,measuring cell tubing,Tubing Cell,Cell Tube,cell tubing
+_synonym_en_295,cap opener,reagent cap mechanism,automatic e-pack cap opener/closer,reagent cap open/close mechanism
+_synonym_en_296,destopper,capper,decapper
+_synonym_en_297,QC cooling box,auto QC buffer
+_synonym_en_298,recapper,restopper
+_synonym_en_299,Archiving Cap,flexible cap
+_synonym_en_300,SurePath™ cap carrier,cap carrier Sp
+_synonym_en_301,test strip transporter,comb
+_synonym_en_302,turntable unit,TUS
+_synonym_en_303,transport line,TL
+_synonym_en_304,illumination tube,lightling tube
+_synonym_en_305,CLAS 2 connection line,CL2
+_synonym_en_306,teach tool,R-tip Teach Tool
+_synonym_en_307,cap tray cover,cap tray lid
+_synonym_en_308,sample buffer unit,SBU
+_synonym_en_309,diluent,dil
+_synonym_en_310,ProCell,pro-cell,system buffer,pro cell,pro cell bottle,ProCell M,ProCell bottle,PC
+_synonym_en_311,CleanCell,CleanCell bottle,clean-cell,CC,CleanCell M,clean cell,clean cell bottle
+_synonym_en_312,SysClean,sys clean,sys-clean
+_synonym_en_313,Water Supply Unit,Watersupply unit,Watersupply,Water supply
+_synonym_en_314,ProbeWash,ProbeWash M,ProbeWash bottle
+_synonym_en_315,cell rinse unit,rinse unit
+_synonym_en_316,pippeting tip tray,pipetting tip tray
+_synonym_en_317,processing tip,P-tip 1 mL
+_synonym_en_318,reaction vessel,reaction cup
+_synonym_en_319,consumable loading area,consumable loading
+_synonym_en_320,eluate tip,E-tip 0.3 mL
+_synonym_en_321,AssayTip,assay-tip,assay tip
+_synonym_en_322,ECL flow path,liquid flow path
+_synonym_en_323,tip rack carrier,Tip-Rack-Carrier,tip carrier,tip magazine carrier
+_synonym_en_324,reagent aspiration arm park position,drip catcher position
+_synonym_en_325,AssayCup,assay-cup,assay cup
+_synonym_en_326,pipette tip,ponta de pipetagem,pipetting tip
+_synonym_en_327,transfer position,Park Position,handover position
+_synonym_en_328,tip loader,Tip-Loader,Tiploader
+_synonym_en_329,LED source,light source
+_synonym_en_330,cuvette cover cpl,cuvette bar counter weight
+_synonym_en_331,stirrer,magnetic stirring bar,reagent stirrer,magnetic stirrer
+_synonym_en_332,probe safety ring,probe safety guard
+_synonym_en_333,CRW module,connection unit type R1,CR2 module,Connection Line Type R with Power Unit
+_synonym_en_334,reagent elevator,lift cage
+_synonym_en_335,ISE sample sensor,ISE liquid sensor,ISE fluid sensor
+_synonym_en_336,ISE mixing tower,mixing tower,ISE tower,ISE
+_synonym_en_337,ISE mixing tower socket,socket mixing tower
+_synonym_en_338,centrifuge unit,centrifuge
+_synonym_en_339,ISE pump tubing,ISE peristaltic pump tubing
+_synonym_en_340,rack transport unit,Rack moving unit
+_synonym_en_341,Tube set ISE,ISE unit tubing,ISE tubing,ISE-Module Tubing
+_synonym_en_342,EcoTergent,ECO-D
+_synonym_en_343,loading port,loader slot
+_synonym_en_344,transfer & pipetting unit,transfer unit,transfer
+_synonym_en_345,module sample buffer,internal buffer,MSB
+_synonym_en_346,external water supply connection kit,external water supply
+_synonym_en_347,Control Line Unit,CTU
+_synonym_en_348,sample tube,sample cup
+_synonym_en_349,single-sample holder,single tube carrier,single-tube holder
+_synonym_en_350,reference plate,reference pad,internal reference field,calibration pad
+_synonym_en_351,cervical brush,cervex brush,brush,cervical examination brush
+_synonym_en_352,ISE peristaltic pump,ISE pump,ISE Pump Peristaltic
+_synonym_en_353,flexible size tray,flex tray
+_synonym_en_354,measuring cell,detection cell,measurement cell,flow cell,physical measuring cell,PMC
+_synonym_en_355,autoloader,reagent loader,Reagent manager,RMr
+_synonym_en_356,sipper probe,sipper needle,sipper nozzle
+_synonym_en_357,CLW module,CL1 module,connection unit type L1
+_synonym_en_358,Reagent area cover,Reagent cover
+_synonym_en_359,Blood Gas Module,BG
+_synonym_en_360,PCB housing,PCB rack
+_synonym_en_361,Automatic QC Module,Automatic Quality Control,Auto Quality Control,AQC Module,QC Module,AQC,autoqc,auto qc
+_synonym_en_362,disposable pipette,plastic pipette,transfer pipette
+_synonym_en_363,anti-static brush,anti static brush,antistatic brush
+_synonym_en_364,barcode card,bar-code card
+_synonym_en_365,barcode wand,barcode-wand,bar-code wand,bar code wand
+_synonym_en_366,10-position rack,Sysmex rack
+_synonym_en_367,keyboard,keypad
+_synonym_en_368,ISE Check,ISE Check Low,ISE Check High
+_synonym_en_369,rack tray locking mechanism,tray locker
+_synonym_en_370,system reagent,system solution,auxiliary rgts,aux reagent,aux rgt,aux,detergenz,detergent,aux rgts,auxiliary rgt,Auxiliary Reagent
+_synonym_en_371,calibration strip,calibrator strip,grey strip
+_synonym_en_372,Capillary Tube,microsampler
+_synonym_en_373,linked kit,combo kit,MultiFlow kit
+_synonym_en_374,UCU module,Universal Connection Unit
+_synonym_en_375,error sample lane,error lane
+_synonym_en_376,emergency stop button,robotic stop button,service mode swith
+_synonym_en_377,Tool Optical Verification Cassette,Tool Analytic Cycler Calibration Cassette
+_synonym_en_378,gap adjustment turntable,pitch exchange turntable
+_synonym_en_379,URF module,RFM for cobas 6000/Stago A-gate
+_synonym_en_380,Valve vacuum pump,valve membrane
+_synonym_en_381,Phillips Screw Driver,screw driver
+_synonym_en_382,tubing connector,tube joint,tube connector
+_synonym_en_383,plunger,pipette unit syringe plunger,syringe plunger
+_synonym_en_384,syringe seal,seal piece,pipette seal
+_synonym_en_385,Adapter for COBAS cups,aluminum adapter for COBAS cups
+_synonym_en_386,ISE bottle weight sensor,Sensor ISE Ref./Cal
+_synonym_en_387,ISE waste pump,fluid waste pump
+_synonym_en_388,SLL line,transport line type L,Simple L Line Type L
+_synonym_en_389,IG server set,IG-Server-Set
+_synonym_en_390,cap tray insert,cap blister insert
+_synonym_en_391,safety interlock,safety lock
+_synonym_en_392,ISE reference electrode,ISE reference cartridge
+_synonym_en_393,error output line,error out
+_synonym_en_394,aliquot line,aliquot tube line
+_synonym_en_395,iSWAP,I-Swap
+_synonym_en_396,cobas omni Secondary Tubes 13x75,cobas® omni secondary tubes 13x75
+_synonym_en_397,SUI,Software-Update-Installer,program update,software update installer
+_synonym_en_398,syringe plunger tip,plunger tip
+_synonym_en_399,STAT port lane,STAT loading lane
+_synonym_en_400,control cassette,RMC cassette
+_synonym_en_401,tip tray,cobas omni tip rack CTR48,Tip-Rack,Combo-tip Rack 48,tip rack
+_synonym_en_402,seal cap pipette,syringe seal cap,seal cap,pipette seal cap
+_synonym_en_403,cuvette detection laser,cuvette feeder laser
+_synonym_en_404,lint-free cloth,lint-free towel,lint-free gauze,lint free cloth,lint free gauze,lint free towel
+_synonym_en_405,pinch valve cap,valve cap,cap valve
+_synonym_en_406,clamp valve,pinch valve clamp
+_synonym_en_407,module separation wall,pexiglas surface,plexiglas surface
+_synonym_en_408,liquid waste container,fluid waste container
+_synonym_en_409,internal liquid waste container,internal waste tank
+_synonym_en_410,reagent needle,reagent nozzle,Reagent Pipettor,Reagent Pipettor Probe,reagent probe
+_synonym_en_411,Automatic Centrifuge Buffer,ACUB
+_synonym_en_412,differential keyboard,meter keyboard
+_synonym_en_413,DWP,deepwell plate,deep-well plate,DWP Plate,extraction plate,extraction DWP Plate
+_synonym_en_414,amplification plate park position,AD park position
+_synonym_en_415,sample probe,sample needle,sample pipettor,sample nozzle
+_synonym_en_416,PreservCyt carrier,PreservCyt-Carrier
+_synonym_en_417,error sample tray,error tray
+_synonym_en_418,source carrier,original carrier
+_synonym_en_419,input station,sample input station
+_synonym_en_420,aliquot station,sample aliquoting station,aliquoting station,sample aliquot station
+_synonym_en_421,on/off switch,power button,power switch,mains switch,power ON/OFF switch,main switch
+_synonym_en_422,Automatic Centrifuge Module,ACU
+_synonym_en_423,input buffer,tray input,rack input area
+_synonym_en_424,sipper turntable,reservoir turret,carousel
+_synonym_en_425,IPB module,input buffer module,IBM
+_synonym_en_426,rack handler,sliding fork,Sample_IO RD5-Rack Handler
+_synonym_en_427,waste dispense cap,dispensation socket,aspiration socket,waste arm,waste spout
+_synonym_en_428,cap carrier PC,PreservCyt® cap carrier
+_synonym_en_429,solid waste bag,waste bag,plastic bag
+_synonym_en_430,SPU,Sample Processing Unit
+_synonym_en_431,SurePath™ carrier,SurePath™-Carrier
+_synonym_en_432,ISE reference solution tubing adapter,IS tubing adapter
+_synonym_en_433,ACU module,automatic centrifuge unit
+_synonym_en_434,photometer,optical measuring cell,photometer assy,photometer unit
+_synonym_en_435,heat cut filter,filter photometer,optical filter,photometer filter
+_synonym_en_436,silicone tubing,silicone rubber tubing,Silicone Rubber Tube,rubber tubing,rubber tube
+_synonym_en_437,mixing paddle,stirring rod,mixer paddle
+_synonym_en_438,ISE calibrator bottle,ISE Calibrator indirect/urine bottle
+_synonym_en_439,titanium needle,clean cell needle,CleanCell needle,needle for auxillary reagents,ProCell needle
+_synonym_en_440,sample buffer tube,sample buffer tubing,sample buffer vial
+_synonym_en_441,sipper tubing,Tubing Sipper,sipper tube
+_synonym_en_442,tube height sensor,tube height detector
+_synonym_en_443,water container,water supply tank,system water container,water reservoir,reservoir
+_synonym_en_444,OBS module,output buffer/sorter
+_synonym_en_445,cap tray,cap blister
+_synonym_en_446,SLR line,Simple L Line Type R,transport line type R
+_synonym_en_447,Quality Control,QC,Roche control,control
+_synonym_en_448,propeller blades,bead mixer propeller,Microparticle mixer propeller,propeller plates,microbead mixer propeller
+_synonym_en_449,microbead mixer,beads mixer,bead mixer,Microparticle mixer
+_synonym_en_450,processing module,Process Cell
+_synonym_en_451,transfer module,Sample Cell
+_synonym_en_452,reformatter module,RFM module
+_synonym_en_453,cuvette conveyor cover,cuvette cover,cuvette area cover
+_synonym_en_454,cobas PCR Cell Collection Media,PCR Cell Collection Media,PCR Collection Media
+_synonym_en_455,DSP module,destopper module,DSP
+_synonym_en_456,round bottom tube,round bottom base,round-bottom tube,round bottomed tube
+_synonym_en_457,BCL printer,bar code labeler,BCL module,Barcode Label Module,barcode labeler/tube feeder,barcode labeler,bar-code labeler
+_synonym_en_458,light barrier,Reflectance Ligh Barrier,PM sensor,Photosensor,fork ligth barrier,Photo Sensor,light sensor,Photo Interruptor
+_synonym_en_459,RSS module,restopper screw-cap module
+_synonym_en_460,AssayTip/AssayCup tray,CombiRack,MultiRack
+_synonym_en_461,AOB module,add-on/output buffer
+_synonym_en_462,AQM module,aliquot module,AQM,aliquoter module,aliquoting module
+_synonym_en_463,pinch tubing,pinch valve tubing,pinch tube,pinch valve tube
+_synonym_en_464,RSF module,restopper flex-cap module
+_synonym_en_465,dust filter,ventilation inlet filter,air inlet filter
+_synonym_en_466,decapper/recapper module,de-/re-capper module
+_synonym_en_467,Reagent drawer,input/output Reagent drawer,e-Pack drawer,cassette drawer,Reagent cassette drawer
+_synonym_en_468,solid waste container,waste box,waste tank,waste bin,waste reservoir,waste container
+_synonym_en_469,centrifuge EC2,EC2,EC 2
+_synonym_en_470,bulk loader module,Bulkloader,bulk loader,BLM
+_synonym_en_471,hinge kit,hinge set,Hinge Assy,hinge
+_synonym_en_472,centrifuge EC1,EC1,EC 1
+_synonym_en_473,ISE probe,probe ISE,needle ISE,ISE nozzle,ISE needle,nozzle ISE
+_synonym_en_474,rack pusher,rack receive,rack forward
+_synonym_en_475,barcode reader,barcode scanner,barcode-reader,bar code reader,barcode-scanner,bar code scanner,bar-code scanner,bar-code reader
+_synonym_en_476,USB flash drive,thumb drive,USB Stick,USB memory stick,USB device
+_synonym_en_477,spare part,replacement part
+_synonym_en_478,rack transport wheel,stepper wheel
+_synonym_en_479,rinse station,wash station,washing station,wash tower
+_synonym_en_480,pump assembly,pump assy
+_synonym_en_481,PXT module,power extension unit,PCT unit
+_synonym_en_482,syringe assembly,syringe assy
+_synonym_en_483,protective cover,protective pad
+_synonym_en_484,Backup/storage media,DVD,DVD+/-R,floppy,zip disk,FD,CD,Floppy Disk,CD+/-R,DVD+/-RAM,DVD RAM
+_synonym_en_485,probe cover,nozzle cover,needle cover,Cover Sipper Nozzle,Cover Sipper Needle
+_synonym_en_486,interlock tool,interlock key
+_synonym_en_487,rinse tubing,rinse tubing set,rinse tube set,rinse tube
+_synonym_en_488,fluid unit,fluid module
+_synonym_en_489,oil dropper bottle,oil bottle,dropping bottle
+_synonym_en_490,FPC Cable,Cable Sample Pipettor,Ribbon Cable,FPC cord,Sample Pipettor cable
+_synonym_en_491,PreservCyt® carrier,PreservCyt®-Carrier
+_synonym_en_492,stepper motor,Step Motor
+_synonym_en_493,Flexible Sample Sorter,FSS
+_synonym_en_494,Reagent cassette handler,casette handler
+_synonym_en_495,target container,target rack
+_synonym_en_496,barcode label,multi rack insert,multi rack FFF,barcode sticker,barcodelabel,bar-code label
+_synonym_en_497,Cuvette buffer track,Buffer track,Cuvette buffer,Cuvette track
+_synonym_en_498,probe tip,nozzle tip,needle tip
+_synonym_en_499,concical bottom micro tube with screw cap,Eppendorf cup
+_synonym_en_500,COOX Module,COOX
+_synonym_en_501,weight filter,filter weight
+_synonym_en_502,headless screw,set screw,grub screw
+_synonym_en_503,LLD PCB assembly,PCB Liquid Level Detection,PCB LLD assy
+_synonym_en_504,NaOH-D,Detergent1,Cell cleaner 1,Cell Detergent 1,CellCLN 1,Cell Detergenz 1
+_synonym_en_505,Cell Wash Solution II / Acid Wash,Cell detergent2,Cell Wash Solution II,Acid Wash,Cell detergent 2,Cell Wash Solution 2,CellCLN 2,Cell cleaner 2
+_synonym_en_506,COC Label,COC Sticker
+_synonym_en_507,sample probe Detergent 2,SmpCLN 2
+_synonym_en_508,sample probe Detergent 1,Multiclean,SmpCln 1
+_synonym_en_509,cuvette transporter,pushing arm,cuvette forwarder,cuvette feeder,cuvette pusher
+_synonym_en_510,bottle stand,bottle holder,bottle case
+_synonym_en_511,photometer lamp,lamp halogen,halogen lamp
+_synonym_en_512,tube height adapter,grid
+_synonym_en_513,PreClean station,pre clean station,PreClean-Station,workstation preclean
+_synonym_en_514,absorbance photometer,Absorbance ABS Photometer,Abs photometer
+_synonym_en_515,request,require,demand
+_synonym_en_516,edit,modify,change
+_synonym_en_517,incline,slant,tilt
+_synonym_en_518,improve,put right,enhance,ameliorate
+_synonym_en_519,interlock,interconnect
+_synonym_en_520,integrate,incorporate
+_synonym_en_521,install,reinstall
+_synonym_en_522,workaround,work-around,temporary solution,quick solution
+_synonym_en_523,dry,dessicate,dehydrate
+_synonym_en_524,process,treat,proceed
+_synonym_en_525,verify,review,inspect,examine,look at,check
+_synonym_en_526,release,deliver
+_synonym_en_527,hang,suspend
+_synonym_en_528,freeze,congeal
+_synonym_en_529,prewash,pre-wash
+_synonym_en_530,logoff,logout
+_synonym_en_531,unlocking mechanism,unlock,open
+_synonym_en_532,list,enumerate
+_synonym_en_533,connect,plug,plug in,link
+_synonym_en_534,maintain,overhaul
+_synonym_en_535,bolster,fortify,sustain,reinforce,strengthen
+_synonym_en_536,overview,observe,survey
+_synonym_en_537,lift,raise,heave,elevate
+_synonym_en_538,leave,let
+_synonym_en_539,point,indicate
+_synonym_en_540,place,put
+_synonym_en_541,move,transfer,transport,shift
+_synonym_en_542,overtake,pass by,outrun
+_synonym_en_543,operate,perform,execute,run
+_synonym_en_544,overturn,revolve,upturn
+_synonym_en_545,reconstitute,reconstruct
+_synonym_en_546,fit,suit,adapt
+_synonym_en_547,find,retrieve,locate,discover
+_synonym_en_548,enable,activate,reactivate
+_synonym_en_549,fill,stoke
+_synonym_en_550,enlarge,amplify,magnify,increase,expand,extend
+_synonym_en_551,initiate,begin,start
+_synonym_en_552,insert,slide in
+_synonym_en_553,fix,mend,repair,correct,amend,settle
+_synonym_en_554,notice,designate,flag
+_synonym_en_555,grip,seize
+_synonym_en_556,delete,eliminate,remove,discard
+_synonym_en_557,describe,characterize,characterise,specify
+_synonym_en_558,instrument cleanup,instrument clean-up
+_synonym_en_559,uninstall,disinstall,de-install,deinstall
+_synonym_en_560,synchronize,synchronise,coordinate
+_synonym_en_561,line gap adjustment,pitch exchange
+_synonym_en_562,relate,associate
+_synonym_en_563,match,equal
+_synonym_en_564,press,push
+_synonym_en_565,unstable,not constant,oscillating
+_synonym_en_566,signify,called,mean
+_synonym_en_567,customise,customize
+_synonym_en_568,control,manage,arrange,contrive,regulate
+_synonym_en_569,cut,trim
+_synonym_en_570,crimp,pleat
+_synonym_en_571,drop,fall down,come off
+_synonym_en_572,define,determine
+_synonym_en_573,detach,separate,disunite
+_synonym_en_574,log off,log out
+_synonym_en_575,repeat,rerun
+_synonym_en_576,rotate,turn
+_synonym_en_577,route,relay
+_synonym_en_578,restart,resume,reboot
+_synonym_en_579,create,establish,make
+_synonym_en_580,replace,exchange,reinstate,change
+_synonym_en_581,reset,restore
+_synonym_en_582,contain,include
+_synonym_en_583,confirm,validate,acknowledge
+_synonym_en_584,show,visualize,visualise
+_synonym_en_585,download,re-download,redownload
+_synonym_en_586,return,bring back
+_synonym_en_587,distinguish,differentiate,distinction
+_synonym_en_588,rinse,flush,purge
+_synonym_en_589,disable,inactivate,deactivate
+_synonym_en_590,become,transform,turn into,convert
+_synonym_en_591,preprocess,pre-process
+_synonym_en_592,dispense,dissolve
+_synonym_en_593,log on,logon,login,log-on,log into,log in,log-in
+_synonym_en_594,flange,reflange
+_synonym_en_595,upload,up-load
+_synonym_en_596,disconnect,dis-connect,unconnect
+_synonym_en_597,handle,manipulate
+_synonym_en_598,dismount,dismantle,dissassemble,demount
+_synonym_en_599,rack reset,rack-reset
+_synonym_en_600,initialise,initialize
+_synonym_en_601,decommissioning,decommission
+_synonym_en_602,store,keep,save
+_synonym_en_603,supply,furnish,allocate,provide
+_synonym_en_604,cancel,abort,interrupt,block,stop
+_synonym_en_605,shake,agitate
+_synonym_en_606,send,transmit,submit
+_synonym_en_607,concern,regard
+_synonym_en_608,select,choose
+_synonym_en_609,troubleshoot,trouble-shoot
+_synonym_en_610,unload,decharge
+_synonym_en_611,touch,strike
+_synonym_en_612,locking mechanism,close,shut,lock
+_synonym_en_613,combine,join,recombine
+_synonym_en_614,compare,contrast
+_synonym_en_615,complete,finalise,finalize
+_synonym_en_616,computerise,computerize
+_synonym_en_617,switch on,power on,power up,boot,switch-on,turn on,start up,boot up
+_synonym_en_618,support,assist
+_synonym_en_619,terminate,conclude,finish
+_synonym_en_620,reassemble,reassembly,re-assemble
+_synonym_en_621,needle bent detection,needle bent check
+_synonym_en_622,disinfect,sanitize,sanitise
+_synonym_en_623,masking,hide,mask,conceal
+_synonym_en_624,recap,restop,re-cap
+_synonym_en_625,unscrew,withdraw
+_synonym_en_626,align,adjust
+_synonym_en_627,wash,bathe
+_synonym_en_628,reattach,reconnect,relink
+_synonym_en_629,refill,re-fill,replenish,re-plenish
+_synonym_en_630,clean,clean up,wipe
+_synonym_en_631,recommend,advise,suggest
+_synonym_en_632,back up,back-up,backup
+_synonym_en_633,retract,take out,pull out,move back
+_synonym_en_634,recognise,recognize,identify
+_synonym_en_635,output line,rack out
+_synonym_en_636,1-point calibration,single-point calibration,one-point calibration,1 point calibration
+_synonym_en_637,loosen,unclench,untighten,unfasten
+_synonym_en_638,inject,reinject
+_synonym_en_639,lubricate,oil,grease
+_synonym_en_640,dissipate,scatter,dispel
+_synonym_en_641,load,feed,charge
+_synonym_en_642,priming,prime
+_synonym_en_643,bend,bow,flex,curve,ply
+_synonym_en_644,lower,let down,bring down
+_synonym_en_645,assign,re-assign,reassign
+_synonym_en_646,affect,impact,have effect on,effect
+_synonym_en_647,reload,recharge
+_synonym_en_648,save,enter
+_synonym_en_649,reflect,mirror
+_synonym_en_650,refrigerate,chill,cool
+_synonym_en_651,cause,provoke,bring forth,induce,entail
+_synonym_en_652,print,report
+_synonym_en_653,clear,empty
+_synonym_en_654,assemble,mount
+_synonym_en_655,delta check,delta-check
+_synonym_en_656,shut down,power-down,power down,turn off,switch off,power off
+_synonym_en_657,air purge,prime,air-purge
+_synonym_en_658,decap,de-cap,destop,uncap
+_synonym_en_659,reclassify,re-classify
+_synonym_en_660,carry,hold
+_synonym_en_661,sort,classify
+_synonym_en_662,liquid level detection,sample level detection,LLD,level detection
+_synonym_en_663,track,trace,follow up
+_synonym_en_664,special wash,carryover evasion,wash rule
+_synonym_en_665,fasten,tighten
+_synonym_en_666,ensure,make sure,guarantee
+_synonym_en_667,prioritise,prioritize
+_synonym_en_668,evaluate,estimate
+_synonym_en_669,reach,achieve,obtain
+_synonym_en_670,register,record
+_synonym_en_671,protect,shelter
+_synonym_en_672,reduce,decrease
+_synonym_en_673,produce,generate,render
+_synonym_en_674,post-dilute,postdilute
+_synonym_en_675,make up,make-up
+_synonym_en_676,predilute,pre-dilute
+_synonym_en_677,reverse,inverse
+_synonym_en_678,configure,setup,set up
+_synonym_en_679,prevent,avoid
+_synonym_en_680,energize,energise
+_synonym_en_681,pull,draw,haul,drag
+_synonym_en_682,E.Stop,emergency stop,E-STOP
+_synonym_en_683,squeeze,crush,extrude,strain,compress
+_synonym_en_684,measure,gauge
+_synonym_en_685,prepare,prep,get ready
+_synonym_en_686,Reference Manual,Reference Manuals
+_synonym_en_687,US Connectivity Docs,US Connectivity Doc
+_synonym_en_688,Order Checklist,Order Checklists
+_synonym_en_689,Value Sheet,VS,Value Sheets
+_synonym_en_690,Product Bulletins,Product Bulletin,PB
+_synonym_en_691,US Customer Misc,US Customer Miscs
+_synonym_en_692,Method Sheet,MS,Method Sheets,Package Insert
+_synonym_en_693,Verification Data Report,Verification Data Reports
+_synonym_en_694,US Customer Letter,US Customer Letters
+_synonym_en_695,Operators Manual,OM,User Manual,Operators Manuals,Operator manual,Operator’s Manual,Operator's Manual,Operator´s Manual
+_synonym_en_696,Host Interface Manual,Host Interface Manuals
+_synonym_en_697,Important Notice not in kit,Important Notices not in kit
+_synonym_en_698,Typical Runs,Typical Run
+_synonym_en_699,Important Notice,Important Notices
+_synonym_en_700,US Calibrators/Controls,US Calibrator/Control
+_synonym_en_701,Image,Images
+_synonym_en_702,US Bar Sheet,US Bar Sheets
+_synonym_en_703,Host Interface Test Tool,Host Interface Test Tools
+_synonym_en_704,US Customer Bulletin,US Customer Bulletins
+_synonym_en_705,Insert Case,Insert Cases
+_synonym_en_706,Carry Over Evasion List,Carry Over Evasion Lists
+_synonym_en_707,Insert Card,Insert Cards
+_synonym_en_708,Training Manual,Training Manuals
+_synonym_en_709,Application Instruction,Application Instructions
+_synonym_en_710,Warranty Card US,Warranty Cards US
+_synonym_en_711,Herpes Panel IVD PI,Herpes Panel IVD Pis
+_synonym_en_712,Vigilance Information,Vigilance Informations
+_synonym_en_713,Technical Modification,Technical Modifications
+_synonym_en_714,Virtual Document Body,Virtual Document Bodies
+_synonym_en_715,System Launch Binder,System Launch Binders
+_synonym_en_716,Warranty Card,Warranty Cards US
+_synonym_en_717,Information Card,Information Cards
+_synonym_en_718,Violator,Violators
+_synonym_en_719,Technical Note,Technical Notes
+_synonym_en_720,US Customer Training,US Customer Trainings
+_synonym_en_721,Method Comparison,Method Comparisons
+_synonym_en_722,Package Insert Stago Label,Package Insert Stago Labels
+_synonym_en_723,Manual Cover,Manual Covers
+_synonym_en_724,Parts List,Parts Lists,PL
+_synonym_en_725,Marketing Concept,Marketing Concepts
+_synonym_en_726,Package Insert,Instructions for Use,IFU,Package Inserts
+_synonym_en_727,Product Information,Product Informations
+_synonym_en_728,Manufacturing Work Instruction,Manufacturing Work Instructions
+_synonym_en_729,Product Management Letter,Product Management Letters
+_synonym_en_730,COBI CD-ROM,COBI CD-ROMs
+_synonym_en_731,Method Sheet Document,Method Sheet Documents
+_synonym_en_732,Box,Boxes
+_synonym_en_733,Manual Body,Manual Bodies
+_synonym_en_734,Certificate,Lipids,Lipid
+_synonym_en_735,LCN Document,LCN Documents
+_synonym_en_736,Quality Notification,Quality Notifications,QN
+_synonym_en_737,Method Manual,Method Manuals
+_synonym_en_738,Package Insert Document,Package Insert Documents
+_synonym_en_739,Other Packaging Material,Other Packaging Materials
+_synonym_en_740,Marketing Letter COAG,Marketing Letter COAGs
+_synonym_en_741,Cost of Operation,Cost of Operations
+_synonym_en_742,Product Bulletin Attachment,Product Bulletin Attachments,PB Attachment
+_synonym_en_743,Certificate of Quality,Certificate of Qualities
+_synonym_en_744,Pouch,Pouches
+_synonym_en_745,Marketing Notification,Marketing Notifications
+_synonym_en_746,US Service Training,US Service Trainings
+_synonym_en_747,US System Software Download,US System Software Downloads
+_synonym_en_748,Quick Reference Guide,Quick Reference Guides
+_synonym_en_749,New Features,New Feature
+_synonym_en_750,Reagent Launch Binder,Reagent Launch Binders
+_synonym_en_751,Operator Training Manual,Operator Training Manuals
+_synonym_en_752,Reagent CE Conformity,Reagent CE Conformities
+_synonym_en_753,Configuration Guide,Configuration Guides
+_synonym_en_754,Control Sheet,Control Sheets
+_synonym_en_755,Operator Training Short Guide,Training Short Guide,Operator Training Short Guides
+_synonym_en_756,Data Security,Data Securities
+_synonym_en_757,Reassigned Values Survey,Reassigned Values Surveies
+_synonym_en_758,Decision Trees,Decision Tree
+_synonym_en_759,US Maintenance Log,US Maintenance Logs
+_synonym_en_760,US Installation Docs,US Installation Doc
+_synonym_en_761,US Guide,US Guides
+_synonym_en_762,US Parameters,US Parameter
+_synonym_en_763,Instrument Drivers,Instrument Driver
+_synonym_en_764,Certificate,Certificates
+_synonym_en_765,CB Certificate,CB Certificates
+_synonym_en_766,Bulletin,Bulletins
+_synonym_en_767,Validation Report,Validation Reports
+_synonym_en_768,Service Manual,Service Manuals,SM
+_synonym_en_769,Service Checklists and Forms,Service Checklist and Form
+_synonym_en_770,Service Software,D&S,DSS,DnS,diagnostics & service software,Service Softwares
+_synonym_en_771,Service Training Manual,Service Training Manuals
+_synonym_en_772,Short Guide,Short Guides
+_synonym_en_773,Service Bulletins,Support Notification,Service Bulletin,SB,SN
+_synonym_en_774,Specification and CoA,Specification and CoAs
+_synonym_en_775,Simulation Tools Download,Simulation Tool Download
+_synonym_en_776,Software Documentation,SW Documentation,SW Doc,Software Documentations
+_synonym_en_777,Language Pack,language package,Language Packes
+_synonym_en_778,ISE Manual,ISE Manuals
+_synonym_en_779,Labels/Overlabels,Label/Overlabel
+_synonym_en_780,Support Notification,Service Bulletin,SN,SB,Support Notifications
+_synonym_en_781,Validation Guide,Validation Guides
+_synonym_en_782,Instrument CE Conformity,Instrument CE Conformities
+_synonym_en_783,BTS on Request,BTS on Requests
+_synonym_en_784,Software Information,Software Informations
+_synonym_en_785,US Service Manual,US Service Manuals
+_synonym_en_786,Application Report,AR,Application Reports
+_synonym_en_787,Utility Channel,Utility Channels
+_synonym_en_788,User Training Guide,User Training Guides,UTG
+_synonym_en_789,Assay Summary,Assay Summaries
+_synonym_en_790,US TSB,US TSBs
+_synonym_en_791,Application Software,Application Softwares
+_synonym_en_792,US TAS/TASU Docs,US TAS/TASU Doc
+_synonym_en_793,Cal / Con Barcodelabel,Cal / Con Barcodelabels
+_synonym_en_794,BTS,Barcode Transfer Sheet,Application Barcode,BTSs
+_synonym_en_795,Known Issues List,Known Issues Lists,KIL
+_synonym_en_796,Supplemental Value Sheet,Zusätzliches Sollwertblatt,Supplemental Value Sheets
+_synonym_en_797,CD Art Printed on Disc,CD Art Printed on Discs
+_synonym_en_798,DVD / CD Label,DVD / CD Labels
+_synonym_en_799,STS Marketing Letter,STS Marketing Letters
+_synonym_en_800,SW patch application,SW patch applications
+_synonym_en_801,Support Memo,Support Memos
+_synonym_en_802,Stability,Stabilities
+_synonym_en_803,US Operator Docs,US Operator Doc
+_synonym_en_804,US Package Insert,US Package Inserts
+_synonym_en_805,Development Channel,Development Channels,open channel
+_synonym_en_806,CE Conformity,CE Conformities
+_synonym_en_807,Scientific Publication,Scientific Publications
+_synonym_en_808,Educational Plan,Educational Plans
+_synonym_en_809,Instrument Information,Instrument Informations
+_synonym_en_810,US Product List,US Product Lists
+_synonym_en_811,Scientific Information,Scientific Informations
+_synonym_en_812,Safety Data Sheets,Safety Data Sheet,MSDS,Material Safety Data Sheet,SDS
+_synonym_en_813,US Method Sheet,US Method Sheets
+_synonym_en_814,RMD Marketing Bulletins,RMD Marketing Bulletin
+_synonym_en_815,Customer Bulletin,Customer Bulletins
+_synonym_en_816,US Parts List,US Parts Lists
+_synonym_en_817,Training Material,Training Materials
+_synonym_en_818,Reagent Information,Reagent Informations
+_synonym_en_819,Reg Certificate of Stability,Reg Certificate of Stabilities
+_synonym_en_820,Transition Guide,Transition Guides
+_synonym_en_821,Reg Specification,Reg Specifications
+_synonym_en_822,SWA Marketing Letter,SWA Marketing Letters
+_synonym_en_823,SWA New Method BTS,SWA New Method BTSs
+_synonym_en_824,System Description,System Descriptions
+_synonym_en_825,Service Contracts,Service Contract
+_synonym_en_826,Serum Index List,Serum Index Lists
+_synonym_en_827,Technical Scientific Info,Technical Scientific Infos
+_synonym_en_828,Technical Data Sheet,Technical Data Sheets
+_synonym_en_829,External Quality Survey,External Quality Surveys
+_synonym_en_830,Evaluation Report,Evaluation Reports
+_synonym_en_831,EC Certificate,EC Certificates
+_synonym_en_832,Manual,Manuals
+_synonym_en_833,US Applications,US Application
+_synonym_en_834,Application Note,Application Notes
+_synonym_en_835,Trouble Shooting Guide,TSG,Trouble Shooting Guides
+_synonym_en_836,Supplemental Support Info,Supplemental Support Infos
+_synonym_en_837,Service Bulletin Attachment,Service Bulletin Attachments,SB Attachment
+_synonym_en_838,Hardware Information,Hardware Informations
+_synonym_en_839,US PSM,US PSMs
+_synonym_en_840,GCS Information,GCS Informations
+_synonym_en_841,Security Patch Information,Security Patch Informations
+_synonym_en_842,Getting Started Guide,Getting Started Guides
+_synonym_en_843,Security Patch,Security Patches
+_synonym_en_844,External Control Value,External Control Values
+_synonym_en_845,Application Data,Application Datas
+_synonym_en_846,Installation Manual,Installation Manuals
+_synonym_en_847,Application List,Application Lists
+_synonym_en_848,iSDoc SM & PL,iSDoc,iSDoc SM,iSDocs
+_synonym_en_849,RIOS Graphics,RIOS Graphic
+_synonym_en_850,Traceability,Traceabilities
+_synonym_en_851,Routine Guide,Routine Guides
+_synonym_en_852,TeleService Documentation,TeleService Documentations
+_synonym_en_853,Logbook,Logbooks
+_synonym_en_854,IQ OQ PQ Documents,IQ OQ PQ Document
+_synonym_en_855,PM Checklist,PM Checklists
+_synonym_en_856,ISE Electrodes Expiry Dates,ISE Electrode Expiry Date
+_synonym_en_857,Instrument Software Download,Instrument Software Downloads
+_synonym_en_858,cobas® user assistance,cobas user assistance
+_synonym_en_859,STAGO Systems,STAGO System
+_synonym_en_860,START4,START-4,START 4
+_synonym_en_861,STA-R EVOLUTION,STA RMAX,STA R-MAX,STA-R MAX,STA R MAX
+_synonym_en_862,CoaguChek®,CoaguChek
+_synonym_en_863,CoaguChek® Plus,CoaguChek +,CoaguChek Plus
+_synonym_en_864,CoaguChek® Pro / ISK,CoaguChek Pro / ISK
+_synonym_en_865,CoaguChek® Pro Base,CoaguChek ProBase,CoaguChek Pro Base
+_synonym_en_866,CoaguChek® Pro DM,CoaguChek Pro DM
+_synonym_en_867,CoaguChek® S,CoaguChek S
+_synonym_en_868,CoaguChek® XS Connect,CoaguChek XS Connect
+_synonym_en_869,CoaguChek® XS Plus system,CoaguChek XS Plus system,CoaguChek XS Plus
+_synonym_en_870,CoaguChek® XS Pro system,CoaguChek XS Pro,CoaguChek® XS Pro,CoaguChek XS Pro system
+_synonym_en_871,CoaguChek® XS SoftClix,CoaguChek XS SoftClix,CoaguChek® XS,XS SoftClix,CoaguChek Softclix
+_synonym_en_872,CoaguChek XS,CoaguChek XS system,CoaguChek® XS system
+_synonym_en_873,cobas h 232 scanner version,cobas h232 scanner,h 232 scanner version,h 232 scanner,cobas h 232 scanner
+_synonym_en_874,Virtuoso,Virtuoso image management software
+_synonym_en_875,Cedex BIO HT,Bio HT,Cedex HT
+_synonym_en_876,NH3 Bio,Cedex Bio
+_synonym_en_877,Cedex HiRes,HiRes
+_synonym_en_878,cobas 6800/8800 Sample Supply Module,SSM,MPA 3G
+_synonym_en_879,DATA STATION AMPLILINK,tg150 back,AMPLILINK DATA STATION,tg-150 back end,TG 150 back end,Datastation Amplilink,TECAN GENESIS 150 BACK,tg150 backend,TG 150 back-end,tg-150 backend,tg-150 back
+_synonym_en_880,TECAN GENESIS 150 BACK END,tg-150 front,TG 150 front end,tg-150 front end,TG 150 front,TECAN GENESIS 150 FRONT,TG 150 front-end,tg150 front,tg150 frontend,tg-150 frontend
+_synonym_en_881,COBAS® AmpliPrep Instrument,AmpliPrep,COBAS AmpliPrep
+_synonym_en_882,Microlab® STAR IVD,Microlab Star,Microlab Star IVD,Hamilton Star
+_synonym_en_883,MagNA Pure LC,BioTek Microplate Reader,ELx800 Microplate Reader
+_synonym_en_884,BioTek ELx800 Microplate Reader,cobas firewall,IT firewall
+_synonym_en_885,TECAN GENESIS 150 FRONT END,ACCUFINE WZ,ACCU FINE WZ,ACCU FINE,accufine,ACCU-FINE,ACCU-FINE WZ
+_synonym_en_886,ACCU-FINE WZ,Magnapure,MPLC,MagNA Pure LC instrument,MP LC
+_synonym_en_887,cobas IT 5000 application,it5000,it 5000,cobas IT 5000 solution,cobas IT 5000
+_synonym_en_888,cobas IT 5000 Blood Depot,it5000 Blood Depot,it 5000 BloodDepot,it5000 BloodDepot,cobas IT 5000 BloodDepot,it 5000 Blood Depot
+_synonym_en_889,cobas IT 5000 Microbiology,IT 5000 Microbiology,it5000 Microbiology
+_synonym_en_890,cobas IT 5000 Central laboratory,cobas IT5000 central lab,cobas IT 5000 central lab,cobas IT5000 Central laboratory
+_synonym_en_891,Microarray Dryer,micro array Dryer
+_synonym_en_892,Hybridization System 12,Hybridization System12,Hybridization S12
+_synonym_en_893,DML 2000 MICROPLATE LUMINOMETER,DML 2000 Luminometer,DML Luminometer,Luminometer
+_synonym_en_894,laboratory information system,LIS
+_synonym_en_895,PRECITHERM PF/PFV,PRECITHERM PF-PFV,PRECITH PF,PRECITH PFV,PRECITHERM PF,PRECITH PF-PFV,PRECITH PF / PFV,PRECITHERM PFV
+_synonym_en_896,NimbleGen MS 200,MS 200,Nimblegen 200,MS200
+_synonym_en_897,cobas e 201 analyzer,cobas 201,cobas e201,cobas e 201,e201,cobas e 201 analyser,e 201
+_synonym_en_898,Microlab® STARlet IVD,Microlab Starlet,Microlab STARlet IVD,Hamilton Starlet
+_synonym_en_899,PocH-100i,PocH 100i
+_synonym_en_900,Hamilton AT Plus,Hamilton AT+,Hamilton AT +
+_synonym_en_901,cobas c 302,cobas c302,cobas c 302 analyzer,cobas 302,c302,cobas c302 analyzer,c 302
+_synonym_en_902,cobas IT 3000/5000,cobas IT3000/5000
+_synonym_en_903,cobas p 701 post-analytical unit,p 701,cobas p 701 unit,fridge,p701,cobas p 701,cobas p701 post-analytical unit
+_synonym_en_904,COBAS® Amplicor Analyzer,c amplicor,COBAS Amplicor Analyzer,COBAS® Amplicor instrument,COBAS® Amplicor,COBAS® AMPLICOR® Analyzer,COBAS Amplicor,Amplicor
+_synonym_en_905,cobas e 801 module,e 801,cobas e 801 analyzer,cobas e801,cobas 801,cobas e 801 analyser,e801,cobas e 801
+_synonym_en_906,cobas p 630 instrument,cobas p630,cobas p 630,p 630,p630,cobas 630
+_synonym_en_907,cobas IT 1000 application,it1000,cobas IT 1000,it 1000
+_synonym_en_908,Care Giver,Caregiver
+_synonym_en_909,cobas 6800/8800 IG server set,newgen instrument gateaway
+_synonym_en_910,CoaguChek Pro II,CoaguChek Pro2
+_synonym_en_911,Roche Hitachi 704 Chemistry Analyzer,Roche Hitachi 704 Chemistry Analyser,h704,Roche/Hitachi 704,Roche Hitachi 704,Hitachi 704
+_synonym_en_912,cIMS,Inventory Management System
+_synonym_en_913,cobas Omega 4 eFlow,Omega 4 eFlow,O4 eFlow,cobas O4 eFlow
+_synonym_en_914,cobas Omega 4 Core Server,o4core,Omega 4 Core,cobas Omega 4 Core,o4 core
+_synonym_en_915,cobas Omega 4 Main Application,O4Main,cobas Omega 4 Main,cobas O4 Main,O4 Main
+_synonym_en_916,cobas Omega 4 Microbiology,cobas O4 Microbiology,O4 Microbiology
+_synonym_en_917,cobas Omega 4 TQM,O4 TQM,cobas O4 TQM
+_synonym_en_918,cobas Omega 4 Urgencies,cobas O4 Urgencies,O4 Urgencies
+_synonym_en_919,MODULAR ANALYTICS EVO SWA,hitachi analytics,MODULAR ANALYTICS SWA,Roche Hitachi Modular Analytics,SWA,Roche/Hitachi Modular Analytics,Hitachi Modular Analytics,modular analytics
+_synonym_en_920,Roche/Hitachi Modular Analytics Core ISE,Hitachi Modular Analytics Core ISE,Modular Analytics Core ISE
+_synonym_en_921,Roche/Hitachi Modular Analytics D,MODULAR ANALYTICS D-MODULE,Mod-d,modular d,mod d,MODULAR ANALYTICS D module,Hitachi Modular Analytics D,d-mod,d-module,dmod
+_synonym_en_922,Roche/Hitachi Modular Analytics E 170,MODULAR ANALYTICS E 170,e mod,e170,emod,e-mod,e-module,MODULAR ANALYTICS E-MODULE,e 170,mod e,MODULAR ANALYTICS E 170 module,modular e,Hitachi Modular Analytics E 170,E Module
+_synonym_en_923,Roche/Hitachi Modular Analytics ISE,Modular Analytics ISE,Hitachi Modular Analytics ISE
+_synonym_en_924,Roche/Hitachi Modular Analytics P,MODULAR ANALYTICS P module,Hitachi Modular Analytics P,MODULAR ANALYTICS P-MODULE,PMOD,mod p,modular p,mod-p,P MOD,p-module
+_synonym_en_925,cobas® academy,cobas® academy e-learning,cobas academy
+_synonym_en_926,Starlyte V Alfa Wassermann,Starlyte5,Starlyte 5,Starlyte V
+_synonym_en_927,pooling instrument,pooler,Pooling-Instrument
+_synonym_en_928,cobas® e-services,cobas e-services,cobas e-service
+_synonym_en_929,remote service platform,TeleServiceNetwork,TSN,TeleService-Net,TeleService
+_synonym_en_930,cobas c 311 analyzer,cobas c311 analyzer,c 311,c311,cobas 311,cobas c 311 analyser,cobas c 311,cobas c311,c 311-analyzer
+_synonym_en_931,cobas c 513 analyzer,cobas c 513,cobas c513 analyzer,cobas c513,cobas c 513 analyser,c513,c 513
+_synonym_en_932,cobas c 711 analyzer,cobas c 711,c711,cobas c711,cobas c 711 analyser,c 711,cobas 711
+_synonym_en_933,VIAS,Ventana Image Analysis System
+_synonym_en_934,CAP/CTM,CAPCTM
+_synonym_en_935,AUTOCLIX BA,AUTOCLIX
+_synonym_en_936,Vantage,Vantage Systems
+_synonym_en_937,cobas® mobicheck,cobas mobichek,cobas mobi chek,cobas mobi-chek
+_synonym_en_938,Glucotrend 2,Glucotrend II,Glucotrend2
+_synonym_en_939,FortiGate-40C,Fortigate 40,FortiGate 40 C,40 C,FortiGate 40C,Fortigate C,Fortigate,FortiGate-40 C,FortiGate 40-C
+_synonym_en_940,CellaVision DM1200,CellaVision DM 1200
+_synonym_en_941,cobas u 411 urine analyzer,cobas u 411 urine analyser,cobas u 411 analyzer,u411,cobas u411,cobas u 411,cobas u411 urine analyzer,u 411,cobas u411 analyzer
+_synonym_en_942,COBAS® TaqMan® 48 analyzer,Taq48,Taq 48,COBAS TaqMan 48 Analyzer,COBAS TaqMan 48 Analyser,COBAS TM 48,Cobas TaqMan 48,Taqman 48,COBAS® Taqman,COBAS® TaqMan® 48
+_synonym_en_943,BioTek Plate Washer Elx50,Plate Washer,Platewasher Elx50,Plate washer Elx50,Biotek Plate Washer,Elx50 Platewasher,Elx50 Plate washer
+_synonym_en_944,cobas® 8000 modular analyzer series,cobas® 8000 modular analyzer,cobas® 8000 modular analyser,c8000,cobas 8000 core unit,cobas 8000,cobas 8000 modular analyzer series,cobas 8000 System,c 8000
+_synonym_en_945,cobas® ISE module,cobas ISE module,cobas 8000 ise modules,8000/ISE,cobas 8000 ISE module,cobas ISE,c 8000 ISE,8000 ISE,cobas 8000 / ISE Module
+_synonym_en_946,cobas 8000 core unit,cobas 8000 core module,8000 core,cobas 8000 cu
+_synonym_en_947,cobas e 602 module,cobas e 602 analyzer,cobas e 602,e 602,cobas e602 module,e602,cobas e602
+_synonym_en_948,cobas c 702 module,c 702,cobas c 702,cobas 702,c702
+_synonym_en_949,cobas c 701 module,c 701,cobas c701,cobas c 701,cobas 701 module,cobas c 701 analyzer,c701
+_synonym_en_950,DM,cobas® data manager,cobas data manager,cobas 8000 data manager,cobas 8000 DM,datamanager,cobas 8000 datamanager,data manager,cobas DM,DMIM
+_synonym_en_951,cobas c 502 module,c 502,cobas c502,cobas c 502 analyzer,cobas c 502,cobas 502,c502
+_synonym_en_952,Pooling Data Manager,Pooling DM,Pooling datamanager
+_synonym_en_953,cobas® 6000 analyzer series,c6000,cobas 6000 core unit,cobas® 6000,cobas 6000 analyser,cobas 6000 platform,cobas 6000,cobas 6000 instrument,c6000 system,cobas 6000 system,c 6000,cobas 6000 analyzer,cobas 6000 analyzer series
+_synonym_en_954,cobas c 501 module,cobas c 501 analyser,c 501,c 501-modul,cobas c501,c501,c 501 module,cobas c 501,cobas c 501 analyzer
+_synonym_en_955,cobas e 601 module,e 601,cobas e 601 analyser,cobas e 601,cobas e 601 analyzer,cobas 601,e601,cobas e601
+_synonym_en_956,cobas 6000 core unit,cobas 6000 cu,c6000 core,cobas 6000 core,6000 core
+_synonym_en_957,cobas® 4000 analyzer series,cobas 4000 analyzer,cobas 4000 analyzer system,cobas 4000 analyser,c 4000,cobas® 4000 platform,c4000,cobas 4000 system,cobas 4000 platform
+_synonym_en_958,URISYS 1100,u1100,URISYS 1100 Urine analyzer,u 1100,URISYS 1100 Urine analyser
+_synonym_en_959,URISYS 1800,URISYS 1800 Urine analyzer,u1800,u 1800,URISYS 1800 Urine analyser
+_synonym_en_960,URISYS 2400,u2400,u 2400,URISYS 2400 Urine analyser,URISYS 2400 Urine analyzer
+_synonym_en_961,PSM,Process Systems Manager
+_synonym_en_962,cobas 8100 RestopperFlexcap,c 8100 RestopperFlexcap,cobas 8100 Flexcap,c8100 Flexcap
+_synonym_en_963,cobas 8100 RestopperScrewcap,cobas 8100 Screwcap,c 8100 RestopperScrewcap,c8100 RestopperScrewcap
+_synonym_en_964,cobas 8100 OutputBuffer Sorter,c8100 OutputBuffer Sorter,c 8100 OutputBuffer Sorter,c 8100 Sorter,c 8100 OutputBuffer,c8100 Sorter,cobas 8100 Sorter
+_synonym_en_965,cobas 8100 InputBuffer,cobas 8100 Input Buffer,c 8100 buffer,c8100 Input Buffer,c8100 InputBuffer,c 8100 Input Buffer,c 8100 InputBuffer
+_synonym_en_966,cobas 8100 AutoCentrifugeUnit,cobas 8100 centrifuge,c8100 AutoCentrifugeUnit,c8100 AutoCentrifuge
+_synonym_en_967,cobas 8100 AliquoterModule,c8100 AliquoterModule,cobas 8100 Aliquoter,c8100 Aliquoter
+_synonym_en_968,cobas 8100 BarCodelabeler,c8100 BarCodelabeler,c 8100 BarCodelabeler,c8100 labeler
+_synonym_en_969,MagNA Pure 96 System,MagNA Pure 96,MP 96,MP96
+_synonym_en_970,Lumi-Imager,Lumi imager,Lumiimager
+_synonym_en_971,Starlyte II,Starlyte2,Starlyte 2
+_synonym_en_972,CellaVision DM8,CellaVision DM 8
+_synonym_en_973,D-TRON,dtron
+_synonym_en_974,D-TRONplus,D-TRON +,DTRON plus,DTRON +,D-TRON plus
+_synonym_en_975,H-TRON,HTRON
+_synonym_en_976,H-TRON® plus,HTRONplus,H-TRON plus,H-TRON +,H-TRON+
+_synonym_en_977,ACCUTREND Alpha/Instant RY,ACCUTREND Alpha-Instant,ACCUTREND Alpha/Instant,ACCUTREND Alpha Instant RY,ACCUTREND Alpha-Instant RY,ACCUTREND Alpha Instant
+_synonym_en_978,Accutrend G/GC/Instant Plus,Accutrend G Instant Plus
+_synonym_en_979,Accutrend GCT,Accutrend-GCT
+_synonym_en_980,Accutrend® Plus system,Accutrend® Plus,Accutrend+,Accutrend Plus system,Accutrend system,Accutrend +
+_synonym_en_981,ACCUTREND DM RU,ACCUTREND DM
+_synonym_en_982,ACCUTREND MINI RP,ACCUTREND MINI,ACCUTREND-MINI
+_synonym_en_983,MODULAR® PRE-ANALYTICS EVO,MODULAR PRE-ANALYTICS,MODULAR PRE-ANALYTICS EVO,MODULAR PRE ANALYTICS,Roche/Hitachi Modular Pre-Analytics,MPA,Roche Hitachi Modular Pre-Analytics
+_synonym_en_984,NimbleGen MPS 350,MS350,Nimblegen 350,MS 350,NimpleGen MPS-350
+_synonym_en_985,LightCycler®,LC,Light Cycler,LightCycler
+_synonym_en_986,LightCycler® 1.5,LightCycler 1.5,Light Cycler 1.5,LC 1.5
+_synonym_en_987,LightCycler® 2.0 Instrument,LightCycler® 2.0 Real-Time PCR system,LC 2,LightCycler 2.0 Instrument,LC-2,LightCycler 2.0,LC 2.0,LC2,LightCycler 2,LightCycler® Instrument
+_synonym_en_988,LightCycler® 480 Instrument,LightCycler® 480,LightCycler 480,LightCycler 480 / 1536,LC 480/1536,LC 480 / 1536,LC480,LightCycler 480 Instrument,LightCycler 480/1536,LightCycler480
+_synonym_en_989,LightCycler® 96,LightCycler 96,LC 96,Light Cycler 96,LightCycler96,LC96
+_synonym_en_990,LightCycler® Carousel Centrifuge,LightCycler Carousel,LCCC,LC centrifuge,Light Cycler Carousel Centrifuge,LightCycler Centrifuge,LC carousel
+_synonym_en_991,LightCycler® Nano,LightCycler Nano,Light Cycler Nano,LC Nano
+_synonym_en_992,BGA COMPACT 3,BGA COMPACT3
+_synonym_en_993,cobas h 232 POC system,h232,h 232,cobas h232,cobas h 232,cobas h 232 POC
+_synonym_en_994,Clinical Laboratory Automation System 2,CLAS 2
+_synonym_en_995,MagNA Pure Compact Instrument,MP Compact,MagNA Pure Compact,MagNA Pure Compact 2.0 system,MagNa Pure
+_synonym_en_996,Omega 2000,omega2000
+_synonym_en_997,AMPLILINK 1,AL 1,AL-1,AL1,AMPLILINK I
+_synonym_en_998,AMPLILINK 2,AL2,AL-2,AL 2,AMPLILINK II
+_synonym_en_999,AMPLILINK software Version 3.3 Series,AMPLILINK III,AL3,AL 3,AMPLILINK 3
+_synonym_en_1000,cobas t 611,t611,t 611,cobas t611
+_synonym_en_1001,cobas t 511 coagulation analyzer,t 511,cobas t511 coagulation analyser,cobas t 511 analyzer,cobas t511,cobas t 511,t511
+_synonym_en_1002,cobas t 411 coagulation analyzer,cobas t 411 coagulation analyser,cobas t 411,t 411,cobas t411 coagulation analyzer,t411,cobas t411
+_synonym_en_1003,matriXarray Instrument,matrixarray,matrix array,matrix array Instrument
+_synonym_en_1004,LightTyper,Light Typer
+_synonym_en_1005,LightTyper 384,LT 384,LT384,Light Typer 384
+_synonym_en_1006,LightTyper 96,LT96,Light Typer 96,LT 96
+_synonym_en_1007,MagNA Lyser Instrument,MagNA Lyser,MagNA Lyser System,Magnalyser
+_synonym_en_1008,Omega 3000,Omega3000
+_synonym_en_1009,Reflovet® Plus,reflovet +,REFLOVET PLUS
+_synonym_en_1010,cobas b 123,cobas b123,b123,b 123
+_synonym_en_1011,cobas b 123 3,b 123-3,b123-3,cobas b 123-3 analyzer,cobas b 123-3
+_synonym_en_1012,cobas b 123 1,cobas b 123-1 analyzer,b123-1,b 123-1,cobas b 123-1
+_synonym_en_1013,cobas b 123 2,cobas b 123-2 analyzer,cobas b 123-2,b123-2,b 123-2
+_synonym_en_1014,cobas b 123 4,cobas b 123-4,b123-4,b 123-4,cobas b 123-4 analyzer
+_synonym_en_1015,cobas® 4800 archive viewer,cobas 4800 archive viewer
+_synonym_en_1016,Elecsys®,Elecsys
+_synonym_en_1017,Elecsys® 2010 analyzer,e2010,Elecsys 2010 system,Elecsys 2010 analyzer,Elecsys 2010,e 2010,Elecsys 2010 analyser
+_synonym_en_1018,Elecsys® 1010 analyzer,Elecsys 1010 analyser,Elecsys® 1010 system,Elecsys 1010 system,e 1010,e1010,Elecsys 1010,Elecsys 1010 analyzer
+_synonym_en_1019,Zenith,CoaguChek INRange
+_synonym_en_1020,cobas p 312 pre-analytical system,p 312,cobas 312,p312,cobas p312,cobas p 312
+_synonym_en_1021,9180 Electrolyte Analyzer,Electrolyte 9180,9180 Electrolyte Analyser,Roche 9180 Electrolyte Analyser,ISE 9180,ISE-9180,Electrolyte Analyser 9180,ISE9180
+_synonym_en_1022,test strip analyzer,teststrip analyzer
+_synonym_en_1023,ISE FOR COBAS MIRA,ISE Module Cobas Mira,ISE Cobas Mira
+_synonym_en_1024,ISE 988-3,Roche 988-3 Electrolyte Analyser ISE,988-3 Electrolyte Analyser,ISE988-3,Roche 988-3 Electrolyte Analyser,Electrolyte 988-3,Electrolyte Analyser 988-3,ISE-988-3
+_synonym_en_1025,EXPERTviewer,EXPERT Viewer
+_synonym_en_1026,K-Xpert,kxpert,K xpert
+_synonym_en_1027,F-500,f 500,f500
+_synonym_en_1028,F-520,f520
+_synonym_en_1029,F-800,f800,f 800
+_synonym_en_1030,F-820,F 820,f820
+_synonym_en_1031,HST 201,HST201,HST-201
+_synonym_en_1032,HST 210,HST-210,HST210
+_synonym_en_1033,HST 302,HST-302,hst302
+_synonym_en_1034,HST 310,HST310,HST-310
+_synonym_en_1035,HST 330,HST-330,hst330
+_synonym_en_1036,HST 402,hst402,HST-402
+_synonym_en_1037,HST 403,HST-403,HST403
+_synonym_en_1038,HST 410,HST-410,HST410
+_synonym_en_1039,HST 430,HST-430,hst430
+_synonym_en_1040,HST-CP1,HST CP1
+_synonym_en_1041,HST-N,HST N
+_synonym_en_1042,InteRRliner,interliner
+_synonym_en_1043,TS-1000,ts 1000,ts1000
+_synonym_en_1044,TS-2000,ts2000,ts 2000
+_synonym_en_1045,TS-500,ts500
+_synonym_en_1046,TS-10,TS10
+_synonym_en_1047,K-1000,k1000,K 1000
+_synonym_en_1048,K-2000,K 2000,k2000
+_synonym_en_1049,K-4500,k4500,K 4500
+_synonym_en_1050,K-800,k800,K 800
+_synonym_en_1051,KX-21,KX 21,KX21
+_synonym_en_1052,KX-21N,KX21N
+_synonym_en_1053,NE-1500,NE1500,NE 1500
+_synonym_en_1054,NE-5500,NE 5500,NE5500
+_synonym_en_1055,NE-7000,NE 7000,NE7000
+_synonym_en_1056,NE-8000,NE 8000,NE8000
+_synonym_en_1057,NE-ALPHA,NE ALPHA
+_synonym_en_1058,R-1000,r1000
+_synonym_en_1059,R-2000,r2000
+_synonym_en_1060,R-3000,r3000
+_synonym_en_1061,R-3500,r3500
+_synonym_en_1062,R-500,r500,r 500
+_synonym_en_1063,RAM-1,ram1
+_synonym_en_1064,SE-9000,se9000,SE 9000
+_synonym_en_1065,SE-9500,se9500,SE 9500
+_synonym_en_1066,SE-ALPHA,SE ALPHA
+_synonym_en_1067,SF-3000,sf3000
+_synonym_en_1068,SF-3000 + R-500,SF-3000 R-500,SF3000 + R500,SF 3000 R500,SF 3000 + R 500
+_synonym_en_1069,SP-100,sp100
+_synonym_en_1070,SP-1000i,sp1000i
+_synonym_en_1071,SP-SU,SP SU,spsu
+_synonym_en_1072,XP-100,XP 100,XP100
+_synonym_en_1073,XP-300,XP 300,XP300
+_synonym_en_1074,UF-100/UF-100i,UF 100/UF 100i,UF 100/UF-100i,UF100/UF100i
+_synonym_en_1075,UF-1000i,UF 1000i,UF1000i
+_synonym_en_1076,UF-50,UF 50,UF50
+_synonym_en_1077,UF-500i,uf500i,uf 500i
+_synonym_en_1078,XE-2100,XE 2100,XE2100
+_synonym_en_1079,XE-2100D,XE2100D,XE 2100 D,XE 2100D
+_synonym_en_1080,XE-2100L,XE 2100L,XE 2100 L,XE2100L
+_synonym_en_1081,XE-5000,xe5000,XE 5000
+_synonym_en_1082,XE-ALPHA,XE ALPHA
+_synonym_en_1083,XE-IPU Hardware/Software,XE-IPU HW/SW,XE IPU Hardware/Software
+_synonym_en_1084,SP-1,sp1
+_synonym_en_1085,SP-10,sp10,sp 10
+_synonym_en_1086,XN-10,xn10,xn 10
+_synonym_en_1087,XN-1000,xn1000,xn 1000
+_synonym_en_1088,XN-20,xn20,xn 20
+_synonym_en_1089,XN-2000,xn 2000,xn2000
+_synonym_en_1090,XN-3000,xn3000,xn 3000
+_synonym_en_1091,XN-9000,xn9000,xn 9000
+_synonym_en_1092,XN-350,XN350,XN 350
+_synonym_en_1093,XN-450,XN 450,XN450
+_synonym_en_1094,XN-550,XN550,XN 550
+_synonym_en_1095,XS-1000i,XS1000,XS 1000,XS1000i,XS 1000i
+_synonym_en_1096,XS-1000is,XS1000is,XS 1000is
+_synonym_en_1097,XS-500i,XS 500,XS500i,XS 500i,xs500
+_synonym_en_1098,XS-800i,XS 800,XS 800i,xs800,XS800i
+_synonym_en_1099,XT-1800i,xt 1800i,xt 1800,xt1800,xt1800i
+_synonym_en_1100,XT-2000i,XT 2000i,XT2000,XT 2000,xt2000i
+_synonym_en_1101,XT-4000i,xt4000,XT 4000,XT4000it,XT 4000i
+_synonym_en_1102,Omega 4000,Omega4000
+_synonym_en_1103,Cardiac 200 System,Cardiac 200
+_synonym_en_1104,Roche/Hitachi CLAS 1,HITACHI CLAS 1,HITACHI CLAS1,Roche Hitachi CLAS 1
+_synonym_en_1105,cap pre-opener,cap half opener,cap open/close rail
+_synonym_en_1106,cobas p 612 pre-analytical system,cobas p 612,cobas p612,p612,p 612,cobas p 612 system,cobas 612,cobas p612 pre-analytical system
+_synonym_en_1107,cobas b 101 PST,b101 pst,b 101 pst
+_synonym_en_1108,cobas e 411 analyzer,e 411,cobas e 411 analyser,cobas e411,e411,cobas e 411
+_synonym_en_1109,cobas e 411 analyzer disk,cobas e 411 disk system,cobas e 411 analyser disk,cobas e411 disk system,cobas e411 disk,cobas e 411 disk
+_synonym_en_1110,cobas e 411 analyzer rack,cobas e 411 rack,cobas e 411 rack system,cobas e 411 analyser rack,cobas e411 rack,cobas e411 rack system
+_synonym_en_1111,cobas p 512 pre-analytical system,p 512,cobas p512 pre-analytical system,cobas 512,cobas p 512 system,cobas p512,p512,cobas p 512
+_synonym_en_1112,VS II Aliquoter,ALIQUOTER VS 2,VS 2,VS2,Aliquoter VS II,VSII,ALIQUOTER VS2
+_synonym_en_1113,cobas x 421,cobas x 421 analyzer,x421,cobas 421,x 421,cobas x421
+_synonym_en_1114,Roche Hitachi 717 Chemistry Analyzer,h717,Roche Hitachi 717,HITACHI 717,Roche/Hitachi 717,Roche Hitachi 717 Chemistry Analyser
+_synonym_en_1115,cobas IT middleware,cobas middleware,middleware,cITM
+_synonym_en_1116,cobas IT middleware firewall,cITM firewall
+_synonym_en_1117,cobas t 711 coagulation analyzer,cobas t711,cobas t711 coagulation analyzer,cobas t 711 coagulation analyser,cobas t 711,cobas t 711 analyzer,t711,t 711
+_synonym_en_1118,Roche Hitachi 911 Chemistry Analyzer,Roche Hitachi 911,HITACHI 911,h911,Roche/Hitachi 911 system,Roche/Hitachi 911
+_synonym_en_1119,cobas® link 2,cobas link2,cobas link 2,cobaslink2,cobaslink 2,cobas link II,cobaslink II
+_synonym_en_1120,Roche Hitachi Clinical Chemistry Analyzer 747-100,h747-100,Roche/Hitachi 747-100,Roche Hitachi 747/100,Roche Hitachi Clinical Chemistry Analyser 747-100,Roche Hitachi 747-100,HITACHI 747-100
+_synonym_en_1121,iScan 2.0,iScan 2
+_synonym_en_1122,cobas b 221,b 221,cobas b221,b221
+_synonym_en_1123,cobas b 221 5=Roche OMNI S5 system,OMNI S5 system,OMNI-S5,OMNI S5,cobas b 221-5
+_synonym_en_1124,cobas b 221 6=Roche OMNI S6 system,OMNI-S6,OMNI S6 system,OMNI S6
+_synonym_en_1125,cobas b 221 3=Roche OMNI S3 system,OMNI S3 system,OMNI-S3,OMNI S3,cobas b 221-3
+_synonym_en_1126,cobas b 221 4=Roche OMNI S4 system,OMNI-S4,cobas b 221-4,OMNI S4,OMNI S4 system
+_synonym_en_1127,cobas b 221 1=Roche OMNI S1 system,OMNI-S1,OMNI S1,cobas b 221-1,OMNI S1 System
+_synonym_en_1128,cobas b 221 2=Roche OMNI S2 system,Roche OMNI S2,OMNI-S2,OMNI S2 system,OMNI S2,cobas b 221-2
+_synonym_en_1129,DataCare POC®,DataCare POC system,DataCare POC
+_synonym_en_1130,Acculink/Accutility BI,Acculink/Accutility,Acculink-Accutility BI,Accutility,Acculink / Accutility,Acculink Accutility BI,Acculink
+_synonym_en_1131,Roche/Hitachi CLAS 2,Roche Hitachi CLAS 2,Hitachi CLAS2,Hitachi CLAS 2
+_synonym_en_1132,cobas bge link,bge,bgelink,bge link,OMNILINK,cobas bge software,cobas bge link/OMNILINK,cobas bge link software,cobas bge,bge-link
+_synonym_en_1133,TSM,Total System Manager
+_synonym_en_1134,cobas Liat,Iqum,I quum,Liat,I qum,Iquum
+_synonym_en_1135,OMNI System Auto QC,OMNI QC,OMNI Auto QC
+_synonym_en_1136,STA COMPACT,STAGO Compact
+_synonym_en_1137,cobas c pack opener,c pack opener,cobas pack opener
+_synonym_en_1138,MagNA Pure LC 2.0 Instrument,Magna Pure LC 2,MP LC 2,MagNA Pure LC 2.0,MagNA Pure LC 2.0 system,MagNA Pure LC system,MP LC 2.0
+_synonym_en_1139,STA Satellite,Stago Satellite
+_synonym_en_1140,analyzer,analyser
+_synonym_en_1141,cobas p 680,cobas p680,p680,p 680
+_synonym_en_1142,cobas p 680 software,cobas p680 software
+_synonym_en_1143,cobas p 680 instrument,cobas p680 instrument,NewGen pooler
+_synonym_en_1144,Roche Hitachi 902 Chemistry Analyzer,Roche Hitachi 902,HITACHI 902,h902,Roche/Hitachi 902 system,Roche Hitachi 902 Chemistry Analyser,Roche/Hitachi 902
+_synonym_en_1145,Roche Hitachi 912 Chemistry Analyzer,HITACHI 912,Roche Hitachi 912 Chemistry Analyser,h912,Roche/Hitachi 912 system,Roche/Hitachi 912,Roche Hitachi 912
+_synonym_en_1146,BenchMark,bench mark,bench-mark
+_synonym_en_1147,BenchMark GX,Bench-Mark GX,Bench Mark GX
+_synonym_en_1148,BenchMark Special Stains,Bench-Mark special stains
+_synonym_en_1149,BenchMark ULTRA,bench-mark ultra
+_synonym_en_1150,BenchMark XT/LT,BenchMark XT / LT,bench-mark xt,BenchMark XT,BenchMark LT,bench-mark lt,BenchMark XT LT
+_synonym_en_1151,Affymetrix IVD Instrument,Affymetrix IVD
+_synonym_en_1152,QuikRead Go,quick read go,quik read go,quickread go
+_synonym_en_1153,cobas m 511,m511,cobas morphology,cobas m511,bloodhound,m 511
+_synonym_en_1154,cobas m 511 integrated hematology analyzer,cobas m 511 hematology analyzer,cobas m511 hematology analyzer,cobas m511 integrated hematology analyzer,m511 hematology analyzer,m 511 hematology analyzer
+_synonym_en_1155,cobas m 511 Viewing Station,m511 Viewing Station,cobas m511 Viewing Station,m 511 Viewing Station
+_synonym_en_1156,cobas s 401 system,cobas s401,s401,cobas s401 system,cobas s 401 blood screening system,s 401,cobas s 401
+_synonym_en_1157,cobas® e-LabPerformance,cobas e-lab,e-LabPerformance,elabperformance,cobas e-lab performance
+_synonym_en_1158,cobas® link,cobasLink,cobas link Smart.com,cobas Link Data Station,cobas link datastation,smart.com,smartcom,cobas link
+_synonym_en_1159,ACCU-CHEK,accu chek,accuchek
+_synonym_en_1160,ACCU-CHEK Nano,accuchek nano
+_synonym_en_1161,Accu-Chek Performa,accuchek performa,accu chek performa
+_synonym_en_1162,ACCU-CHEK Performa Combo,Accuchek Performa combo
+_synonym_en_1163,ACCU-CHEK Performa II V3,ACCU CHEK Performa II V3,Accuchek Performa2,Accu-chek Performa II,Accu chek Performa2,Accuchek Performa II,Accu-chek Performa2,Accuchek Performa 2,Accu chek Performa II
+_synonym_en_1164,ACCU-CHEK Performa Nano WN,ACCU CHEK Performa Nano WN,ACCUCHEK Performa Nano,ACCU CHEK Performa Nano,ACCUCHEK Performa Nano WN,ACCU-CHEK Performa Nano
+_synonym_en_1165,ACCU-CHEK Performa Insight X2,ACCU CHEK Performa Insight X2,ACCUCHEK Performa Insight X2,ACCU-CHEK Performa Insight,ACCUCHEK Performa Insight,ACCU CHEK Performa Insight
+_synonym_en_1166,ACCU-CHEK Performa Expert V2,ACCUCHEK Performa Expert V2,ACCU CHEK Performa Expert V2,ACCU-CHEK Performa Expert,ACCU CHEK Performa Expert,Accuchek Performa Expert
+_synonym_en_1167,ACCU-CHEK Performa AERO DF,ACCU-CHEK Performa AERO,ACCUCHEK Performa AERO
+_synonym_en_1168,ACCU-CHEK Performa Connect V7,ACCU-CHEK Performa Connect,ACCUCHEK Performa Connect
+_synonym_en_1169,ACCU-CHEK Performa Solo DM V8,ACCU CHEK Performa Solo DM,ACCUCHEK Performa Solo DM V8,ACCU-CHEK Performa Solo DM,ACCUCHEK Performa Solo DM,ACCU CHEK Performa Solo DM V8
+_synonym_en_1170,ACCU-CHEK Easy,ACCUCHEK easy
+_synonym_en_1171,ACCU-CHEK Spirit Combo,Accuchek Spirit Combo
+_synonym_en_1172,ACCU-CHEK Softclix,Accuchek Softclix,accu chek softclix
+_synonym_en_1173,ACCU-CHEK Softclix Pro,Accuchek Softclix pro
+_synonym_en_1174,ACCU-CHEK Softclix Classic,Accuchek Softclix Classic
+_synonym_en_1175,ACCU-CHEK Plus/Simplicity,accuchek simplicity,accuchek plus/simplicity,accuchek plus
+_synonym_en_1176,ACCU-CHEK Safe-T-Pro,Accuchek Safe-T-Pro
+_synonym_en_1177,ACCU-CHEK Safe-T-Pro Plus,Accuchek Safe T-Pro +,AccuChek Safe T-Pro Plus,Accu-Chek Safe T-Pro +
+_synonym_en_1178,ACCU-CHEK Safe-T-Pro Uno,ACCUCHEK Safe-T-Pro Uno
+_synonym_en_1179,ACCU-CHEK Smart Printer GK,ACCUCHEK Smart Printer,ACCU CHEK Smart Printer GK,ACCUCHEK Printer,ACCU-CHEK Smart Printer,ACCUCHEK Smart Printer GK,ACCU-CHEK SmartPrinter,ACCUCHEK SmartPrinter,ACCU CHEK Smart Printer,ACCU-CHEK Printer
+_synonym_en_1180,ACCU-CHEK Soft Touch II,Accuchek soft touch,Accu-chek soft touch,accuchek soft touch 2,Accu-chek soft touch 2
+_synonym_en_1181,ACCU-CHEK® Pocket Compass,Accu Chek Pocket Compass,Accu Chek® Pocket,Accu-Chek Pocket Compass,Accuchek Pocket Compas
+_synonym_en_1182,ACCU-CHEK Voicemate Plus,ACCU-CHEK VoicematePlus,ACCUCHEK VoicematePlus,ACCU-CHEK Voicemate +,ACCUCHEK Voicemate+,ACCU-CHEK Voicemate+,ACCUCHEK Voicemate Plus,ACCUCHEK Voicemate +
+_synonym_en_1183,ACCU-CHEK Smart Pix UI,ACCUCHEK Smart Pix UI,ACCU-CHEK Smart Pix,ACCU CHEK Smart Pix UI,accuchek smart pix,ACCU CHEK Smart Pix
+_synonym_en_1184,ACCU-CHEK® D-TRONplus,ACCU-CHEK D-TRON plus,Accuchek d-tron plus,ACCUCHEK D-TRONplus
+_synonym_en_1185,ACCU-CHEK Advantage/Sensor,ACCU-CHEK Advantage,ACCU-CHEK Advantage / Sensor,ACCU-CHEK Sensor
+_synonym_en_1186,ACCU-CHEK Advantage/Sensor II,ACCU-CHEK Advantage/Sensor 2,accu chek advantage/sensor 2,accuchek advantage/sensor 2
+_synonym_en_1187,ACCU-CHEK Advantage/Sensor III,ACCU-CHEK Advantage/Sensor 3,accu chek advantage sensor 3,accuchek advantage/sensor 3
+_synonym_en_1188,ACCU-CHEK Advantage/Sensor I,accu chek advantage/sensor 1,ACCU-CHEK Advantage/Sensor 1
+_synonym_en_1189,ACCU-CHEK Active,accu chek active,accuchek active
+_synonym_en_1190,ACCU-CHEK Active GG,ACCUCHEK Active GG
+_synonym_en_1191,ACCU-CHEK Active Springboard,ACCU-CHEK Active Spring board,ACCUCHEK Spring board,ACCU-CHEK Spring board,ACCUCHEK Active Spring board,ACCU-CHEK Springboard,ACCUCHEK Active Springboard,ACCUCHEK Springboard
+_synonym_en_1192,ACCU-CHEK Active GB,ACCUCHEK Active GB
+_synonym_en_1193,ACCU-CHEK Active IV,ACCUCHEK Active IV
+_synonym_en_1194,ACCU-CHEK Active S,ACCUCHEK Active S
+_synonym_en_1195,ACCU-CHEK Active S LCM,ACCUCHEK Active S LCM
+_synonym_en_1196,ACCU-CHEK Aviva,accuchek aviva,accu chek aviva
+_synonym_en_1197,ACCU-CHEK Aviva Combo,Accuchek Aviva combo
+_synonym_en_1198,ACCU-CHEK Camit Pro,accu-chek camit,accuchek camit pro,accuchek camit
+_synonym_en_1199,ACCU-CHEK Comfort,accuchek comfort
+_synonym_en_1200,ACCU-CHEK Compact,ACCUCHEK Compact
+_synonym_en_1201,ACCU-CHEK Compact Plus,ACCUCHEK Compact Plus,ACCU-CHEK Compact+,ACCUCHEK Compact+,ACCUCHEK CompactPlus,ACCUCHEK Compact +,ACCU-CHEK CompactPlus,ACCU-CHEK Compact +
+_synonym_en_1202,ACCU-CHEK Compact Plus LCM,ACCU-CHEK Compact+ LCM,ACCUCHEK LCM,ACCU-CHEK CompactPlus LCM,ACCU-CHEK LCM,ACCU-CHEK Compact + LCM
+_synonym_en_1203,ACCU-CHEK Compass,ACCUCHEK Compass
+_synonym_en_1204,ACCU-CHEK Complete/Sensor Complete,accuchek complete/sensor complete
+_synonym_en_1205,ACCU-CHEK Contigo,accuchek contigo
+_synonym_en_1206,ACCU-CHEK Diabetes Assistant,accuchek diabetes assistant
+_synonym_en_1207,ACCU-CHEK FastClix BQ,ACCU CHEK FastClix BQ,ACCUCHEK FastClix BQ
+_synonym_en_1208,ACCU-CHEK Go,ACCUCHEK Go
+_synonym_en_1209,ACCU-CHEK Go S,ACCUCHEK Go S
+_synonym_en_1210,ACCU-CHEK Insight CGM,accuchek insight CGM
+_synonym_en_1211,ACCU-CHEK Insight Insulin Pump,accuchek insight insulin pump,Accu-Chek Insight
+_synonym_en_1212,ACCU-CHEK Integra,ACCUCHEK Integra
+_synonym_en_1213,ACCU-CHEK Interfaces,ACCUCHEK Interfaces
+_synonym_en_1214,ACCU-CHEK Mobile,accuchek mobile
+_synonym_en_1215,ACCU-CHEK Mobile LCM,Mobile LCM,ACCUCHEK Mobile LCM
+_synonym_en_1216,ACCU-CHEK Monitor,accuchek monitor
+_synonym_en_1217,ACCU-CHEK Multiclix,ACCUCHEK Multiclix
+_synonym_en_1218,ACCU-CHEK Smart Pix II GV,ACCUCHEK Smart Pix II GV,ACCU CHEK Smart Pix2,ACCU-CHEK Smart Pix 2,ACCU CHEK Smart Pix II,ACCUCHEK Smart Pix 2,ACCU-CHEK Smart PixII,ACCU CHEK Smart PixII,ACCU CHEK Smart Pix II GV,ACCUCHEK Smart Pix2,ACCU-CHEK Smart Pix2,Smart Pix2,ACCUCHEK Smart PixII,ACCU-CHEK Smart Pix II,Smart Pix II,Smart Pix 2,ACCUCHEK Smart Pix II
+_synonym_en_1219,ACCU-CHEK GTS,accuchek GTS
+_synonym_en_1220,ACCU-CHEK Inform,Accuchek Inform
+_synonym_en_1221,ACCU-CHEK MelliBase,Accuchek Mellibase
+_synonym_en_1222,ACCU-CHEK Spirit,Accuchek Spirit
+_synonym_en_1223,Accu-Chek Inform II,Accu-Chek Inform II System,Inform 2,Accu-Chek® Inform II System,Inform II,Accu-Chek Inform2,Accuchek Inform 2,Accu-Chek® Inform II,Accu-Chek Inform 2 System,Accuchek Inform II,Accuchek Inform 2 System,Accu-Chek Inform 2,Accuchek Inform II System,Inform2
+_synonym_en_1224,ACCU-CHEK 360,accuchek 360
+_synonym_en_1225,ACCU-CHEK 360 Android App R9,Accu-Chek 360 Android App,Accuchek 360 Android App
+_synonym_en_1226,ACCU-CHEK 360 Configuration Software R8,Accu-chek 360 Configuration Software,Accu-chek 360 Configuration SW,accu-chek 360 SW
+_synonym_en_1227,ACCU-CHEK 360 Diabetes Mgmt Desktop RI,ACCU-CHEK 360 Diabetes Mgmt Desktop,ACCU-CHEK 360 Diabetes
+_synonym_en_1228,ACCU-CHEK FastClix lancet drum,ACCUCHEK FastClix lancet drum,ACCU CHEK FastClix lancet drum
+_synonym_en_1229,ACCU-CHEK FastClix II,ACCU CHEK FastClix II,ACCU CHEK FastClix 2,ACCUCHEK FastClix 2,ACCU-CHEK FastClix 2,ACCUCHEK FastClix II
+_synonym_en_1230,ACCU-CHEK FastClix Mobile U8,ACCU CHEK FastClix Mobile U8,ACCUCHEK FastClix Mobile U8
+_synonym_en_1231,ACCU-CHEK FastClix Mobile LCM U1,ACCU CHEK FastClix Mobile LCM U1,ACCUCHEK FastClix Mobile LCM U1
+_synonym_en_1232,Axeda,Axeda SW
+_synonym_en_1233,Slide Washer 12 Array Processing System,Slide Washer System,Slide Washer Processing System,Slide Washer 12 Array
+_synonym_en_1234,COBAS MIRA,c mira
+_synonym_en_1235,connect 2,connect2
+_synonym_en_1236,Genome Sequencer Junior,GS Junior,GS Jr,Genome Sequencer Jr
+_synonym_en_1237,Genome Sequencer 20,GS 20
+_synonym_en_1238,Genome Sequencer FLX,GSF,Genome FLX,FLX,Sequencing FLX,GS FLX,Genome Sequencing FLX
+_synonym_en_1239,Genome Sequencer FLX+,GS FLX +,GSF+,GS FLX Plus,FLX Plus,FLX+,Genome Sequencing FLX+,Genome Sequencer FLX +,GS FLX+,Genome Sequencer FLX plus
+_synonym_en_1240,Roche Hitachi 904,HITACHI 904,h904
+_synonym_en_1241,middleware software,workarea manager,software middleware,Middleware-Software,work area manager,WAM
+_synonym_en_1242,DRI-CHEM Systems,DRI-CHEM,DRI-CHEM System
+_synonym_en_1243,FUJI DRI-CHEM 4000i,FUJI DRI-CHEM,Drichem 4000i,DRI-CHEM 4000i
+_synonym_en_1244,Starlyte III,Starlyte 3,Starlyte3
+_synonym_en_1245,Roche Hitachi Clinical Chemistry Analyzer 747-400,h747-400,Hitachi 747-400,Roche Hitachi Clinical Chemistry Analyser 747-400,Roche Hitachi 747-400,Roche Hitachi 747/400,Roche/Hitachi 747-400
+_synonym_en_1246,cobas s 201 system,s 201,cobas s201 System,cobas s201,cobas s 201,s201,cobas s 201 Blood Screening System
+_synonym_en_1247,MPL Evo 2,MPL Evo2
+_synonym_en_1248,Roche Hitachi 917 Chemistry Analyzer,Roche/Hitachi 917,Roche Hitachi 917 Chemistry Analyser,h917,Hitachi 917,Roche Hitachi 917
+_synonym_en_1249,COASYS Systems,Coasys System
+_synonym_en_1250,Coasys® Plus C,Coasys Plus C,Coasys + C,Coasys® + C
+_synonym_en_1251,Instrument Manager,Lantronix,InstrumentManager,Intermec,DataInnovations,Lan tronix,Data Innovations
+_synonym_en_1252,RocheHitachi Clinical Chemistry Analyzer 747-200,RocheHitachi Clinical Chemistry Analyser 747-200,HITACHI 747-200,Roche Hitachi 747/200,Roche/Hitachi 747-200,h747-200,Roche Hitachi 747-200
+_synonym_en_1253,cobas p 671 centrifuge unit,cobas p671 centrifuge unit,cobas p 671,cobas p 671 unit,cobas 671,cobas p671,p 671,p671
+_synonym_en_1254,cobas p 501 post-analytical unit,cobas p501,p 501,cobas p 501,p501,fridge,cobas p501 post-analytical unit,cobas p 501 unit
+_synonym_en_1255,cobas c 503 analyzer,cobas c 503 analyser,c 503,cobas 503,cobas c503,cobas c 503,c503
+_synonym_en_1256,HIS,hospital information system
+_synonym_en_1257,COBAS® TaqMan® Analyzer,TaqMan,COBAS TaqMan Analyzer,COBAS® TaqMan® Analyser,Cobas TM,COBAS TaqMan,CTM
+_synonym_en_1258,Aloka Rack Transportation Unit,Aloka Rack Transportation,Aloka Rack Unit
+_synonym_en_1259,cobas IT 3000 application,IT-3000,cobas IT 3000,IT3000,IT 3000
+_synonym_en_1260,cobas IT 3000 Microbiology,IT3000 Microbiology,cobas IT3000 Microbiology,IT 3000 Microbiology
+_synonym_en_1261,cobas IT 3000 Central laboratory,IT3000 central lab,cobas IT3000 Central laboratory,IT3000 central laboratory,IT 3000 central lab,cobas IT3000 central lab,cobas IT 3000 central lab,IT 3000 central laboratoy
+_synonym_en_1262,cobas IT 3000 Blood Depot,IT 3000 Blood Depot,IT3000 Blood Depot,cobas IT3000 Blood Depot
+_synonym_en_1263,VS 250 RACK,VS250,VS 250,VS250 RACK
+_synonym_en_1264,CellaVision DM96,CellaVision DM 96
+_synonym_en_1265,Ventana AS 800,AS 800,AS800,Apollo
+_synonym_en_1266,Ventana HE 600,HE 600,Atlas,HE600
+_synonym_en_1267,Ventana System Software VSS,VSS
+_synonym_en_1268,Visual Urine Glucose/Ketone KD,Visual Urine Glucose / Ketone,Visual Urine Glucose/Ketone,Visual Urine Glucose
+_synonym_en_1269,cobas b 121 system,b 121,b121,cobas b121,cobas b 121,OMNI-C,OMNI C,Roche OMNI C system,cobas b121 bga system
+_synonym_en_1270,cobas b 101 system,cobas b101,cobas b101 system,b101,b 101,cobas b 101
+_synonym_en_1271,SYMPHONY S-plus,Symphony s plus,symphony s+,symphony s +
+_synonym_en_1272,cobas p 471 centrifuge unit,cobas p471,p 471,cobas 471,p471,cobas p 471,cobas p 471 unit
+_synonym_en_1273,Reflotron Systems,Reflotron System
+_synonym_en_1274,REFLOTRON I,REFLOTRON1,REFLOTRON 1
+_synonym_en_1275,REFLOTRON II,REFLOTRON2,REFLOTRON 2
+_synonym_en_1276,REFLOTRON III Sprint,Reflotron III,Reflotron 3 Sprint,Reflotron 3
+_synonym_en_1277,REFLOTRON IV,REFLOTRON4,REFLOTRON 4
+_synonym_en_1278,REFLOTRON Plus,Reflotron +
+_synonym_en_1279,Miditron Junior,Miditron Jr
+_synonym_en_1280,Miditron Junior II,Miditron Jr 2,Miditron Junior2,Miditron Jr II,Miditron Junior 2
+_synonym_en_1281,Miditron M,Miditron-M
+_synonym_en_1282,Multiplate® analyzer,Multiplate Analyser,Multiplate Analyzer,Multiplate
+_synonym_en_1283,COBAS INTEGRA,c integra,integra
+_synonym_en_1284,COBAS INTEGRA 700,i 700,i700,INTEGRA 700,c integra 700,cobas int 700,INT700
+_synonym_en_1285,COBAS INTEGRA® 400 plus analyzer,cobas 400plus,cobas INT400 plus,cobas INT 400 plus,COBAS INTEGRA 400 plus analyzer,cobas i 400 plus,COBAS INTEGRA® 400 plus,cobas INT 400plus,cobas 400 Plus,COBAS INTEGRA 400 plus,cobas i400+,cobas I400 plus
+_synonym_en_1286,COBAS INTEGRA® 400 system,cobas i400,INTEGRA 400,COBAS INTEGRA 400,cobas i 400,cobas INT400,integra400,COBAS INTEGRA 400 system
+_synonym_en_1287,COBAS INTEGRA® 800 system,cobas INT800,COBAS INTEGRA 800 system,cobas INT 800,COBAS INTEGRA 800,cobas i800,INTEGRA 800
+_synonym_en_1288,ECL,electro chemi luminescence,electrochemiluminescence
+_synonym_en_1289,ISE,Ion Selective Electrodes
+_synonym_en_1290,position,pos,location
+_synonym_en_1291,2-point calibration,two-point calibration
+_synonym_en_1292,1-endpoint assay,one-endpoint assay
+_synonym_en_1293,2-endpoint assay,two-endpoint assay
+_synonym_en_1294,3-endpoint assay,three-endpoint assay
+_synonym_en_1295,2-point rate assay,two-point rate assay
+_synonym_en_1296,ISE 988-4,988-4 Electrolyte Analyser,Electrolyte Analyser 988-4,Electrolyte 988-4,ISE-988-4,ISE988-4,Roche 988-4 Electrolyte Analyser,Roche 988-4 Electrolyte Analyser ISE
+_synonym_en_1297,cobas® 4800 System,cobas 4800 System,c 48k,c 4800,c4800,cobas 48k,c48k
+_synonym_en_1298,cobas x 480 instrument,cobas x 480,cobas x480,x480,x 480
+_synonym_en_1299,cobas z 480 analyzer,cobas z480,z480,cobas z 480,z 480
+_synonym_en_1300,cobas p 480,p480,p 480,cobas p480
+_synonym_en_1301,cobas p 480 instrument,cobas p480 instrument
+_synonym_en_1302,cobas p 480 software,cobas p480 software
+_synonym_en_1303,cobas® 6500 urine analyzer series,c6500,cobas6500,cobas 6500,cobas 6500 urine analyzer series
+_synonym_en_1304,cobas u 601 urine analyzer,cobas u 601,cobas u601,u 601,u601,cobas u 601 urine analyser
+_synonym_en_1305,cobas u 701 microscopy analyzer,u 701,cobas u 701,u701,cobas u701,cobas u 701 microscopy analyser
+_synonym_en_1306,cobas c 111 analyzer,cobas c111,cobas c 111,cobas 111,c111,c 111,cobas c111 analyzer,cobas c 111 analyser
+_synonym_en_1307,cobas® 6800/8800 Systems,cx800,c x800,cobas x800
+_synonym_en_1308,cobas® 8800 System,cobas 8800 system,NewGen 1000
+_synonym_en_1309,cobas® 8800 instrument,c8800,c 8800,cobas 8800,cobas 8800 instrument
+_synonym_en_1310,cobas® 6800 System,NewGen,NewGen 300,cobas 6800 System
+_synonym_en_1311,cobas® 6800 instrument,cobas 6800,cobas 6800 instrument,c 6800,c6800
+_synonym_en_1312,CDIFF,cdf,clostridium diffcile
+_synonym_en_1313,NH3L,NH3L Ammonia,Ammonia,COBAS INTEGRA NH3L Ammonia,NH3
+_synonym_en_1314,ASA,Acetylsalicilic acid
+_synonym_en_1315,AMYL,AMYL α-Amylase liquid acc to IFCC,a¬-Amylase EPS,alpha Amylase ß,AMY,α-Amylase liquid,α-Amylase liquid acc to IFCC,α-Amylase EPS,alpha-Amylase,Amylase
+_synonym_en_1316,Glycerol,glycerine
+_synonym_en_1317,AMYL-P,AMYP,alpha-Amylase Pancreatic,α-Amylase EPS Pancreatic,p-Amylase,alpha Amylase Pancreatic
+_synonym_en_1318,pathological casts,PAT
+_synonym_en_1319,AST ASAT/GOT,Aspartate aminotransferase acc to IFCC with/without pyridoxal phosphate activation,ASAT,GOT,AST UV Test,Aspartate Aminotransferase AST,AST ASAT/GOT Aspartate aminotransferase acc to IFCC with/without pyridoxal phosphate activation
+_synonym_en_1320,AFP,AFP α1-fetoprotein,Elecsys AFP Assay,Alphafetoprotein
+_synonym_en_1321,YEA,yeast
+_synonym_en_1322,PlGF,Human Placenta Growth Factor,Placenta Growth Factor
+_synonym_en_1323,PLG,Plasminogen
+_synonym_en_1324,PAI,Plasminogen Activator-Inhibitors
+_synonym_en_1325,Li,Lithium
+_synonym_en_1326,PF4,Platelet Factor 4,PF 4
+_synonym_en_1327,VANCO,Vanc2,Vancomycin
+_synonym_en_1328,LDHI2,Lactate Dehydrogenase acc IFCC ver.2,Lactate Dehydrogenase acc to IFCC ver.2,LDHI2 Lactate Dehydrogenase acc IFCC ver.2,LDHI2 Lactate dehydrogenase liquid acc to IFCC ver.2
+_synonym_en_1329,LA,Lupus Anticoagulant
+_synonym_en_1330,K,Potassium,Potassium Electrode
+_synonym_en_1331,Prealb,Prealbumin,Pre-albumin / Transthyretin,Prea,Tina-quant Prealbumin
+_synonym_en_1332,LIDO,ONLINE TDM Lidocaine,LIDO ONLINE TDM Lidocaine,Lidocaine,ONLINE TDM Lidocaine assay
+_synonym_en_1333,LIP,Lipase
+_synonym_en_1334,AMYL2,Alpha-Amylase 2,α-Amylase EPS ver.2
+_synonym_en_1335,HSV-2 IgG,Elecsys HSV-2 IgG Immunoassay,Herpes simples Virus 2 IgG,IgG antibodies to herpes simplex virus type 2
+_synonym_en_1336,LP a,Lipoprotein a,LPA
+_synonym_en_1337,SHBG,Human sex hormone-binding globulin,Elecsys SHBG
+_synonym_en_1338,LDH-iso,Lactate Dehydrogenase Iso,LDH iso
+_synonym_en_1339,LoD,low detection limit,lower detection limit,limit of detection,detection limit
+_synonym_en_1340,SARS-CoV,SARS-Coronavirus RNA RUO,SARS-Coronavirus
+_synonym_en_1341,HCG STAT,Human Chorionic Gonadotropin,HCG,STAT Short Turn Around Time,HCG STAT II,Elecsys HCG STAT
+_synonym_en_1342,A1C-2,Tina-quant HbA1c Gen.2 A1C-W,A1C-2 Tina-quant Hemoglobin A1c Gen.2 - Whole blood and Hemolysate Application,Tina-quant Hemoglobin A1c Gen.2 - Whole blood and Hemolysate Application,Tina-quant Hemoglobin A1c Gen.2,Whole blood and Hemolysate Application
+_synonym_en_1343,AAT,Protease inhibitor,Alpha-1-Antitrypsin,alpha-Antitrypsin,a1-Antitrypsin Protease inhibitor,α1-Antitrypsin Tina-quant α1-Antitrypsin,a1-Antitrypsin,Tina-quant α1-Antitrypsin,Tina-quant Alpha-1-Antitrypsin
+_synonym_en_1344,ALB2,Albumin 2,Albumin Gen 2,COBAS INTEGRA Albumin Gen 2,ALB plus Albumin BCG method
+_synonym_en_1345,Oral Fluid Methamphetamine,OFMA Oral Fluid Methamphetamine,DAT Oral Fluid Methamphetamine OFMA
+_synonym_en_1346,Na,Sodium,Natrium,Sodium Electrode
+_synonym_en_1347,PRIM,Primidone
+_synonym_en_1348,proBNP II STAT,N-terminal pro B-type natriuretic peptide,STAT Short Turn Around Time,proBNP II,Elecsys ProBNP II STAT Immunoassay,Elecsys ProBNP II Immunoassay,proBNP STAT,Elecsys ProBNP STAT Assay,BNP,NT-proBNP,Elecsys ProBNP Assay,ProBNP
+_synonym_en_1349,PAPP-A,Pregnancy-associated plasma protein A
+_synonym_en_1350,Procainamide,PROC ONLINE TDM Procainamide,PROC,ONLINE TDM Procainamide assay,PROC2,ONLINE TDM Procainamide
+_synonym_en_1351,PTH STAT,parathyrin - PTH,Elecsys PTH Immunoassay,Parathyroid hormone parathormone,intact STAT “Short Turn Around Time”,intact,PTH,Parathyroid Hormone Intact,Elecsys PTH STAT Immunoassay
+_synonym_en_1352,Oxycodone,OXY Oxycodone,DRI Oxycodone assay OXY,DRI Oxycodone Assay,OXY
+_synonym_en_1353,T3,T 3,Triiodothyronine,Elecsys T3
+_synonym_en_1354,GGT-2,Gamma-Glutamyltransferase 2,ɣ-Glutamyltransferase ver.2,ɣ-Glutamyltransferase ver.2 Standardized against IFCC / Szasz,COBAS INTEGRA GGT,Glutamyltransferase 2,GGT-2 ɣ-Glutamyltransferase ver.2 Standardized against IFCC / Szasz,ɣ-Glutamyltransferase ver.2 Standardized against Szasz,Gamma-GT 2,GGT-2 ɣ-Glutamyltransferase ver.2 Standardized against Szasz
+_synonym_en_1355,Troponin I,c-Troponin,c Troponin,Trop I,TNI,Elecsys Troponin I Immunoassay,cTroponin I,Troponin 1,c-Troponin I,c Troponin I
+_synonym_en_1356,CFAS,c.f.a.s,Calibrator for automated systems
+_synonym_en_1357,VALP,Valproic Acid,Valproic Acid - Free Valproic Acid Application,VALP ONLINE TDM Valproic Acid,ONLINE TDM Valproic Acid assay,ONLINE TDM Valproic Acid
+_synonym_en_1358,F XIII,factor 13,F13,factor13,Coagulation factor XIII,Coagulation factor 13,F 13,factor XIII
+_synonym_en_1359,Pseudomonas,P.aeruginosa DNA detection
+_synonym_en_1360,UA,Uric Acid
+_synonym_en_1361,F XII,factor12,F 12,factor XII,F12,Coagulation factor XII,factor 12,Coagulation factor 12
+_synonym_en_1362,UREAL,UREA/BUN Kinetic UV assay for urea/urea nitrogen,UREAL UREA/BUN,Kinetic UV assay for urea/urea nitrogen,UREA/BUN,BUN/Urea UREAL,Roche Diagnostics Urea/Urea Nitrogen Reagent,BUN,Urea,UREA/Blood Urea Nitrogen
+_synonym_en_1363,LA-APA,LAAPA,Lupus Anticoagulant/Antiphospholipid Antibody Panel
+_synonym_en_1364,LH,Luteinizing hormone,Luteinising Hormone,Elecsys LH Assay
+_synonym_en_1365,HIV Ag P24,HIV P24 Antigen
+_synonym_en_1366,Strep A,Strep A ptsl gene,Streptococcus pyogenes
+_synonym_en_1367,HIV-1 qual,HIV-1 qualitative
+_synonym_en_1368,sFLT1,soluble FMS like Thyrosin Kinase 1,sflt 1
+_synonym_en_1369,HCG+B,Elecsys HCG Beta Test System,Human chorionic Gonadotropin + beta,HCG B,HCG-b,Human chorionic Gonadotropin beta,HCG+β,HCG-beta,HCG beta,Beta-hCG,Intact human chorionic gonadotropin the β-subunit,HCGB,HCG+beta,HCG-β
+_synonym_en_1370,sTfR,Tina-quant Soluble Transferrin Receptor,Soluble Transferrin Receptor
+_synonym_en_1371,THC2,Cannabinoids II THCII,ONLINE DAT II Cannabinoids II,Cannabinoids,cannabinoid,Cannabis,THCII,THC II,THC,Cannabinoids II
+_synonym_en_1372,PPX,Propoxyphene Plus,Propoxyphene Plus PPX P,PPX P Propoxyphene Plus,Propoxyphene
+_synonym_en_1373,TP2,Total Protein Gen.2 monocromatic,TP2 Total Protein Gen.2 monocromatic,Total Protein Gen.2
+_synonym_en_1374,PCT,Procalcitonin
+_synonym_en_1375,PSA,Elecsys Total PSA Immunoassay,TPSA,Prostatic Specific Antigen,total free complexed PSA - Prostate-specific antigen tPSA,TPSA CS,Total PSA
+_synonym_en_1376,CA 72-4,CA 724,Cancer Antigen 72-4,CA724
+_synonym_en_1377,Candida,Candida albicans DNA detection
+_synonym_en_1378,CA 15-3 II,Elecsys CA 15-3 II Assay,CA15-3,CA 15-3,Cancer Antigen 15-3,CA 153,CA153
+_synonym_en_1379,Folate RBC Hemolyzing Reagent,Elecsys RBC Folate Hemolyzing Reagent,Hemolyzing reagent for the determination of folate in erythrocytes
+_synonym_en_1380,hTR RNA quant,hTR RNA quantitative,quantitative human telomerase-assoc RNA
+_synonym_en_1381,BIL-D,D-Bili,bilid,Bilirubin direct,BilD,dbili,Bili-D
+_synonym_en_1382,Bordetella,1001 gene,parapertussis,IS481,pertussis
+_synonym_en_1383,Ca,Calcium
+_synonym_en_1384,CA 125 II,Elecsys CA 125 II,CA 125,CA125,Cancer Antigen 125
+_synonym_en_1385,CA 19-9,Elecsys CA 19-9 Immunoassay,CA19-9,Carbohydrate Antigen 19-9,CA199,CA 199,Cancer Antigen 19-9
+_synonym_en_1386,PT,Prothrombin time Quick Test
+_synonym_en_1387,BILTS,Total Bilirubin Special,BILTS Total Bilirubin Special
+_synonym_en_1388,BCR-ABL quant,quantification of BCR-ABL fusion transcripts,BCRABL,BCR-ABL quantitative
+_synonym_en_1389,CT/NG test,CT/NG-Test
+_synonym_en_1390,AAT2,α1-Antitrypsin 2,Tina-quant α1-Antitrypsin ver.2,a1-Antitrypsin 2,Alpha-1-Antitrypsin 2,a1-Antitrypsin 2 Protease inhibitor
+_synonym_en_1391,UA2,UA2 Uric Acid ver.2,Uric Acid ver.2,Uric Acid Ver.2 UA2
+_synonym_en_1392,UA plus,Uric Acid plus,Uric Acid PAP,UA plus Uric Acid plus
+_synonym_en_1393,Roche CARDIAC POC Troponin T,Roche CARDIAC T Quantitative Troponin T Quantitative,Troponin T Quantitative
+_synonym_en_1394,Accutrend Cholesterol,Accutrend Plus Cholesterol strips
+_synonym_en_1395,β-CrossLaps/serum,Elecsys β-CrossLaps/serum Immunoassay,β-CrossLaps/serum β-CTx in serum
+_synonym_en_1396,cobas® HCV Quantitative nucleic acid test for use on the cobas® 4800 System,cobas® HCV
+_synonym_en_1397,Oral Fluid Amphetamine,OFAMP Oral Fluid Amphetamine,DAT Oral Fluid Amphetamine OFAMP
+_synonym_en_1398,HBV test,test HBV,HBV-Test
+_synonym_en_1399,cobas® HBV Quantitative nucleic acid test for use on the cobas® 4800 System,cobas® 4800 HBV Test,cobas® HBV
+_synonym_en_1400,Oral Fluid Cocaine,DAT Oral Fluid Cocaine OFCOC,OFCOC Oral Fluid Cocaine
+_synonym_en_1401,S.I,SI,Serum Index Solution,Serum Index,S.I Serum Index
+_synonym_en_1402,duplex test,DPX test,test DPX,Duplex-Test,DPX-Test
+_synonym_en_1403,Validity Test Nitrite,ONLINE DAT Validity Test Nitrite,Specimen Validity Test Nitrite
+_synonym_en_1404,cobas® EGFR Mutation Test,cobas® EGFR Mutationsassay,cobas® EGFR Mutationstest
+_synonym_en_1405,MM,Methadone Metabolite,DRI Methadone Metabolite,DRI Methadone Metabolite assay MM,MM Methadone Metabolite,DRI Methadone Metabolite assay
+_synonym_en_1406,AP,analysis package,assay specific analytic packag,ASAP,assay specific analytic package
+_synonym_en_1407,Lactate Gen.2,LACT2 Lactate Gen.2,LACT2
+_synonym_en_1408,C4-2,Tina-quant Complement C4 ver.2
+_synonym_en_1409,MICRAL-TEST®,MICRALTEST,MICRAL-TEST
+_synonym_en_1410,Validity Test Oxidant,ONLINE DAT Validity Test Oxidant,Specimen Validity Test Oxidant
+_synonym_en_1411,ketone,Ketones,KETO
+_synonym_en_1412,DIGIT,Digitoxin
+_synonym_en_1413,IgA-2,Roche Diagnostics Tina-quant IgA Gen.2,IgA Tina-quant IgA Gen.2,Tina-quant IgA Gen.2
+_synonym_en_1414,Toxo IgM,Toxoplasma Antibody IgM,Toxoplasma IgM
+_synonym_en_1415,TFPI,Toxoplasma Antibody IgG,Tissue factor pathway inhibitor I,Toxoplasma IgG
+_synonym_en_1416,Toxo IgG,Elecsys Toxo IgG Immunoassay,Toxo,IgG antibodies to Toxoplasma gondii,Toxoplasma Antibody
+_synonym_en_1417,TOBR2,ONLINE TDM Tobramycin,Tobramycin 2,Tobramycin,TOBR ONLINE TDM Tobramycin,ONLINE TDM Tobramycin assay,TOBRA,Tobramycin II,Tobr
+_synonym_en_1418,T4,T 4,Total T4,Thyroxine,Elecsys T4 Assay
+_synonym_en_1419,mALB,Micro-albumin,µ-Albumin,MAU,micro albumin,Microalbumin
+_synonym_en_1420,TRANS,Transferrin
+_synonym_en_1421,AAGP,α1‑Acid Glycoprotein,a1-Acid Glycoprotein Orosomucoid,Orosomucoid,alpha1-Acid Glycoprotein,Alpha1-Glykoprotein,a1-Acid Glycoprotein
+_synonym_en_1422,tPA,Tissue Plasminogen Activator
+_synonym_en_1423,U/CSF Protein,Roche/Hitachi Urinary/CSF Protein,U/CSF Protein Total Protein in Urine/Cerebrospinal Fluid,Total Protein in Urine/Cerebrospinal Fluid
+_synonym_en_1424,ACETA,Acetaminophene,Roche Acetaminophen Assay,ACETA Acetaminophen,acetaminophen,Paracetamol,Acetaminophen Paracetamol
+_synonym_en_1425,CREJ2,CREJ2 Creatinine Jaffé Gen.2 - Urine,Creatinine Jaffé Gen.2,COBAS INTEGRA Creatinine Jaffé
+_synonym_en_1426,AAT,a1-Antitrypsin,Protease inhibitor,Antitrypsin,alpha-Antitrypsin
+_synonym_en_1427,A1M,a1-Microglobulin,alpha1-Microglobulin,α1-Microglobulin
+_synonym_en_1428,Validity Test pH,ONLINE DAT Validity Test pH,Specimen Validity Test pH
+_synonym_en_1429,FRA,Fructosamine,FRUC
+_synonym_en_1430,GGT,Gamma-Glutamyltransferase,Gamma Glutamyltransferase,Gamma-GT,y-Glutamyltransferase,Gamma-glutamyltransferase liquid,GGT Gamma-glutamyltransferase liquid,Glutamyltransferase
+_synonym_en_1431,FT3 III,Elecsys FT3 III,Free Triiodothyronine III,FT3 - Free Triiodothyronine gen.3,FT3 - free triiodothyronine gen3
+_synonym_en_1432,CFHR1,Complement factor H-related 1,Complement factor H-related protein 1
+_synonym_en_1433,GENTA,Gent2,Gentamicin,Gent
+_synonym_en_1434,CT qual,Chlamydia Trachomatis qualitative
+_synonym_en_1435,OPI2,Opiate,Opiates II,Opiates,OPIA Opiates II,Opiate 2,Opiates II OPIA,OPIA
+_synonym_en_1436,NAT2 mutation,nucleotide polymorphisms of human N-acetyltransferase 2 gene,NAT 2
+_synonym_en_1437,ACP-NPP,ACPNPP,Non-prostatic Acid Phosphatase
+_synonym_en_1438,NSE,Neuron Specific Enolase
+_synonym_en_1439,CT/NG qual,ctng,Chlamydia trachomatis/ Neisseria gonorrhoeae qualitative,ct-ng,CT/NG qualitative
+_synonym_en_1440,CL,Chloride,Chloride Electrode
+_synonym_en_1441,CHOL2,Cholesterol 2,Cholesterol Gen.2,COBAS INTEGRA Cholesterol CHOLL,CHOL2 Cholesterol Gen.2
+_synonym_en_1442,%CDT,Desialotransferrin DST,Carbo Hydrate Deficient Transferrin,CDT
+_synonym_en_1443,HBsAg Confirmatory Test,HBsAg Conf,Elecsys HBsAg Confirmatory Test
+_synonym_en_1444,Testosterone,Testosterone II,Elecsys Testosterone II Assay,Testosterone with Dehydro and Free
+_synonym_en_1445,Cerulo,CPLAS,Ceruloplasmin,Ceru,COBAS INTEGRA CERULOPLASMIN
+_synonym_en_1446,HIV-1 test,HIV-1-Test,test HIV-1
+_synonym_en_1447,Anti-HBe,AHBE,A HBE,Hep B Antibody Total,HepB Antibody Total,Hepatitis B Antibody Total
+_synonym_en_1448,TG,Triglycerides GB,TG Triglycerides GPO-PAP,Triglycerides GPO-PAP,Thyroglobulin
+_synonym_en_1449,Anti-TPO,ATPO,Antibodies to thyroid peroxidase,Thyroid Peroxydase Antibodies,Roche Diagnostics COBAS Elecsys Anti-TPO
+_synonym_en_1450,Anti-HBs,Hep B Surface Antib Total,Antibody to hepatitis B surface antigen anti-HBs,Elecsys Anti-HBs Immunoassay,Hep B Surface Antib,AHBS,A HBS,A-HBs,Hepatitis B Surface Antib,HepB Surface Antib,Hepatitis B Surface Antib Total
+_synonym_en_1451,TNAI,Total Nucleic Acid Isolation
+_synonym_en_1452,HBeAg,Hepatitis B Antigen,Elecsys HBeAg Immunoassay,Hepatitis B e antigen,HepB Antigen,Hep B Antigen
+_synonym_en_1453,TP,Total Protein,TP Total protein
+_synonym_en_1454,Anti-HBc,HepB Core Antib,Elecsys Anti-HBc Immunoassay,Hep B Core Antib,AHBC,Hepatitis B Core Antib,HepB Core Antib Total,Hepatitis B Core Antib Total,A-HBc,Hep B Core Antib Total,Antibodies to hepatitis B core antigen anti-HBc
+_synonym_en_1455,Calcitonin,Elecsys Calcitonin Immunoassay,hCT - human calcitonin,hCT
+_synonym_en_1456,ACP,Acid Phosphatase
+_synonym_en_1457,APTT,Activated Partial Thromboplastin Time
+_synonym_en_1458,CHE,Cholinesterase Gen.2,CHE Cholinesterase,Cholinesterase,CHE2
+_synonym_en_1459,ACTH,Elecsys ACTH Test System,Adrenocorticotropic hormone,corticotropin
+_synonym_en_1460,BILT3,cobas c Bilirubin Total Gen.3,Total Bilirubin,TBILI Total Bilirubin,Bilirubin Total Gen.3
+_synonym_en_1461,Oral Fluid Opiates,DAT Oral Fluid Opiates OFOPI,OFOPI Oral Fluid Opiates,OFOPI
+_synonym_en_1462,CO2,Carbon Dioxide
+_synonym_en_1463,CEA,Carcinoembryonic Antigen,Elecsys CEA Assay
+_synonym_en_1464,NG qual,NG qualitative,Neisseria gonorrhoeae qualitative
+_synonym_en_1465,CHOL,Cholesterol/HP,CHOL CHOD-PAP,CHOL Cholesterol CHOD-PAP,Cholesterol CHOD-PAP,Cholesterol
+_synonym_en_1466,N-Acetyl-Procainamide,ONLINE TDM N-acetylprocainamide assay,N-Acetyl Procainamide,N Acetyl Procainamide,NAPA,ONLINE TDM N-acetylprocainamide,N-Acetylprocainamide,NAPA ONLINE TDM N-acetylprocainamide
+_synonym_en_1467,cobas® HCV GT HCV genotyping test for use on the cobas® 4800 System,cobas® HCV GT
+_synonym_en_1468,TMPA,Total Mycophenolic Acid,Mycophenolic Acid
+_synonym_en_1469,Parvo B19,Parvovirus B19 quant,Parvo-B19-Virus
+_synonym_en_1470,INSTC,Instrument Check
+_synonym_en_1471,GLUH2,Glucose HK Hemolysate*
+_synonym_en_1472,Syphilis,lues,Treponema Pallidum Latex Agglutination,TPLA
+_synonym_en_1473,Prolactin II,Prolactin 2,PRL II,prol 2,PRL,PRL 2
+_synonym_en_1474,HAV RNA quant,Hep A RNA quantitative,Hepatitis A RNA quantitative,HBsAg,HepA RNA quantitative
+_synonym_en_1475,HCV genotyping,Hepatitis C Virus genotyping,HCV genotyping test,HEP C Virus genotyping,HepC virus Genotyping
+_synonym_en_1476,IgM-2,Immunoglobulin M Gen.2,Tina-quant IgM Gen.2,IgM Tina-quant IgM Gen.2,Roche Diagnostics Tina-quant IgM Gen.2
+_synonym_en_1477,Progesterone II,PRG 2,Progesterone2,Elecsys Progesterone II Assay,PROG,prog 2,Progesterone 2
+_synonym_en_1478,HCV qual,Hep C Virus qualitative,HepC Virus qualitative,Hepatitis C Virus qualitative
+_synonym_en_1479,HBV quant,HepB Virus quantitative,Hepatitis B Virus quantitative,Hep B Virus quantitative
+_synonym_en_1480,PHOS2,Phosphate Inorganic ver.2
+_synonym_en_1481,Oral Fluid Phencyclidine,OFPCP Oral Fluid Phencyclidine,DAT Oral Fluid Phencyclidine OFPCP
+_synonym_en_1482,HBV qual,Hep B Virus qualitative,Hepatitis B Virus qualitative,HepB Virus qualitative
+_synonym_en_1483,F VIII,factor VIII,factor8,factor 8,F 8,Coagulation factor VIII,F8,Coagulation factor 8
+_synonym_en_1484,FERR4,FERR4 Tina-quant Ferritin Gen.4,Tina-Quant Ferritin Gen.4 Assay,Tina-quant Ferritin Gen.4
+_synonym_en_1485,VWF,von Willebrand,coagulation factor
+_synonym_en_1486,COX,Cycloxygenase
+_synonym_en_1487,PHOS,Phosphate inorganic / Phosphorus,Phosphorus,PHOS Inorganic phosphorus,Phosphate inorganic,Roche Diagnostics Inorganic Phosphorus,Inorganic phosphorus
+_synonym_en_1488,Phenytoin,Roche ONLINE TDM Phenytoin,ONLINE TDM Phenytoin,PHNY,ONLINE TDM Phenytoin assay,phny2,PHNY ONLINE TDM Phenytoin,Phenytoin - Free Phenytoin Application
+_synonym_en_1489,Phenobarbital,PHNO ONLINE TDM Phenobarbital,ONLINE TDM Phenobarbital,ONLINE TDM Phenobarbital assay,PHNO,Pheno
+_synonym_en_1490,PCP,Phencyclidine Plus,Phencyclidine,PCP P,ONLINE DAT Phencyclidine Plus,Phencyclidine Plus PCP P
+_synonym_en_1491,CREA-E,Creatinine - Enzymatic,Creatinine enzymatic,CREAE
+_synonym_en_1492,CREA-J,CREAJ,Creatinine Jaffé,Creatinine Jaffe
+_synonym_en_1493,F VII,Coagulation factor 7,factor VII,Coagulation factor VII,F 7,F7,factor 7,factor7
+_synonym_en_1494,Troponin T hs,Roche CARDIAC TROP TSensitive,Troponin T hs high sensitive,Roche Troponin T Sensitive,Troponin T Sensitive,Roche CARDIAC TROP T Sensitive
+_synonym_en_1495,F XI,factor XI,Coagulation factor 11,F 11,Coagulation factor XI,factor11,factor 11,F11
+_synonym_en_1496,Vitamin D total,25-Hydroxyvitamin D,Elecsys Vitamin D Assay
+_synonym_en_1497,F X,factor X,F10,factor10,Coagulation factor 10,Coagulation factor X,factor 10,F 10
+_synonym_en_1498,CO2-L,CO2-L Bircarbonate liquid,COBAS INTEGRA CO2 Bicarbonate,Bircarbonate liquid
+_synonym_en_1499,Accutrend® Glucose,Accutrend Glucose
+_synonym_en_1500,MTB/MAI qual,Mycobacteria tuberculosis and Mycobacteria avium / Mycobacteria intracellulare qualitative,MTB / MAI qual,MTB MAI qual,MTB-MAI qual
+_synonym_en_1501,TPUC,Total Protein Urine CSF,Total Protein Urine/CSF
+_synonym_en_1502,UCAP,utility channel analysis package
+_synonym_en_1503,SVTCR,Validity Test Creatinine,ONLINE DAT Specimen Validity Test Creatinine,Specimen Validity Test Creatinine
+_synonym_en_1504,Sirolimus,SRL
+_synonym_en_1505,ASLO,Tina-quant ASLO Antistreptolysin O,Tina-quant ASLO
+_synonym_en_1506,HCV quant,Hepatitis C Virus quantitative,Hep C Virus quantitative,HepC Virus quantitative
+_synonym_en_1507,MG2,Magnesium Gen.2
+_synonym_en_1508,IgG-2,Roche Diagnostics Tina-quant IgG Gen.2,IgG II,IgG Tina-quant IgG Gen.2,Tina-quant IgG Gen.2,IgG 2
+_synonym_en_1509,BAC,bacterium
+_synonym_en_1510,TPUC3,Roche/Hitachi Urinary/CSF Protein Gen.3,Total Protein Urine/CSF Gen.3,U/CSF Protein Total Protein in Urine/Cerebrospinal Fluid Gen.3
+_synonym_en_1511,F V,factor 5,F 5,F5,Coagulation factor 5,factor V,factor5,Coagulation factor V
+_synonym_en_1512,N-MID Osteocalcin,OCN,Elecsys N-Mid Osteocalcin Immunoassay,Osteocalcin,Osteocalcin OCN
+_synonym_en_1513,F II,factor 2,Prothrombin,F 2,F2,Coagulation factor 2,factor II,factor2,Coagulation factor II
+_synonym_en_1514,F IX,factor IX,F9,Coagulation factor 9,F 9,factor 9,Coagulation factor IX,factor9
+_synonym_en_1515,Factor V Leiden,Coagulation Factor 5 Leiden,F5 Leiden,Coagulation Factor V Leiden,Factor5 Leiden,Factor 5 Leiden,F 5 Leiden
+_synonym_en_1516,BAR P,Barbiturates Plus,Barbiturates Plus BAR P,ONLINE DAT Barbiturates Plus
+_synonym_en_1517,BENZ,Benzodiazepine,Benzodiazepines,Benzodiazepines Plus BNZ P,Benzodiazepines Plus,BNZ P Benzodiazepines Plus
+_synonym_en_1518,B2MG,Beta 2,Tina-quant β2-Microglobulin,B2-Microglobulin,β 2,β2-Microglobulin Tina-quant β2-Microglobulin,Beta2-Microglobuline
+_synonym_en_1519,Cortisol,CCS,CCC,Elecsys Cortisol Test System,CORT
+_synonym_en_1520,COC2,ONLINE DAT II Cocaine II,Cocaine2,Cocain II,Cocain 2,COCA2,COCA Gen2,Cocaine 2,COCII,CocaineII,Cocaine II
+_synonym_en_1521,C4,C4 Tina-quant C4,Complement C4,Tina-quant C4,C4 Complement,Complement Component C4
+_synonym_en_1522,ALTPM / ASTPM,Alanine Aminotransferase / Aspartate Aminotransferase acc to IFCC with pyridoxal phosphate activation
+_synonym_en_1523,BIL-T,BIL,Bili-T,tbili,T-Bili,Bilirubin Total,bilit,BilT,BIL T,Bilirubin,Bili
+_synonym_en_1524,TRIGL,Triglycerides,Trig,TRIGL Triglycerides
+_synonym_en_1525,CREP2,COBAS INTEGRA Creatinine Plus Ver 2,Creatinine plus ver.2,CREP2 Creatinine plus ver.2
+_synonym_en_1526,C3c,C3C-2,C3 Complement,C3,Complement Component C3/C3c,Tina-quant C3c,Complement C3c,C3c Tina-quant C3c,Tina-quant Complement C3c ver.2
+_synonym_en_1527,Beta-CrossLaps,beta CrossLaps/Serum,ß-CrossLaps,B-CrossLaps,β-CrossLaps
+_synonym_en_1528,CKL,Creatine Kinase - Total,CKL Creatine Kinase,Creatine Kinase liquid,acc to IFCC,CK Creatine Kinase liquid,Creatine Kinase,COBAS CK-NAC REAGENT,CK
+_synonym_en_1529,CA2,Calcium 2,CA2 Calcium Gen.2,Calcium Gen.2,Calcium Gen 2 Assay
+_synonym_en_1530,CRPL3,Tina-quant C-Reactive Protein Gen.3,C-Reactive Protein Gen.3
+_synonym_en_1531,C-Peptide,Elecsys C-Peptide,connecting peptide,C-Peptid,CPEPTID
+_synonym_en_1532,IL28B,Interleukin-28B,IL-28B,Interleukin28B,Interleukin 28B,IL 28B
+_synonym_en_1533,CRP,C-Reactive Protein
+_synonym_en_1534,AMPS/MDMA,Amphetamine - Methamphetamine,AMPS MDMA,Amphetamine-Methamphetamine,Amphetamine/Methamphetamine Specific +Ecstasy,AMPS / MDMA,Amphetamine / Methamphetamine,Amphetamine/Methamphetamine Specific Ecstasy,AMPS-MDMA,Amphetamine/Methamphetamine
+_synonym_en_1535,S100,S 100
+_synonym_en_1536,ASTL,Aspartate aminotransferase with/without pyridoxal phosphate activation,Aspartate Aminotransferase,Aspartate Aminotransferase ASTL/ASTPL,Aspartate Aminotransferase - Pyridoxal phosphate activated,Aspartate Aminotransferase acc to IFCC without pyridoxal phosphate activation,ASTL/ASTPL
+_synonym_en_1537,ALP,Alkaline Phosphatase - Total,Alkaline Phosphate,alkaline phosphatase
+_synonym_en_1538,Vitamin B12,B 12,Elecsys Vitamin B12 Immunoassay,V b12,B12
+_synonym_en_1539,VZV ORF29,Varizella-Zoster-Virus ORF29,Varicella-Zoster Virus ORF29 detection
+_synonym_en_1540,Aldolase,ALD
+_synonym_en_1541,D3,D 3,Vitamin D3
+_synonym_en_1542,CT quant,Chlamydia trachomatis quantitative,CT quantitative
+_synonym_en_1543,WNV,West Nile Virus
+_synonym_en_1544,ALBP,Albumin/BCP,BCP Albumin,Albumin BCP
+_synonym_en_1545,BRAF,v-raf murine sarcoma viral oncogene homolog B1
+_synonym_en_1546,Everolimus,EVL
+_synonym_en_1547,CKMBL,CKMBL Creatine Kinase-MB,CK-MB - the MB isoenzyme of creatine kinase STAT “Short Turn Around Time”,Elecsys CK-MB STAT Immunoassay,CKMB,CKMB CS,CK-MB - the MB isoenzyme of creatine kinase,CKMB CC,Creatine Kinase-MB,Creatine Kinase - MB,COBAS INTEGRA CKMBL Creatine Kinase MB,Elecsys CK-MB Immunoassay,CK-MB
+_synonym_en_1548,APOAT,Apolipoprotein A I,Apo A1,Apolipoprotein A 1,Apolipoprotein A1,Apo A 1,Apo A I,Tina-quant Apolipoprotein A-I ver.2,APO A-I ver.2 Tina-quant Apolipoprotein A-I ver.2,APOA,Tina-quant Apolipoprotein A-1 ver.2,Apolipoprotein,APO A-I ver.2,Apolipoprotein A-1
+_synonym_en_1549,ALT ALAT/GPT,Alanine Aminotransferase ALT,Alanine Amino-Transferase,Alanine Aminotransferase ALT with P-5-P,ALAT,ALT,Alanine Aminotransferase with P-5-P,Alanine aminotransferase acc IFCC with or without pyridoxal phosphate activation,ALTL,ALTLP,Alanine Aminotransferase - Pyridoxal Phosphate Activated,GPT,Alanine aminotransferase acc IFCC without pyridoxal phosphate activation,Alanine Transferase,ALT with P-5-P,Alanine Aminotransferase,Alanine Aminotransferase acc to IFCC with pyridoxal phosphate activation,Alanine aminotransferase acc to IFCC with/without pyridoxal phosphate activation,ALT ALAT/GPT Alanine aminotransferase acc to IFCC with/without pyridoxal phosphate activation
+_synonym_en_1550,RF,Theumatoid Factor
+_synonym_en_1551,SVT,Sample Validity Test
+_synonym_en_1552,EDDP,2-Ethylidin-1,5-Dimethyl -3,3-Diphenylpyrrolidin
+_synonym_en_1553,CSA,Cyclosporine A,Cyclosporine Total,Cyclosporine,Cyclosporine II
+_synonym_en_1554,AMIK,Amikacin,AMIK2
+_synonym_en_1555,Pyridoxal Phosphate,PYP
+_synonym_en_1556,APOBT,APO B ver.2,Tina-quant Apolipoprotein ver.2,APOB,Tina-quant Apolipoprotein B ver.2,Apolipoprotein B,Apo B
+_synonym_en_1557,Glutamine,l-glutamin,Gln
+_synonym_en_1558,MYCO qual,Mycobacteria qualitative
+_synonym_en_1559,Apo E gene mutation,Apolipoprotein E-Mutation,Apolipoprotein gene mutation codon 112 and 158,Apo E-Mutation
+_synonym_en_1560,BARB,Barbiturate,Barbiturates
+_synonym_en_1561,GDF-15,NAG-1,MIC-1,Growth differenciation factor 15,GDF15
+_synonym_en_1562,Apo B gene mutation,ApoB-Mutation,Apolipoprotein B-Mutation,Apo B-Mutation,Apolipoprotein gene mutation codon 3500
+_synonym_en_1563,Salicylate,Roche Diagnostics Salicylate reagents,SAL Salicylate,SALI Salicylate,SALI,Syl
+_synonym_en_1564,TT,Thrombin Time
+_synonym_en_1565,Thrombin act,thrombin activity
+_synonym_en_1566,TS mRNA quant,Thymidylate Synthase mRNA quantitative,TS mRNA quantitative
+_synonym_en_1567,TP mRNA quant,Thymidine Phosphorylase mRNA quantitative,TP mRNA quantitative
+_synonym_en_1568,TAFI,thrombin-activatable fibrinolysis inhibitor
+_synonym_en_1569,cobas® HIV-1 Quantitative nucleic acid test for use on the cobas® 4800 System,cobas® 4800 HIV-1 Monitor Test,cobas® HIV-1,cobas HIV-1
+_synonym_en_1570,MTQL,Methaqualone
+_synonym_en_1571,FT3,FT3 - free triiodothyronine,FT3CC,Free Triiodothyronine,FT3CS,FT 3
+_synonym_en_1572,CK20 quant,mRNA encoding for human cytokeratin 20,CK20 quantitative
+_synonym_en_1573,FVALP,Free Valproic Acid,Free VALP
+_synonym_en_1574,MTB qual,Mycobacterium tuberculosis qualitive,Mycobacterium tuberculosis qual,MTB qualitative
+_synonym_en_1575,Heparin,anti XA
+_synonym_en_1576,mecA gene,Methicillin resistance gene mecA
+_synonym_en_1577,Hb,Hemoglobin
+_synonym_en_1578,MPX,Multiplex PCR,Multiplex,TaqScreen MPX
+_synonym_en_1579,Rubella IgM,Rubella Virus IgM,IgM antibodies to Rubella virus,Rubella-Virus IgM,Elecsys Rubella IgM Immunoassay
+_synonym_en_1580,LDHL,Lactate Dehydrogenase P-L,Lactate Dehydrogenase optimized
+_synonym_en_1581,Staphylococcus,S.aureus and coagulase-negative Staphylococcus CoNS DNS
+_synonym_en_1582,RNA amp,RNA Amplification
+_synonym_en_1583,Rubella IgG,IgG antibodies to Rubella virus,Elecsys Rubella IgG Immunoassay,Rubella Virus IgG
+_synonym_en_1584,D N A/viral D N A,DNA/virale DNA
+_synonym_en_1585,BNZ2,Benzodiazepine II,Benzodiazepines 2,Benzodiazepines II,Benzodiazepine 2
+_synonym_en_1586,FSH,Follicle Stimulating Hormone,Elecsys FSH Assay,Follicle-stimulating hormone
+_synonym_en_1587,MG,Roche Diagnostics Magnesium Reagent,Mg Magnesium,Magnesium,Mag
+_synonym_en_1588,FHCG+B,free Human Chorionic Gonadotropin + beta,FHCGB
+_synonym_en_1589,MDN2,Meth 2,Methadone II,Meth II,MDNII Methadone II,Methadone II MDNII,Methadone,METH,MDN II
+_synonym_en_1590,FPHNY,Free Phenytoin
+_synonym_en_1591,THEO,THEO2,Theophylline
+_synonym_en_1592,MRSA Advanced,Methicillin-resistant Staphylococcus aureus Advanced
+_synonym_en_1593,QUIN,Quindine
+_synonym_en_1594,free PSA,Prostatic Specific Ag,Free Prostatic Specific Ag,FPSA,Elecsys Free PSA Immunoassay
+_synonym_en_1595,LSD,Lysergic acid diethylamide
+_synonym_en_1596,STA Reptilase,Reptl,Reptilase,STA®Reptilase®
+_synonym_en_1597,FT4 II,FT4CS,FT 4,Elecsys FT4 Assay,Free Thyroxine,FT4,Elecsys FT4 II Assay,FT4CC
+_synonym_en_1598,IRON2,FE Gen.2,Iron Gen.2
+_synonym_en_1599,HSV 1/2,Herpes simplex 1/2,Herpes Simplex type 1 and 2
+_synonym_en_1600,Strep B,B-streptococcal,Strep B ptsl gene
+_synonym_en_1601,ALP2,Alkaline Phosphatase acc to IFCC Gen.2
+_synonym_en_1602,RPR,T Pallidum Rapid Plasma Reagin,Rapid-Plasma-Reagin
+_synonym_en_1603,HIV-1 quant,HIV-1 quantitative
+_synonym_en_1604,BTG,b-Thromboglobulin,ß-Thromboglobulin,beta-Thromboglobulin,β-Thromboglobulin
+_synonym_en_1605,HSV-1 IgG,Herpes Simplex Virus,IgG antibodies to herpes simplex virus type 1,HSV,Elecsys HSV-1 IgG Immunoassay
+_synonym_en_1606,Anti-Tg,Antibody to thyroglobulin anti-Tg,Roche Diagnostics Elecsys Anti-Tg,Elecsys Anti-Tg Assay,A-Tg,ATG,Anti-Thyroglobulin
+_synonym_en_1607,CYP450,CYP 450,Cytochrome CYP450
+_synonym_en_1608,CMV IgG,CMVIGG,Cytomegalovirus IgG,Cytomegalovirus DNA
+_synonym_en_1609,Anti-TSHR,Elecsys Anti-TSHR Immunoassay,A-TSHR,Anti-Thyroid Stimulating Hormone Receptor AB,ATSHR,Antibodies to TSH receptor
+_synonym_en_1610,CMV IgM,CMVIGM,Cytomegalovirus IgM
+_synonym_en_1611,AT III,AT3,AT 3,Antithrombin III,Antithrombin 3
+_synonym_en_1612,vanA/vanB,Vancomycin-resistance genes vanA / vanB,van a van b,vana vanb
+_synonym_en_1613,Cyfra 21-1,Cyfra 211
+_synonym_en_1614,Cystatin C,CYSTC,Tina-quant Cystatin C,Cysteine,CYSC
+_synonym_en_1615,CFTR gene mutation,Cystic Fibrosis Transmembrane Conductance Regulator mutation
+_synonym_en_1616,Validity Test Chromate,Specimen Validity Test Chromate,ONLINE DAT Validity Test Chromate
+_synonym_en_1617,BlankCell,cellblank,cell blank,blank cell
+_synonym_en_1618,free βhCG,Elecsys HCG Test System,free β-subunit of human chorionic gonadotropin
+_synonym_en_1619,HTLV,Human Lymphotropes Virus
+_synonym_en_1620,VZV qual,Varicella Zoster Virus qualitative
+_synonym_en_1621,HPV quant,Human Papilloma Virus quantitative
+_synonym_en_1622,CYP2C19 mutation,CYP2C19,CYP 2C19,nucleotide polymorphism of human Cytochrome P450 2C19 gene
+_synonym_en_1623,HEV qual,Hep E,Hepatitis E Virus qualitative,HepE,HepE Virus qualitative,Hep E Virus qualitative,Hepatitis E,HEV qualitative
+_synonym_en_1624,CRPHS,CRPHS C-Reactive Protein Latex High Sensitive Assay for COBAS INTEGRA Instruments,hs-CRP,CRPHS Cardiac C-Reactive Protein Latex High Sensitive,CRP HS,C-Reactive Protein - High Sensitive,hscrp,high sensitive C-Reactive Protein,Cardiac C-Reactive Protein Latex High Sensitive
+_synonym_en_1625,CYP2C9 mutation,nucleotide polymorphism of human Cytochrome P450 2C9 gene,CYP2C9
+_synonym_en_1626,CRPLX,C-Reactive Protein Latex,CRPLX C-reactive protein latex,Roche C-Reactive Protein
+_synonym_en_1627,HIV combi,HIV Antibody + HIV Antigen,HIVCOM,HIV Antigen
+_synonym_en_1628,Anti-HBc IgM,Hepatitis B Core Antibody IgM,IgM antibodies to hepatitis B core antigen anti-HBc IgM,Elecsys Anti-HBc IgM Immunoassay
+_synonym_en_1629,Gentamicin II,CEDIA Gentamicin II assay,Gent II CEDIA Gentamicin II,Gentamicin II Global,Cedia Gentamicin Assay,GENTA II,CEDIA Gentamicin II
+_synonym_en_1630,Influenza A/B & RSV,Respiratory Syncytial virus
+_synonym_en_1631,CHED2,Cholinesterase / Dibucaine Gen2
+_synonym_en_1632,Anti-CCP,Elecsys Anti-CCP Immunoassay,A-CCP,Anti-cyclic citrullinated peptide antibody,ACCP,Antibody to cyclic citrullinated peptide anti-CCP
+_synonym_en_1633,CHE2,Cholinesterase Gen2
+_synonym_en_1634,AT,Antithrombin
+_synonym_en_1635,Parvo B19 quant,Parvovirus B19 quant
+_synonym_en_1636,MYO,Roche Cardiac M,CFASM,Myoglobin,CFAS M
+_synonym_en_1637,LDL-C plus 2nd,LDL‑Cholesterol Gen.2,LDLC2,LDL-C plus 2nd generation,LDL-C2
+_synonym_en_1638,SCC,Squamous Cell Carcinoma Antigen
+_synonym_en_1639,cobas® HCV GT,cobas® HCV Genotyping Test
+_synonym_en_1640,AMH,Anti-Mueller-Hormon,Anti-Mullerian Hormone,Anti-Muellerian-Hormon
+_synonym_en_1641,MAI,Mycobacterium avium,Mycobacterium avium-intracellulare,Mycobacterium avium / Mycobaterium intracellulare
+_synonym_en_1642,HAV RNA qual,Hepatitis A RNA qualitative
+_synonym_en_1643,D2,D 2,Vitamin D2
+_synonym_en_1644,WNV qual,West Nile Virus qualitative
+_synonym_en_1645,ALBT2,Tina-quant Albumin Gen.2
+_synonym_en_1646,cobas® 4800 CT/NG Test,cobas® 4800 CT/NG-Test
+_synonym_en_1647,GLU,GLU Gluco-quant Glucose/HK,Glucose,Gluco-quant Glucose/HK,Gluc
+_synonym_en_1648,Haptoglobin,HGLOB,Hapt,Tina-quant Haptoglobin
+_synonym_en_1649,Anti-HCV,HepC,HCV Antibody,ahcv,Hep C,Elecsys Anti-HCV Immunoassay,Antibody to hepatitis C virus anti-HCV,Hepatitis C
+_synonym_en_1650,GLDH,Glutamate Dehydrogenase,GDH
+_synonym_en_1651,Parvo B19 quant,Parvovirus B19 quant
+_synonym_en_1652,MRSA/SA,methicillin-resistant Staphylococcus aureus and Staphylococcus aureus,MRSA SA,MRSA-SA
+_synonym_en_1653,MYO,CFASM,Roche Cardiac M,Myoglobin,CFAS M
+_synonym_en_1654,AMP,Amphetamines,Amphetamines Group
+_synonym_en_1655,CHED2,Cholinesterase / Dibucaine Gen2
+_synonym_en_1656,ADP,Adenosine diphosphate,ADP rezeptoren
+_synonym_en_1657,CHE2,Cholinesterase Gen2
+_synonym_en_1658,HBA1C,HbA1c - Hemolysate,A1c,Glycated Haemoglobin,Glycosylated/Glycated Haemogl,HbA1c - Whole Blood,Glycosylated Haemoglobin
+_synonym_en_1659,HDLC3,HDLC3 HDL-Cholesterol plus 3rd generation,HDL-C,HDL-Cholesterol,HDL-Cholesterol plus 3rd generation,hdlc,Boehringer Mannheim Direct HDL-Cholesterol
+_synonym_en_1660,HAV RNA qual,Hepatitis A RNA qualitative
+_synonym_en_1661,Anti-HBs IgM,Hepatitis B Surface Antib IgM
+_synonym_en_1662,cobas® HCV GT,cobas® HCV Genotyping Test
+_synonym_en_1663,LDL-C plus 2nd,LDL-C plus 2nd generation,LDL‑Cholesterol Gen.2,LDLC2,LDL-C2
+_synonym_en_1664,MPX qual,Multiplex PCR qual
+_synonym_en_1665,cobas® 4800 CT/NG Test,cobas® 4800 CT/NG-Test
+_synonym_en_1666,IgG,igg sens,IgG Sensitive,Immunoglobulin G
+_synonym_en_1667,CMV UL54,CMVUL54,Cytomegalovirus UL54
+_synonym_en_1668,D-Dimer,Ddimer,Tina-quant D-Dimer,D-DI2,Tina-quant D-Dimer Gen.2
+_synonym_en_1669,DHEA-S,DHEAS/DHEA,Elecsys DHEA-S,Dehydro-epiandrosterone Sulphate,Dehydro-epiandrosterone Sulphate incl DHEA,Dehydroepiandrosterone sulfate
+_synonym_en_1670,SEC,squamous epithelial cells
+_synonym_en_1671,CMV qual,CMV qualitative,Cytomegalovirus qualitative
+_synonym_en_1672,IgA,Immunoglobulin A,IgA Sensitive,IGA sens
+_synonym_en_1673,CMV quant,CMV quantitative,Cytomegalovirus quantitative
+_synonym_en_1674,Anti-HAV,ahav,Elecsys Anti-HAV Assay,Hep A,A-HAV,HepA,anti-hav antibody,Total antibodies IgM and IgG to the hepatitis A virus,Hepatitis A,HAV Antibody Total
+_synonym_en_1675,Anti-HAV IgM,Elecsys Anti-HAV IgM,IgM antibodies to the hepatitis A virus,HAV Antibody IgM
+_synonym_en_1676,IgE,Immunglobulin E,Elecsys IgE Immunoassay,Immunoglobulin E
+_synonym_en_1677,HBDH,Hydroxybutyrate Dehydrogenase
+_synonym_en_1678,cell blank,cellblank
+_synonym_en_1679,HCYS,Homocystein,HCYS Homocysteine Enzymatic Assay,Homocysteine Enzymatic Assay,Homocysteine,HOMOC,Homo,Homocyst
+_synonym_en_1680,CMV Avidity,Cytomegalovirus IAvidity
+_synonym_en_1681,Troponin I STAT,c-Troponin STAT,TNI STAT,c Troponin I STAT,cTroponin I STAT,Troponin I STAT “Short Turn Around Time”,c-Troponin I STAT,Trop I Stat,Elecsys Troponin I STAT Immunoassay,c Troponin STAT
+_synonym_en_1682,CMV IgG Avidity,Cytomegalovirus IgG Avidity
+_synonym_en_1683,HPV qual,Human Papilloma Virus qualitative,HPV qualitative
+_synonym_en_1684,RF-II,Tina-quant RF II,RF2,RF II,Tina-quant Rheumatoid Factors II Test System,RF 2,Rheumatoid Factors
+_synonym_en_1685,BRAF / NRAS,v-raf murine sarcoma viral oncogene homolog B1 and Neuroblastoma RAS viral oncogene homolog
+_synonym_en_1686,Troponin T STAT,Trop T Stat,Elecsys Troponin T STAT Assay,Troponin T STAT Short Turn Around Time,CARDIAC T,Roche Elecsys Troponin T STAT
+_synonym_en_1687,HER2/neu DNA quant,HER2/neu DNA quantitative,human HER2/neu DNA encoding
+_synonym_en_1688,hGH,Human Growth Hormone,Elecsys HGH Assay
+_synonym_en_1689,Influenza A/B & RSV qual,Influenza A/B & RSV qualitative
+_synonym_en_1690,HE4,Human Epududymal protein 4,Human Epididymis Protein 4,Human epididymal protein 4,HE 4,Elecsys HE4 Assay
+_synonym_en_1691,cobas® DPX,DPX PCR,cobas DPX,DPX
+_synonym_en_1692,Ferritin,Elecsys Ferritin,FCS,F CC,FERR,F CS,FCC
+_synonym_en_1693,F II G20210A,factor II Prothrombin mutation G20210A,Factor II G20210A,F2 G20210A
+_synonym_en_1694,Estradiol II,E CC,Elecsys Estradiol II Assay,EII,Estradiol - E2,ECC,E2,E2CS,Estradiol
+_synonym_en_1695,LDH,LDH Lactate dehydrogenase liquid acc to IFCC,LDHI,LD,Lactate dehydrogenase liquid acc to IFCC,Lactate Dehydrogenase
+_synonym_en_1696,DIGOX,Elecsys Digoxin Assay,DIG,Digoxin,Cobas Digoxin,Tina-quant Digoxin
+_synonym_en_1697,PTH 1-84,Parathyroid Hormone Intact 1-84
+_synonym_en_1698,ETOH2,Ethanol Alcohol,Ethyl Alcohol,Ethanol Gen.2,COBAS INTEGRA Ethanol Gen.2,ETH Ethyl Alcohol
+_synonym_en_1699,LDL-C,LDLC,LDL-Cholesterol,LDL,LDL_C LDL - Cholesterol,LDL - Cholesterol
+_synonym_en_1700,DNA amp,DNA Amplification
+_synonym_en_1701,PTH,Parathyroid hormone parathormone,Elecsys PTH STAT Immunoassay,parathyrin - PTH,intact STAT “Short Turn Around Time”,Parathyroid Hormone Intact,Elecsys PTH Immunoassay,intact
+_synonym_en_1702,DPD mRNA quant,Dihydropyrimidine Dehydrogenase mRNA quantitative
+_synonym_en_1703,ALB,albu,Albumin
+_synonym_en_1704,Enterococcus DNA,E.faecalis and E.faecium DNA
+_synonym_en_1705,ProBNP II,N-terminal pro B-type natriuretic peptide,Elecsys ProBNP II Immunoassay
+_synonym_en_1706,mucus,MUC
+_synonym_en_1707,Fe,Iron,Fe Iron,Ferrum
+_synonym_en_1708,Kappa,Kappa Chain
+_synonym_en_1709,Enterococcus ITS,ITS region of E.faecalis and E.faecium
+_synonym_en_1710,Lactate,LACT
+_synonym_en_1711,IL 6,IL6,Interleukin-6,Interleukin 6,IL-6
+_synonym_en_1712,EGFR mutation,EGFR-Mutation,cobas® EGFR Mutation Tes,EGFR
+_synonym_en_1713,UIBC,UIBC Unsaturated Iron-Binding Capacity,HYCEL FERROZINE IRON AND IRON BINDING TEST,Iron Binding Capacity - Unsaturated,Unsaturated Iron-Binding Capacity,Unsaturated Iron Binding Capacity
+_synonym_en_1714,Insulin,Elecsys Insulin,ICC,INS
+_synonym_en_1715,HCG,Human Chorionic Gonadotropin
+_synonym_en_1716,LDL-C,LDLC,LDL,LDL-Cholesterol,LDL_C LDL - Cholesterol,LDL - Cholesterol
+_synonym_en_1717,EBV quant,Epstein-Barr Virus DNA quantitative,EBV quantitative
+_synonym_en_1718,free TFPI,Free Tissue Factor Pathway Inhibitor
+_synonym_en_1719,T-Uptake,TUP CS,T uptake,Tup,Elecsys T-Uptake Assay,T-UP,TU,TUP CC
+_synonym_en_1720,Toxo IgG Avidity,Toxoplasma Antibody Igg Avidity
+_synonym_en_1721,Troponin T,CARDIAC T,Trop T,TNT,Elecsys Troponin T Assay,Elecsys Troponin T
+_synonym_en_1722,TOBRA,Tobramycin
+_synonym_en_1723,NSE,Neuron Specific Enolase
+_synonym_en_1724,Folate III,Folate 3,Folate RBC,Folate II,FOLATE,RBC Hemolyzing Reagent,RBC Folate,Roche Elecsys Folate III,Elecsys Folate RBC Assay
+_synonym_en_1725,Anti-HBs IgM,Hepatitis B Surface Antib IgM
+_synonym_en_1726,K-RAS mutation,KRAS,v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog,KRAS-Mutation
+_synonym_en_1727,FDP,Fibrinogen Degradation Products
+_synonym_en_1728,TSH,Thyroid Stimulating Hormone,Thyrotropin
+_synonym_en_1729,FBG,Fibrinogen Assays Factor I
+_synonym_en_1730,FM,Fibrin sensitivity monomer
+_synonym_en_1731,IgM,IgM Sensitive,igm sens,Immunoglobulin M
+_synonym_en_1732,cobas® 4800 HPV Test,HPV Test,cobas 4800 HPV Test
+_synonym_en_1733,BIL-N,Bilirubin neonatal
+_synonym_en_1734,Strep A qual,Streptococcus pyogenes qualitative
+_synonym_en_1735,CARB2,Carb II CEDIA Carbamazepine II,CEDIA Carbamazepine II,CEDIA Carbamazepine II assay,Carbamazepine II
+_synonym_en_1736,CARB,CARB Carbamazepine,Carbamazepine
+_synonym_en_1737,F XIIIa,Coagulation factor XIIIa
