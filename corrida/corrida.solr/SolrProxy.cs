@@ -36,7 +36,7 @@ namespace corrida.solr
                
             }; */
 
-            var result = solr.Query(new LocalParams { { "type", "dismax" }, { "qf", "title content cat" } } + new SolrQuery(keyword));
+            var result = solr.Query(new LocalParams { { "type", "dismax" }, { "qf", "title content content_nodelimiters content_word_delimiter cat" } } + new SolrQuery(keyword));
             return result;
         }
 
