@@ -22,7 +22,8 @@ namespace corrida.solr.generatetests
         static void Process(string filePath, string fileName, string category)
         {
             var ocr = new TesseractOcr();
-            TesseractResult result = ocr.Process(filePath);
+            var tessDataPath = @"./tessdata";
+            TesseractResult result = ocr.Process(filePath, tessDataPath);
 
             var document = new Document
             {

@@ -8,13 +8,11 @@ namespace corrida.ocr
 {
     public class TesseractOcr
     {
-        public TesseractResult Process(string filePath)
+        public TesseractResult Process(string filePath, string testDataFolder)
         {
-            var tessDataPath = @"D:\hackathon\hack-team-3\corrida\corrida\bin\tessdata";
-
             var result = new TesseractResult();
 
-            using (TesseractEngine engine = new TesseractEngine(@"./tessdata", "eng", EngineMode.Default))
+            using (TesseractEngine engine = new TesseractEngine(testDataFolder, "eng", EngineMode.Default))
             {
                 using (PixArray pages = PixArray.LoadMultiPageTiffFromFile(filePath))
                 {

@@ -26,17 +26,17 @@ namespace corrida.solr
         {
             var solr = ServiceLocator.Current.GetInstance<ISolrOperations<Document>>();
 
-         /*   var solrQueryOptions = new QueryOptions
+            var solrQueryOptions = new QueryOptions
             {
                 Highlight = new HighlightingParameters()
                 {
-                    Fragsize = 300,
+                    Fragsize = 600,
                     Fields = new List<string> { "content" }
                 }
-               
-            }; */
+            }; 
 
-            var result = solr.Query(new LocalParams { { "type", "dismax" }, { "qf", "title content content_nodelimiters content_word_delimiter cat" } } + new SolrQuery(keyword));
+            string fields = "title content content_nodelimiters content_word_delimiter content_nodelimiters_nozeroes cat";
+            var result = solr.Query(new LocalParams { { "type", "dismax" }, { "qf", fields } } + new SolrQuery(keyword));
             return result;
         }
 
