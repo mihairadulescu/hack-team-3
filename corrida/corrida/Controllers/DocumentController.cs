@@ -12,7 +12,6 @@ namespace corrida.Controllers
 {
     public class DocumentController : ApiController
     {
-
         public HttpResponseMessage Get()
         {
             string file = @"D:\hackathon\hack-team-3\corrida\corrida.ocr.test\Files\InvoiceStay_NY.tif";
