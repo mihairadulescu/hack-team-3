@@ -8,6 +8,7 @@ using System.Web.Http;
 using System.IO;
 using corrida.solr;
 using CsvHelper.Configuration;
+using System.Globalization;
 
 namespace corrida.Controllers
 {
@@ -24,8 +25,14 @@ namespace corrida.Controllers
         }
 
         private List<Payment> GetInvalidPayments(List<Payment> payments)
-        {
-            return payments.Where(x => !x.IsMatched).ToList();
+        {  
+            payments.ForEach(x => {
+                decimal value;
+                decimal.TryParse(x.Debit, NumberStyles.Any, new CultureInfo("ro").NumberFormat, out value);
+                x.Debit = value.ToString(new CultureInfo("ro").NumberFormat);
+                
+            });
+             return payments;
         }
 
         private void CheckPayments(List<Payment> payments)
@@ -34,7 +41,9 @@ namespace corrida.Controllers
             foreach (var payment in payments)
             { 
                 var response = solrProxy.Search(payment.Debit);
-                if (response.Count > 0) payment.IsMatched = true;
+                if (response.Count > 0) {
+                    payment.IsMatched = true;
+                } 
             }
         }
 
@@ -44,7 +53,7 @@ namespace corrida.Controllers
             var csv = new CsvReader(new StreamReader(File.OpenRead(path)));
             csv.Configuration.RegisterClassMap<PaymentMap>();
             var records = csv.GetRecords<Payment>();
-            return records.ToList();
+            return records.Where(x=>!string.IsNullOrEmpty(x.Debit)).ToList();
         }
     }
 
