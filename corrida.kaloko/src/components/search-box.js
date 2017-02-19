@@ -16,7 +16,7 @@ export default class SearchBox extends Component {
     render() {
         return (<div className={this.props.className}>
             <form className="searchbox" onSubmit={this.onSearch}>
-                <input type="text" placeholder="search for documents"/>
+                <input type="text" defaultValue={this.props.defaultValue} placeholder="search for documents"/>
             </form>
         </div>);
     }

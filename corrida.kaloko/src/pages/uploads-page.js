@@ -11,7 +11,7 @@ class UploadsPage extends Component {
     }
 
     render() {
-        const url = "http://corrida12312312131.azurewebsites.net/api/uploads";
+        const url = "http://localhost:3986//api/document";
         var componentConfig = { postUrl: url };
         var djsConfig = { autoProcessQueue: true }
         var eventHandlers = { addedfile: (file) => console.log(file) }

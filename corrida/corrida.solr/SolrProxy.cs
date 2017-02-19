@@ -74,7 +74,9 @@ namespace corrida.solr
                 {
                     Fragsize = 600,
                     Fields = new List<string> {"content"},
-                    AlternateField = "content",
+                    AlternateField = "content", 
+                    BeforeTerm = "<b>",
+                    AfterTerm = "</b>" 
                 }
             };
             return solrQueryOptions;

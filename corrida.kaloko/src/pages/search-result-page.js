@@ -13,6 +13,7 @@ export default class SearchResultPage extends Component {
 
     componentDidMount = () => {
         this.searchByParams(this.props.router.params.search_phrase);
+
     }
 
     componentWillReceiveProps(nextProps){
@@ -24,7 +25,7 @@ export default class SearchResultPage extends Component {
 
     render() {
         return (<div>
-            <SearchBox className="search-result-box" onSearch={this.onSearch}/>
+            <SearchBox defaultValue ={this.props.router.params.search_phrase} className="search-result-box" onSearch={this.onSearch}/>
             <SearchResult items={this.state.items}/>
         </div>)
     }

@@ -6,13 +6,8 @@ export default class SearchResultItem extends Component {
         super(props);
     }
 
-    renderContent(content) {
-        return  content.map((page) => {
-            return (<p>{page}</p>);
-        })
-    }
     render() {
-        const {Title, Category, thumbnail, Content} = this.props.item;
+        const {Title, Category, thumbnail, Snippet} = this.props.item;
         return (
             <div className="search-result-item">
                 <div className="search-thumb">
@@ -20,7 +15,8 @@ export default class SearchResultItem extends Component {
                 </div>
                 <div className="search-description">
                     <h1>{Title}</h1>
-                    {this.renderContent(Content)}
+                    {Snippet}
+                    <div dangerouslySetInnerHTML ={ {__html: Category} } ></div>
                     <h2>{Category}</h2>
                 </div>
             </div>

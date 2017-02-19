@@ -1,12 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.IO;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
 using System.Web;
 using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace corrida.Controllers
 {
@@ -22,31 +24,59 @@ namespace corrida.Controllers
             corridaProcessor.Process(file, fileName);
             return Request.CreateResponse(HttpStatusCode.OK);
         }
-        public Task<HttpResponseMessage> Post()
+
+        [EnableCors(origins: "*", headers: "*", methods: "*", exposedHeaders: "X-Custom-Header")]
+        public async Task<IHttpActionResult> Post()
         {
-            HttpRequestMessage request = this.Request;
-            if (!request.Content.IsMimeMultipartContent())
+            if (!Request.Content.IsMimeMultipartContent())
             {
                 throw new HttpResponseException(HttpStatusCode.UnsupportedMediaType);
+            } 
+
+            var basePath = System.Web.HttpContext.Current.Server.MapPath("~/App_Data/uploads");
+
+
+            if (!Directory.Exists(basePath))
+            {
+                Directory.CreateDirectory(basePath);
             }
 
-            string root = System.Web.HttpContext.Current.Server.MapPath("~/App_Data/uploads");
-            var provider = new MultipartFormDataStreamProvider(root);
+            var provider = new MultipartFormDataStreamProvider(basePath);
 
-            var task = request.Content.ReadAsMultipartAsync(provider).
-                ContinueWith<HttpResponseMessage>(o =>
+            try
+            {
+                await Request.Content.ReadAsMultipartAsync(provider);
+
+                foreach (var file in provider.FileData)
                 {
+                    var fileName = file.Headers.ContentDisposition.FileName;
+                    fileName = fileName.Trim().Replace("\"", "");
 
-                    string file1 = provider.FileData.First().LocalFileName;
-                // this is the file name on the server where the file was saved 
-
-                return new HttpResponseMessage()
+                    var fullFileName = Path.Combine(basePath, fileName);
+                    if (File.Exists(fullFileName))
                     {
-                        Content = new StringContent("File uploaded.")
-                    };
+                        File.Delete(fullFileName);
+                    }
+                       
+                    File.Move(file.LocalFileName, fullFileName);
+                      DoKinkyStuff(fullFileName, fileName);
+    
                 }
-            );
-            return task;
+                return Ok();
+            }
+            catch (Exception e)
+            {
+                ModelState.AddModelError("", "An error has occured");
+                return BadRequest(ModelState);
+            }
+
+            return Ok();
+        }
+
+        private void DoKinkyStuff(string baseFolderPath, string file)
+        {
+            var corridaProcessor = new CorridaAwesomeProcessingStuff();
+            corridaProcessor.Process(baseFolderPath, file); 
         }
     }
      

@@ -161,3 +161,6 @@ E:\Projects\hack-team-3\corrida\corrida\bin\CsvHelper.dll
 E:\Projects\hack-team-3\corrida\corrida\bin\CsvHelper.xml
 D:\hackathon\hack-team-3\corrida\corrida\bin\CsvHelper.dll
 D:\hackathon\hack-team-3\corrida\corrida\bin\CsvHelper.xml
+E:\Projects\hack-team-3\corrida\corrida\bin\System.Web.Cors.dll
+E:\Projects\hack-team-3\corrida\corrida\bin\System.Web.Http.Cors.dll
+E:\Projects\hack-team-3\corrida\corrida\bin\System.Web.Http.Cors.xml
