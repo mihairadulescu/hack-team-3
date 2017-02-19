@@ -19,6 +19,9 @@ gem 'dry-transaction'
 gem 'dry-types'
 gem 'dry-validation'
 
+# Assistants
+gem 'google_assistant'
+
 group :development, :test do
   gem 'pry-byebug', platform: :mri
   gem 'rubocop'
