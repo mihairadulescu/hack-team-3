@@ -11,7 +11,7 @@ module Assistant
             assistant_response = GoogleAssistant.respond_to(params, r.response) do |assistant|
               assistant.intent.main do
                 assistant.ask(
-                  prompt: '<speak>Hi there! Say something, please.</speak>',
+                  prompt: '<speak>Hi there! At your service.</speak>',
                   no_input_prompt: [
                     "<speak>If you said something, I didn't hear you.</speak>",
                     '<speak>Did you say something?</speak>'
@@ -21,7 +21,7 @@ module Assistant
 
               assistant.intent.text do
                 if assistant.conversation.state == 'missing_invoices'
-                  if assistant.arguments[0].text_value.start_with?('yes')
+                  if assistant.arguments[0].text_value.downcase.start_with?('yes')
                     missing_invoices = assistant.conversation.data['missing_invoices']
                     missing_invoices_ssml = missing_invoices.map do |missing_invoice|
                       "On <say-as interpet-as='date'>#{missing_invoice['Data']}</say-as> with #{missing_invoice['Debit']} <say-as interpet-as='characters'>RON</say-as>."
