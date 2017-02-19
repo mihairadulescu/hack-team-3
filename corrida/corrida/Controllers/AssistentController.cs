@@ -25,25 +25,28 @@ namespace corrida.Controllers
         }
 
         private List<Payment> GetInvalidPayments(List<Payment> payments)
-        {  
-            payments.ForEach(x => {
+        {
+            payments.ForEach(x =>
+            {
                 decimal value;
                 decimal.TryParse(x.Debit, NumberStyles.Any, new CultureInfo("ro").NumberFormat, out value);
                 x.Debit = value.ToString(new CultureInfo("ro").NumberFormat);
-                
+
             });
-             return payments;
+
+            return payments.Where(x => !x.IsMatched).ToList();
         }
 
         private void CheckPayments(List<Payment> payments)
         {
             var solrProxy = new SolrProxy();
             foreach (var payment in payments)
-            { 
+            {
                 var response = solrProxy.Search(payment.Debit);
-                if (response.Count > 0) {
+                if (response.Count > 0)
+                {
                     payment.IsMatched = true;
-                } 
+                }
             }
         }
 
@@ -53,7 +56,7 @@ namespace corrida.Controllers
             var csv = new CsvReader(new StreamReader(File.OpenRead(path)));
             csv.Configuration.RegisterClassMap<PaymentMap>();
             var records = csv.GetRecords<Payment>();
-            return records.Where(x=>!string.IsNullOrEmpty(x.Debit)).ToList();
+            return records.Where(x => !string.IsNullOrEmpty(x.Debit)).ToList();
         }
     }
 
