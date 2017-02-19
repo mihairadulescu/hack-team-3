@@ -1,0 +1,118 @@
+# Logfile created on 2017-02-19 02:07:42 +0200 by logger.rb/56815
+Started GET "/" for 127.0.0.1 at 2017-02-19 02:28:03 +0200
+Finished GET "/" for 127.0.0.1 in 10.64ms [Status: 200]
+
+Started GET "/" for 127.0.0.1 at 2017-02-19 02:43:59 +0200
+Finished GET "/" for 127.0.0.1 in 10.0ms [Status: 200]
+
+Started GET "/" for 127.0.0.1 at 2017-02-19 02:45:29 +0200
+Finished GET "/" for 127.0.0.1 in 14.42ms [Status: 200]
+
+Started GET "/" for 127.0.0.1 at 2017-02-19 02:45:30 +0200
+Finished GET "/" for 127.0.0.1 in 21.06ms [Status: 200]
+
+Started GET "/" for 127.0.0.1 at 2017-02-19 02:45:31 +0200
+Finished GET "/" for 127.0.0.1 in 10.8ms [Status: 200]
+
+Started GET "/" for 127.0.0.1 at 2017-02-19 02:45:39 +0200
+Finished GET "/" for 127.0.0.1 in 9.12ms [Status: 200]
+
+Started POST "/conversation" for 127.0.0.1 at 2017-02-19 03:45:11 +0200
+Finished POST "/conversation" for 127.0.0.1 in 4.01ms [Status: 403]
+
+Started POST "/conversation" for 127.0.0.1 at 2017-02-19 03:45:37 +0200
+Finished POST "/conversation" for 127.0.0.1 in 6.48ms [Status: 403]
+
+Started POST "/conversation" for 127.0.0.1 at 2017-02-19 03:46:34 +0200
+Finished POST "/conversation" for 127.0.0.1 in 7.06ms [Status: 403]
+
+Started POST "/conversation" for 127.0.0.1 at 2017-02-19 03:48:07 +0200
+Finished POST "/conversation" for 127.0.0.1 in 5.95ms [Status: 403]
+
+Started POST "/conversation" for 127.0.0.1 at 2017-02-19 03:48:34 +0200
+Started POST "/conversation" for 127.0.0.1 at 2017-02-19 03:52:36 +0200
+Finished POST "/conversation" for 127.0.0.1 in 5.06ms [Status: 403]
+
+Started GET "/" for 127.0.0.1 at 2017-02-19 03:53:11 +0200
+Finished GET "/" for 127.0.0.1 in 0.12ms [Status: 404]
+
+Started GET "/" for 127.0.0.1 at 2017-02-19 03:53:15 +0200
+Finished GET "/" for 127.0.0.1 in 0.12ms [Status: 404]
+
+Started GET "/" for 127.0.0.1 at 2017-02-19 03:53:27 +0200
+Finished GET "/" for 127.0.0.1 in 0.13ms [Status: 404]
+
+Started GET "/" for 127.0.0.1 at 2017-02-19 03:53:34 +0200
+Finished GET "/" for 127.0.0.1 in 0.11ms [Status: 404]
+
+Started GET "/" for 127.0.0.1 at 2017-02-19 03:53:35 +0200
+Finished GET "/" for 127.0.0.1 in 0.14ms [Status: 404]
+
+Started GET "/" for 127.0.0.1 at 2017-02-19 03:53:35 +0200
+Finished GET "/" for 127.0.0.1 in 0.14ms [Status: 404]
+
+Started GET "/" for 127.0.0.1 at 2017-02-19 03:53:36 +0200
+Finished GET "/" for 127.0.0.1 in 0.12ms [Status: 404]
+
+Started GET "/" for 127.0.0.1 at 2017-02-19 03:53:36 +0200
+Finished GET "/" for 127.0.0.1 in 0.12ms [Status: 404]
+
+Started GET "/" for 127.0.0.1 at 2017-02-19 03:53:36 +0200
+Finished GET "/" for 127.0.0.1 in 0.11ms [Status: 404]
+
+Started GET "/" for 127.0.0.1 at 2017-02-19 03:53:38 +0200
+Finished GET "/" for 127.0.0.1 in 0.12ms [Status: 404]
+
+Started GET "/" for 127.0.0.1 at 2017-02-19 03:53:39 +0200
+Finished GET "/" for 127.0.0.1 in 0.14ms [Status: 404]
+
+Started GET "/" for 127.0.0.1 at 2017-02-19 03:54:06 +0200
+Finished GET "/" for 127.0.0.1 in 11.5ms [Status: 200]
+
+Started GET "/" for 127.0.0.1 at 2017-02-19 03:55:09 +0200
+Finished GET "/" for 127.0.0.1 in 11.42ms [Status: 200]
+
+Started POST "/conversation" for 127.0.0.1 at 2017-02-19 03:55:13 +0200
+Finished POST "/conversation" for 127.0.0.1 in 4.38ms [Status: 403]
+
+Started POST "/conversation" for 127.0.0.1 at 2017-02-19 03:55:20 +0200
+Finished POST "/conversation" for 127.0.0.1 in 4.51ms [Status: 403]
+
+Started GET "/" for 127.0.0.1 at 2017-02-19 03:55:25 +0200
+Finished GET "/" for 127.0.0.1 in 9.38ms [Status: 200]
+
+Started GET "/conversation" for 127.0.0.1 at 2017-02-19 03:56:26 +0200
+Finished GET "/conversation" for 127.0.0.1 in 0.18ms [Status: 404]
+
+Started GET "/conversation" for 127.0.0.1 at 2017-02-19 03:56:59 +0200
+Finished GET "/conversation" for 127.0.0.1 in 0.2ms [Status: 404]
+
+Started GET "/conversation" for 127.0.0.1 at 2017-02-19 03:57:18 +0200
+Finished GET "/conversation" for 127.0.0.1 in 0.23ms [Status: 200]
+
+Started POST "/conversation" for 127.0.0.1 at 2017-02-19 03:57:41 +0200
+Finished POST "/conversation" for 127.0.0.1 in 4.65ms [Status: 403]
+
+Started POST "/conversation" for 127.0.0.1 at 2017-02-19 03:57:44 +0200
+Finished POST "/conversation" for 127.0.0.1 in 4.31ms [Status: 403]
+
+Started POST "/conversation" for 127.0.0.1 at 2017-02-19 03:57:46 +0200
+Finished POST "/conversation" for 127.0.0.1 in 4.44ms [Status: 403]
+
+Started POST "/conversation" for 127.0.0.1 at 2017-02-19 03:58:06 +0200
+Started GET "/" for 127.0.0.1 at 2017-02-19 04:04:48 +0200
+Started POST "/conversation" for 127.0.0.1 at 2017-02-19 04:04:56 +0200
+Finished POST "/conversation" for 127.0.0.1 in 0.23ms [Status: 200]
+
+Started GET "/" for 127.0.0.1 at 2017-02-19 04:10:31 +0200
+Finished GET "/" for 127.0.0.1 in 0.15ms [Status: 200]
+
+Started POST "/conversation" for 127.0.0.1 at 2017-02-19 04:10:39 +0200
+Finished POST "/conversation" for 127.0.0.1 in 0.19ms [Status: 200]
+
+Started GET "/" for 127.0.0.1 at 2017-02-19 04:11:22 +0200
+Finished GET "/" for 127.0.0.1 in 0.15ms [Status: 200]
+
+Started POST "/conversation" for 127.0.0.1 at 2017-02-19 04:11:24 +0200
+Finished POST "/conversation" for 127.0.0.1 in 0.26ms [Status: 200]
+

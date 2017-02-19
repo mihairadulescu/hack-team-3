@@ -1,0 +1,15 @@
+# frozen_string_literal: true
+require 'bundler/setup'
+
+require 'byebug' unless ENV['RACK_ENV'] == 'production'
+
+# rubocop:disable HandleExceptions
+begin
+  require 'rspec/core/rake_task'
+  RSpec::Core::RakeTask.new :spec
+  task default: [:spec]
+rescue LoadError
+  # ignored
+end
+
+require_relative 'system/assistant/container'
