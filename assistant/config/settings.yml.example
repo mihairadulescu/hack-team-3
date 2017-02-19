@@ -1,0 +1,6 @@
+development: &base
+  solr_url: 'http://search.com'
+test:
+  <<: *base
+production:
+  <<: *base
