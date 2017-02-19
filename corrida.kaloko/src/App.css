@@ -9,6 +9,14 @@ body {
 .App-logo {
   float:left;
 }
+.menu-item {
+  float:left;
+  height: 61px;
+  line-height: 36px;
+  padding-left:10px;
+  font-size: 20px;
+  font-weight: 500;
+}
 
 .App-logo-text {
   float: left;

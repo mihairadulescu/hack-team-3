@@ -12,6 +12,6 @@ module Assistant
       end
     end
 
-    setting :solr_url, Types::Required::String
+    setting :corrida_api_url, Types::Required::String
   end
 end

@@ -6,11 +6,18 @@
 }
 
 .search-thumb {
-float:left;
+    float: left;
+    width: 17%;
+}
+
+.search-thumb img {
+    width: 100%;
+    margin: 40px;
 }
 
 .search-description {
-    float:left;
-    max-width: 80%;
-    padding: 20px;
+    float: left;
+    max-width: 77%;
+    padding-top: 20px;
+    margin-left: 5%;
 }
