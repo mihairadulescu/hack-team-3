@@ -13,6 +13,7 @@ ReactDOM.render((
         <Route path="/" component={App}>
             <IndexRoute component={MainPage} />
             <Route path="search/:search_phrase" component={SearchResultPage} />
+            <Route path="search" component={SearchResultPage} />
         </Route>
     </Router>
 ), document.getElementById('root'));
