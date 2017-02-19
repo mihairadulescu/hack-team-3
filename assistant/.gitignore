@@ -3,3 +3,6 @@
 config/settings.yml
 
 spec/examples.txt
+
+# Google Actions credentials
+creds.data
