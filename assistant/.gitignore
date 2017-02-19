@@ -1,3 +1,5 @@
 .idea
 
 config/settings.yml
+
+spec/examples.txt
