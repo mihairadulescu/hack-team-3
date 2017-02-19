@@ -6,16 +6,21 @@ export default class SearchResultItem extends Component {
         super(props);
     }
 
+    renderContent(content) {
+        return  content.map((page) => {
+            return (<p>{page}</p>);
+        })
+    }
     render() {
-        const {title, content, thumbnail} = this.props.item;
+        const {Title, Category, thumbnail, Content} = this.props.item;
         return (
             <div className="search-result-item">
                 <div className="search-thumb">
                     <img src={thumbnail} />
                 </div>
                 <div className="search-description">
-                    <h1>{title}</h1>
-                    <h5>{content}</h5>
+                    <h1>{Title}</h1>
+                    {this.renderContent(Content)}
                 </div>
             </div>
         )
