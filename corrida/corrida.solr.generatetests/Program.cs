@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using corrida.ocr;
@@ -24,6 +25,7 @@ namespace corrida.solr.generatetests
             var ocr = new TesseractOcr();
             var tessDataPath = @"./tessdata";
             TesseractResult result = ocr.Process(filePath, tessDataPath);
+            WriteReportOcr(filePath, result);
 
             var document = new Document
             {
@@ -36,5 +38,18 @@ namespace corrida.solr.generatetests
             var solrProxy = new SolrProxy();
             solrProxy.Add(document);
         }
+
+        private static void WriteReportOcr(string processedFile, TesseractResult result)
+        {
+            var report = new List<string>
+            {
+                processedFile,
+                string.Join(" --- ", result.MeanConfidences)
+            };
+
+            string reportPath = "OCRReport.txt";
+            File.AppendAllLines(reportPath,report);
+        }
+
     }
 }

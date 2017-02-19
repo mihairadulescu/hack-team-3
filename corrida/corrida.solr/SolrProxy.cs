@@ -27,6 +27,19 @@ namespace corrida.solr
             solr.Commit();
         }
 
+        public void Delete(Guid id)
+        {
+            var url = ConfigReader.SolrCore;
+            var solr = ServiceLocator.Current.GetInstance<ISolrOperations<Document>>();
+            var doc = new Document()
+            {
+                Id = id
+            };
+        
+            solr.Delete(doc);
+            solr.Commit();
+        }
+
         public List<DocumentResult> Search(string keyword)
         {
             var url = ConfigReader.SolrCore;
@@ -61,7 +74,7 @@ namespace corrida.solr
                 {
                     Fragsize = 600,
                     Fields = new List<string> {"content"},
-                    AlternateField = "content"
+                    AlternateField = "content",
                 }
             };
             return solrQueryOptions;

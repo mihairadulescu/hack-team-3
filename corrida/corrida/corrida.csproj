@@ -138,6 +138,7 @@
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\AssistentController.cs" />
+    <Compile Include="Controllers\DeleteController.cs" />
     <Compile Include="Controllers\SearchController.cs" />
     <Compile Include="Controllers\DocumentController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -150,12 +151,10 @@
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Service References\" />
-  </ItemGroup> 
+  </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\" />
     <Folder Include="Content\" />
   </ItemGroup>
- 
   <ItemGroup>
     <ProjectReference Include="..\corrida.ocr\corrida.ocr.csproj">
       <Project>{6c3e18b1-5377-4fd8-a53b-6067c9b8153b}</Project>

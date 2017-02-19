@@ -5,7 +5,7 @@ namespace corrida.solr.Models
 {
     public class Document
     {
-        [SolrField("ID")]
+        [SolrField("ID"), SolrUniqueKey()]
         public Guid Id { get; set; }
 
         [SolrField("title")]

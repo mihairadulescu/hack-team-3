@@ -10,18 +10,40 @@ namespace corrida.ocr
     {
         public TesseractResult Process(string filePath, string testDataFolder)
         {
+            var language = "ron";
             var result = new TesseractResult();
 
-            using (TesseractEngine engine = new TesseractEngine(testDataFolder, "eng", EngineMode.Default))
+            string fileExtension = Path.GetExtension(filePath);
+
+            if (fileExtension != "tif")
             {
-                using (PixArray pages = PixArray.LoadMultiPageTiffFromFile(filePath))
+                using (TesseractEngine engine = new TesseractEngine(testDataFolder, language, EngineMode.Default))
                 {
-                    foreach (Pix p in pages)
+                    using (var img = Pix.LoadFromFile(filePath))
                     {
-                        using (Page page = engine.Process(p))
+                        using (var page = engine.Process(img))
                         {
-                            string text = page.GetText();
-                            result.Pages.Add(text);
+                            result.Pages.Add(page.GetText());
+                            result.MeanConfidences.Add(page.GetMeanConfidence());
+
+                        }
+                    }
+                }
+            }
+            else
+            {
+
+                using (TesseractEngine engine = new TesseractEngine(testDataFolder, language, EngineMode.Default))
+                {
+                    using (PixArray pages = PixArray.LoadMultiPageTiffFromFile(filePath))
+                    {
+                        foreach (Pix p in pages)
+                        {
+                            using (Page page = engine.Process(p))
+                            {
+                                result.Pages.Add(page.GetText());
+                                result.MeanConfidences.Add(page.GetMeanConfidence());
+                            }
                         }
                     }
                 }
