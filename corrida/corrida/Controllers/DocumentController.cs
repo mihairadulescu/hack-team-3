@@ -19,10 +19,8 @@ namespace corrida.Controllers
             string fileName = "InvoiceStay_NY.tif";
 
             var corridaProcessor = new CorridaAwesomeProcessingStuff();
-          //  corridaProcessor.Process();
-            return
-                Request.CreateResponse
-                    (HttpStatusCode.OK);
+            corridaProcessor.Process(file, fileName);
+            return Request.CreateResponse(HttpStatusCode.OK);
         }
         public Task<HttpResponseMessage> Post()
         {
