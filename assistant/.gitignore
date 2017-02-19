@@ -4,5 +4,7 @@ config/settings.yml
 
 spec/examples.txt
 
+log
+
 # Google Actions credentials
 creds.data
