@@ -8,7 +8,7 @@ export default class SearchResult extends Component {
     }
 
     renderItems = (items) => {
-       return items.map((item) => (<SearchResultItem item={item}/>))
+       return items.map((item) => (<SearchResultItem wasDeleted={this.props.wasDeleted} item={item}/>))
     }
 
     render() {

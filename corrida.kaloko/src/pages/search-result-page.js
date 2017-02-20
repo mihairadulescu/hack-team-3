@@ -14,19 +14,23 @@ export default class SearchResultPage extends Component {
     componentDidMount = () => {
         this.searchByParams(this.props.router.params.search_phrase);
 
-    }
+    };
 
     componentWillReceiveProps(nextProps){
         this.searchByParams(nextProps.router.params.search_phrase);
     }
     onSearch = (searchPhrase) => {
         this.props.router.push('/search/' + searchPhrase);
-    }
+    };
+
+    wasDeleted = () => {
+        this.searchByParams(this.props.router.params.search_phrase);
+    };
 
     render() {
         return (<div>
             <SearchBox defaultValue ={this.props.router.params.search_phrase} className="search-result-box" onSearch={this.onSearch}/>
-            <SearchResult items={this.state.items}/>
+            <SearchResult items={this.state.items} wasDeleted={this.wasDeleted}/>
         </div>)
     }
 

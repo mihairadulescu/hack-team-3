@@ -1,13 +1,20 @@
 import React, {Component} from 'react';
 import './search-result-item.css';
+import corrridaAPI from '../api/corridaAPI';
 
 export default class SearchResultItem extends Component {
     constructor(props) {
         super(props);
     }
 
+    onDelete = (id) => {
+        corrridaAPI.delete(id).then(() => {
+            this.props.wasDeleted();
+        });
+    };
+
     render() {
-        const {Title, Category, thumbnail, Snippet} = this.props.item;
+        const {Title, Category, thumbnail, Snippet, Id} = this.props.item;
         return (
             <div className="search-result-item">
                 <div className="search-thumb">
@@ -18,6 +25,7 @@ export default class SearchResultItem extends Component {
                     {Snippet}
                     <div dangerouslySetInnerHTML ={ {__html: Category} } ></div>
                     <h2>{Category}</h2>
+                    <button onClick={()=>{this.onDelete(Id)}}> Delete </button>
                 </div>
             </div>
         )

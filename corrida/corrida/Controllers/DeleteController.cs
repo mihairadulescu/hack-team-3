@@ -3,9 +3,11 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using corrida.solr;
+using System.Web.Http.Cors;
 
 namespace corrida.Controllers
 {
+    [EnableCors(origins: "*", headers: "*", methods: "*", exposedHeaders: "X-Custom-Header")]
     public class DeleteController : ApiController
     {
         [HttpGet]

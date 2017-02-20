@@ -9,9 +9,11 @@ using System.IO;
 using corrida.solr;
 using CsvHelper.Configuration;
 using System.Globalization;
+using System.Web.Http.Cors;
 
 namespace corrida.Controllers
 {
+    [EnableCors(origins: "*", headers: "*", methods: "*", exposedHeaders: "X-Custom-Header")]
     public class AssistentController : ApiController
     {
 
