@@ -24,6 +24,9 @@
             "queryPattern": "what invoices are missing"
           },
           {
+            "queryPattern": "what are my missing invoices"
+          },
+          {
             "queryPattern": "what invoices are missing this month"
           }
         ]

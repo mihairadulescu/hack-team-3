@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+require 'dry/monads'
 require 'dry-configurable'
 require 'dry-transaction'
 require 'assistant/container'
