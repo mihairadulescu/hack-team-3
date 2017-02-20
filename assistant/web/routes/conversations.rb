@@ -2,6 +2,28 @@
 
 module Assistant
   class Application
+    route 'v2' do |r|
+      r.on :conversations do
+        r.post do
+          r.resolve('transactions.conversation') do |conversation|
+            params = JSON.parse(r.body.read)
+
+            GoogleAssistant.respond_to(params, r.response) do |assistant|
+              conversation.call(assistant: assistant) do |matcher|
+                matcher.success do |value|
+                  assistant.intent.main { value[:main] }
+                  assistant.intent.text { value[:text] }
+                end
+                matcher.failure do
+                  # ignore
+                end
+              end
+            end
+          end
+        end
+      end
+    end
+
     route 'v1' do |r|
       r.on :conversations do
         r.post do
